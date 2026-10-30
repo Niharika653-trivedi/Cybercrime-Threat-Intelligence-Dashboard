@@ -60,4 +60,5 @@ The dataset is used to create Tableau visualizations and analyze cybercrime and 
 This project demonstrates the use of Tableau for analyzing cybercrime and threat intelligence data. The worksheets and dashboard present the data visually, making it easier to understand patterns and derive useful insights.
 
 ## Author
-Data Science Tools Lab Project
+Niharika Trivedi
+
