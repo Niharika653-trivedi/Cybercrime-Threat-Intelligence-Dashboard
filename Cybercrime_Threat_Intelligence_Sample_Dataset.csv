@@ -1,0 +1,1201 @@
+﻿Incident_ID,Country,Region,Year,Attack Type,Target Industry,Financial Loss (in Million $),Number of Affected Users,Attack Source,Security Vulnerability Type,Defense Mechanism Used,Incident Resolution Time (in Hours),Data_Status
+SYN-00001,Germany,Europe,2015,Business Email Compromise,Retail & E-commerce,542.6,347,Insider,Misconfiguration,Endpoint Detection & Response,16.5,Synthetic sample data
+SYN-00002,Australia,Oceania,2023,Malware,Telecommunications,36.4,953,Nation-State Suspected,Weak Passwords,Firewall,30.0,Synthetic sample data
+SYN-00003,South Korea,Asia,2023,Phishing,Technology,47.83,12121,Phishing Campaign,Third-Party Vulnerability,Patch Management,20.9,Synthetic sample data
+SYN-00004,Canada,North America,2019,Zero-Day Exploit,Retail & E-commerce,33.58,499,Phishing Campaign,Exposed Remote Access,Patch Management,52.8,Synthetic sample data
+SYN-00005,United Kingdom,Europe,2024,Data Breach,Energy,65.44,22129,Insider,Misconfiguration,Email Filtering,24.5,Synthetic sample data
+SYN-00006,India,Asia,2020,Malware,Healthcare,8.13,10224,Insider,Not Specified,Network Monitoring,10.4,Synthetic sample data
+SYN-00007,Indonesia,Asia,2023,Ransomware,Transportation,14.37,614,Unknown,Not Specified,Data Backup & Recovery,46.0,Synthetic sample data
+SYN-00008,Mexico,North America,2021,DDoS,Telecommunications,19.27,2887,Nation-State Suspected,Third-Party Vulnerability,Multi-Factor Authentication,12.5,Synthetic sample data
+SYN-00009,United States,North America,2019,Zero-Day Exploit,Government,67.79,3926,Phishing Campaign,Zero-Day Vulnerability,Incident Response Team,54.2,Synthetic sample data
+SYN-00010,United States,North America,2024,Ransomware,Banking & Finance,27.16,1537,Phishing Campaign,SQL Injection Flaw,Patch Management,114.0,Synthetic sample data
+SYN-00011,Indonesia,Asia,2017,Phishing,Telecommunications,32.91,740,Botnet,Zero-Day Vulnerability,Incident Response Team,22.7,Synthetic sample data
+SYN-00012,South Africa,Africa,2021,Zero-Day Exploit,Manufacturing,23.5,637,Automated Scanner,Third-Party Vulnerability,Email Filtering,19.0,Synthetic sample data
+SYN-00013,United Kingdom,Europe,2015,Ransomware,Banking & Finance,12.59,719,Third-Party Compromise,Unpatched Software,Incident Response Team,86.7,Synthetic sample data
+SYN-00014,Spain,Europe,2018,Business Email Compromise,Technology,49.76,390,Insider,Unpatched Software,Endpoint Detection & Response,19.6,Synthetic sample data
+SYN-00015,Singapore,Asia,2016,Ransomware,Retail & E-commerce,17.81,151,Automated Scanner,Misconfiguration,Data Backup & Recovery,29.3,Synthetic sample data
+SYN-00016,United Kingdom,Europe,2018,Phishing,Telecommunications,24.85,516,Automated Scanner,Social Engineering,Data Backup & Recovery,7.5,Synthetic sample data
+SYN-00017,Indonesia,Asia,2022,Phishing,Education,16.73,1664,Insider,Weak Passwords,Not Reported,11.9,Synthetic sample data
+SYN-00018,Italy,Europe,2017,Phishing,Energy,17.96,1366,Phishing Campaign,Misconfiguration,Endpoint Detection & Response,29.3,Synthetic sample data
+SYN-00019,Saudi Arabia,Asia,2015,Data Breach,Technology,58.18,1449,Third-Party Compromise,Zero-Day Vulnerability,Security Awareness Training,22.2,Synthetic sample data
+SYN-00020,United Kingdom,Europe,2015,Malware,Transportation,11.13,4168,Phishing Campaign,Unpatched Software,Incident Response Team,29.5,Synthetic sample data
+SYN-00021,Italy,Europe,2015,Data Breach,Energy,62.27,1430,Nation-State Suspected,Unpatched Software,Firewall,9.4,Synthetic sample data
+SYN-00022,France,Europe,2023,Malware,Banking & Finance,6.73,426,Phishing Campaign,Exposed Remote Access,Patch Management,27.7,Synthetic sample data
+SYN-00023,Germany,Europe,2016,Insider Threat,Government,28.65,343,Cybercriminal Group,SQL Injection Flaw,Not Reported,7.4,Synthetic sample data
+SYN-00024,Canada,North America,2016,Malware,Energy,56.62,474,Unknown,Not Specified,Firewall,28.1,Synthetic sample data
+SYN-00025,Canada,North America,2019,Phishing,Healthcare,0.81,2164,Unknown,Weak Passwords,Email Filtering,25.2,Synthetic sample data
+SYN-00026,United States,North America,2018,Malware,Education,32.58,4395,Phishing Campaign,Zero-Day Vulnerability,Network Monitoring,7.6,Synthetic sample data
+SYN-00027,Singapore,Asia,2021,Data Breach,Energy,30.28,15289,Phishing Campaign,Exposed Remote Access,Not Reported,9.1,Synthetic sample data
+SYN-00028,Singapore,Asia,2024,Ransomware,Healthcare,74.83,3087,Nation-State Suspected,Third-Party Vulnerability,Patch Management,10.0,Synthetic sample data
+SYN-00029,Mexico,North America,2017,Data Breach,Education,24.86,9497,Unknown,Third-Party Vulnerability,Multi-Factor Authentication,11.5,Synthetic sample data
+SYN-00030,Australia,Oceania,2023,Malware,Government,45.5,648,Phishing Campaign,Zero-Day Vulnerability,Incident Response Team,24.6,Synthetic sample data
+SYN-00031,India,Asia,2018,Zero-Day Exploit,Transportation,259.01,2614,Phishing Campaign,Privilege Escalation,Data Backup & Recovery,24.5,Synthetic sample data
+SYN-00032,United States,North America,2016,Business Email Compromise,Retail & E-commerce,11.67,4488,Botnet,Third-Party Vulnerability,Email Filtering,45.2,Synthetic sample data
+SYN-00033,Indonesia,Asia,2024,Ransomware,Telecommunications,46.14,359,Unknown,Third-Party Vulnerability,Email Filtering,51.9,Synthetic sample data
+SYN-00034,Canada,North America,2019,Malware,Education,11.1,551,Insider,Zero-Day Vulnerability,Network Monitoring,34.4,Synthetic sample data
+SYN-00035,United Kingdom,Europe,2021,Malware,Energy,9.13,8406,Automated Scanner,Exposed Remote Access,Multi-Factor Authentication,75.3,Synthetic sample data
+SYN-00036,Netherlands,Europe,2021,Malware,Manufacturing,27.84,1299,Nation-State Suspected,Exposed Remote Access,Data Backup & Recovery,16.0,Synthetic sample data
+SYN-00037,Mexico,North America,2017,Credential Theft,Government,18.27,1829,Cybercriminal Group,Exposed Remote Access,Not Reported,15.7,Synthetic sample data
+SYN-00038,Mexico,North America,2020,Phishing,Manufacturing,142.38,1448,Third-Party Compromise,Exposed Remote Access,Patch Management,35.4,Synthetic sample data
+SYN-00039,India,Asia,2015,Insider Threat,Retail & E-commerce,10.44,1225,Cybercriminal Group,Not Specified,Firewall,11.3,Synthetic sample data
+SYN-00040,Germany,Europe,2017,Zero-Day Exploit,Healthcare,29.18,1749,Cybercriminal Group,Zero-Day Vulnerability,Not Reported,31.8,Synthetic sample data
+SYN-00041,Netherlands,Europe,2015,Ransomware,Technology,37.39,1100,Third-Party Compromise,Unpatched Software,Incident Response Team,62.7,Synthetic sample data
+SYN-00042,Brazil,South America,2021,Phishing,Energy,26.23,10895,Nation-State Suspected,Not Specified,Incident Response Team,12.6,Synthetic sample data
+SYN-00043,United Kingdom,Europe,2019,SQL Injection,Retail & E-commerce,29.39,1318,Automated Scanner,Not Specified,Not Reported,16.1,Synthetic sample data
+SYN-00044,France,Europe,2020,Ransomware,Transportation,50.69,588,Nation-State Suspected,Third-Party Vulnerability,Multi-Factor Authentication,30.3,Synthetic sample data
+SYN-00045,Spain,Europe,2022,Malware,Banking & Finance,17.51,2187,Phishing Campaign,Zero-Day Vulnerability,Security Awareness Training,18.0,Synthetic sample data
+SYN-00046,Indonesia,Asia,2020,Malware,Telecommunications,4.14,345,Nation-State Suspected,Zero-Day Vulnerability,Patch Management,4.4,Synthetic sample data
+SYN-00047,France,Europe,2024,Zero-Day Exploit,Energy,31.46,373,Nation-State Suspected,Unpatched Software,Security Awareness Training,13.9,Synthetic sample data
+SYN-00048,Brazil,South America,2022,Phishing,Banking & Finance,9.59,1903,Nation-State Suspected,Privilege Escalation,Email Filtering,14.6,Synthetic sample data
+SYN-00049,India,Asia,2017,Phishing,Transportation,25.99,815,Nation-State Suspected,Unpatched Software,Security Awareness Training,14.9,Synthetic sample data
+SYN-00050,Netherlands,Europe,2021,Ransomware,Transportation,11.36,611,Cybercriminal Group,Not Specified,Endpoint Detection & Response,24.4,Synthetic sample data
+SYN-00051,South Africa,Africa,2015,Ransomware,Education,92.16,5561,Automated Scanner,Unpatched Software,Security Awareness Training,32.2,Synthetic sample data
+SYN-00052,France,Europe,2017,Phishing,Government,39.43,2214,Nation-State Suspected,Not Specified,Not Reported,14.2,Synthetic sample data
+SYN-00053,Indonesia,Asia,2022,Malware,Transportation,26.1,278,Cybercriminal Group,Exposed Remote Access,Network Monitoring,43.5,Synthetic sample data
+SYN-00054,United States,North America,2019,DDoS,Government,32.51,2081,Automated Scanner,Third-Party Vulnerability,Email Filtering,16.3,Synthetic sample data
+SYN-00055,United Arab Emirates,Asia,2021,Ransomware,Healthcare,78.04,1593,Botnet,SQL Injection Flaw,Data Backup & Recovery,20.6,Synthetic sample data
+SYN-00056,Mexico,North America,2023,Credential Theft,Banking & Finance,7.04,4875,Automated Scanner,Exposed Remote Access,Multi-Factor Authentication,23.7,Synthetic sample data
+SYN-00057,Indonesia,Asia,2017,Insider Threat,Telecommunications,14.38,1659,Automated Scanner,Unpatched Software,Multi-Factor Authentication,38.7,Synthetic sample data
+SYN-00058,Germany,Europe,2017,Malware,Education,25.08,6760,Nation-State Suspected,Exposed Remote Access,Email Filtering,5.0,Synthetic sample data
+SYN-00059,Nigeria,Africa,2020,Insider Threat,Energy,265.95,2087,Nation-State Suspected,Weak Passwords,Patch Management,34.3,Synthetic sample data
+SYN-00060,Spain,Europe,2020,Ransomware,Energy,23.67,4188,Unknown,Privilege Escalation,Network Monitoring,19.0,Synthetic sample data
+SYN-00061,Mexico,North America,2021,Zero-Day Exploit,Government,54.89,1056,Automated Scanner,Weak Passwords,Firewall,23.5,Synthetic sample data
+SYN-00062,Nigeria,Africa,2017,Phishing,Education,61.58,1730,Third-Party Compromise,Not Specified,Data Backup & Recovery,45.3,Synthetic sample data
+SYN-00063,Indonesia,Asia,2015,Data Breach,Retail & E-commerce,33.56,17475,Nation-State Suspected,Social Engineering,Endpoint Detection & Response,13.4,Synthetic sample data
+SYN-00064,United States,North America,2015,Ransomware,Banking & Finance,41.81,795,Nation-State Suspected,SQL Injection Flaw,Network Monitoring,18.1,Synthetic sample data
+SYN-00065,Saudi Arabia,Asia,2021,Data Breach,Retail & E-commerce,10.7,1917,Automated Scanner,Not Specified,Firewall,37.8,Synthetic sample data
+SYN-00066,South Africa,Africa,2023,Phishing,Telecommunications,16.45,958,Third-Party Compromise,Not Specified,Patch Management,16.0,Synthetic sample data
+SYN-00067,Netherlands,Europe,2020,DDoS,Education,25.13,2778,Cybercriminal Group,Exposed Remote Access,Patch Management,10.4,Synthetic sample data
+SYN-00068,Brazil,South America,2016,SQL Injection,Banking & Finance,31.69,447,Nation-State Suspected,Privilege Escalation,Multi-Factor Authentication,23.0,Synthetic sample data
+SYN-00069,Brazil,South America,2023,SQL Injection,Manufacturing,59.35,1255,Nation-State Suspected,Misconfiguration,Patch Management,23.7,Synthetic sample data
+SYN-00070,Mexico,North America,2023,Malware,Technology,7.82,2532,Cybercriminal Group,Zero-Day Vulnerability,Incident Response Team,11.4,Synthetic sample data
+SYN-00071,United Arab Emirates,Asia,2016,Data Breach,Telecommunications,17.86,5177,Cybercriminal Group,Not Specified,Incident Response Team,14.4,Synthetic sample data
+SYN-00072,Nigeria,Africa,2016,Phishing,Banking & Finance,3.46,8436,Nation-State Suspected,Privilege Escalation,Endpoint Detection & Response,38.7,Synthetic sample data
+SYN-00073,Brazil,South America,2021,Data Breach,Telecommunications,57.75,2103,Unknown,Zero-Day Vulnerability,Multi-Factor Authentication,3.7,Synthetic sample data
+SYN-00074,United Arab Emirates,Asia,2015,Malware,Retail & E-commerce,47.41,1615,Phishing Campaign,Privilege Escalation,Endpoint Detection & Response,25.1,Synthetic sample data
+SYN-00075,Brazil,South America,2024,Phishing,Energy,21.9,27930,Insider,Not Specified,Security Awareness Training,19.1,Synthetic sample data
+SYN-00076,Brazil,South America,2017,DDoS,Government,6.99,3506,Phishing Campaign,Weak Passwords,Firewall,27.7,Synthetic sample data
+SYN-00077,United Arab Emirates,Asia,2023,DDoS,Telecommunications,20.08,1770,Insider,Not Specified,Multi-Factor Authentication,15.0,Synthetic sample data
+SYN-00078,South Korea,Asia,2016,SQL Injection,Manufacturing,6.65,1533,Botnet,Unpatched Software,Firewall,14.4,Synthetic sample data
+SYN-00079,Germany,Europe,2016,Credential Theft,Energy,50.78,3742,Insider,Exposed Remote Access,Email Filtering,23.9,Synthetic sample data
+SYN-00080,Singapore,Asia,2019,Malware,Government,72.61,1943,Automated Scanner,Unpatched Software,Endpoint Detection & Response,13.2,Synthetic sample data
+SYN-00081,United Arab Emirates,Asia,2021,Credential Theft,Banking & Finance,8.92,276,Nation-State Suspected,Not Specified,Patch Management,11.6,Synthetic sample data
+SYN-00082,Indonesia,Asia,2020,Phishing,Education,18.76,5633,Insider,Exposed Remote Access,Incident Response Team,5.0,Synthetic sample data
+SYN-00083,South Africa,Africa,2020,Malware,Government,23.65,1207,Botnet,Not Specified,Data Backup & Recovery,12.1,Synthetic sample data
+SYN-00084,Netherlands,Europe,2024,Phishing,Banking & Finance,9.18,3404,Botnet,Misconfiguration,Not Reported,8.6,Synthetic sample data
+SYN-00085,United Arab Emirates,Asia,2021,Phishing,Transportation,2.99,2912,Automated Scanner,Third-Party Vulnerability,Patch Management,12.4,Synthetic sample data
+SYN-00086,Brazil,South America,2019,Ransomware,Healthcare,19.94,2890,Cybercriminal Group,Privilege Escalation,Data Backup & Recovery,34.1,Synthetic sample data
+SYN-00087,Nigeria,Africa,2019,Phishing,Banking & Finance,8.72,1517,Third-Party Compromise,Misconfiguration,Not Reported,7.5,Synthetic sample data
+SYN-00088,Mexico,North America,2023,Phishing,Education,18.26,4119,Third-Party Compromise,Social Engineering,Network Monitoring,3.6,Synthetic sample data
+SYN-00089,United Arab Emirates,Asia,2017,Ransomware,Government,101.8,1913,Nation-State Suspected,Social Engineering,Firewall,51.0,Synthetic sample data
+SYN-00090,Netherlands,Europe,2024,Malware,Transportation,17.9,4524,Third-Party Compromise,SQL Injection Flaw,Firewall,19.2,Synthetic sample data
+SYN-00091,United Kingdom,Europe,2019,Malware,Banking & Finance,105.91,1373,Cybercriminal Group,SQL Injection Flaw,Patch Management,22.0,Synthetic sample data
+SYN-00092,India,Asia,2022,SQL Injection,Transportation,18.11,4218,Insider,SQL Injection Flaw,Not Reported,26.6,Synthetic sample data
+SYN-00093,Japan,Asia,2015,Ransomware,Telecommunications,65.79,4853,Automated Scanner,Third-Party Vulnerability,Incident Response Team,72.5,Synthetic sample data
+SYN-00094,India,Asia,2020,Phishing,Healthcare,33.24,1134,Unknown,Zero-Day Vulnerability,Patch Management,8.9,Synthetic sample data
+SYN-00095,Mexico,North America,2017,DDoS,Healthcare,19.61,126,Nation-State Suspected,Third-Party Vulnerability,Data Backup & Recovery,24.2,Synthetic sample data
+SYN-00096,United States,North America,2020,Ransomware,Retail & E-commerce,28.4,359,Third-Party Compromise,Privilege Escalation,Security Awareness Training,39.3,Synthetic sample data
+SYN-00097,Mexico,North America,2017,Phishing,Transportation,6.78,988,Botnet,Privilege Escalation,Multi-Factor Authentication,6.3,Synthetic sample data
+SYN-00098,South Korea,Asia,2018,DDoS,Education,27.7,823,Automated Scanner,Social Engineering,Network Monitoring,30.7,Synthetic sample data
+SYN-00099,Nigeria,Africa,2017,Credential Theft,Transportation,111.69,1502,Botnet,Zero-Day Vulnerability,Multi-Factor Authentication,6.0,Synthetic sample data
+SYN-00100,France,Europe,2022,SQL Injection,Government,67.23,980,Unknown,Unpatched Software,Security Awareness Training,14.3,Synthetic sample data
+SYN-00101,Canada,North America,2015,Ransomware,Healthcare,36.99,3361,Third-Party Compromise,Misconfiguration,Firewall,109.6,Synthetic sample data
+SYN-00102,United States,North America,2019,Phishing,Government,6.51,614,Unknown,Unpatched Software,Patch Management,19.0,Synthetic sample data
+SYN-00103,Spain,Europe,2024,DDoS,Energy,9.92,578,Insider,Misconfiguration,Patch Management,20.1,Synthetic sample data
+SYN-00104,United Arab Emirates,Asia,2016,Insider Threat,Energy,6.82,519,Cybercriminal Group,Exposed Remote Access,Email Filtering,13.9,Synthetic sample data
+SYN-00105,Canada,North America,2016,Business Email Compromise,Manufacturing,49.81,1075,Botnet,Weak Passwords,Network Monitoring,35.8,Synthetic sample data
+SYN-00106,United Kingdom,Europe,2022,Phishing,Retail & E-commerce,6.87,851,Cybercriminal Group,Social Engineering,Multi-Factor Authentication,15.9,Synthetic sample data
+SYN-00107,Australia,Oceania,2019,Malware,Banking & Finance,54.14,956,Third-Party Compromise,Zero-Day Vulnerability,Endpoint Detection & Response,35.5,Synthetic sample data
+SYN-00108,Japan,Asia,2022,Data Breach,Manufacturing,6.18,9191,Nation-State Suspected,Unpatched Software,Data Backup & Recovery,13.2,Synthetic sample data
+SYN-00109,South Africa,Africa,2019,Malware,Technology,15.6,10063,Botnet,Privilege Escalation,Network Monitoring,13.4,Synthetic sample data
+SYN-00110,India,Asia,2016,Data Breach,Technology,88.49,5525,Third-Party Compromise,Third-Party Vulnerability,Firewall,12.2,Synthetic sample data
+SYN-00111,Saudi Arabia,Asia,2017,Data Breach,Manufacturing,49.83,1392,Third-Party Compromise,Privilege Escalation,Endpoint Detection & Response,12.0,Synthetic sample data
+SYN-00112,Japan,Asia,2022,DDoS,Energy,21.22,2670,Phishing Campaign,Zero-Day Vulnerability,Patch Management,4.6,Synthetic sample data
+SYN-00113,United Kingdom,Europe,2020,Data Breach,Healthcare,119.59,2456,Nation-State Suspected,Zero-Day Vulnerability,Firewall,11.2,Synthetic sample data
+SYN-00114,Spain,Europe,2015,Malware,Transportation,6.31,2937,Third-Party Compromise,Privilege Escalation,Incident Response Team,13.9,Synthetic sample data
+SYN-00115,Netherlands,Europe,2016,Phishing,Manufacturing,17.42,3328,Phishing Campaign,Privilege Escalation,Email Filtering,41.1,Synthetic sample data
+SYN-00116,India,Asia,2016,DDoS,Education,35.6,7748,Botnet,Misconfiguration,Network Monitoring,12.7,Synthetic sample data
+SYN-00117,Australia,Oceania,2023,Ransomware,Education,71.23,256,Phishing Campaign,Third-Party Vulnerability,Firewall,55.0,Synthetic sample data
+SYN-00118,Netherlands,Europe,2015,Credential Theft,Banking & Finance,9.78,1913,Phishing Campaign,Weak Passwords,Not Reported,19.0,Synthetic sample data
+SYN-00119,South Africa,Africa,2022,Ransomware,Technology,71.86,994,Nation-State Suspected,Privilege Escalation,Endpoint Detection & Response,22.7,Synthetic sample data
+SYN-00120,Singapore,Asia,2020,Zero-Day Exploit,Government,22.3,367,Third-Party Compromise,Third-Party Vulnerability,Incident Response Team,18.5,Synthetic sample data
+SYN-00121,Italy,Europe,2022,Malware,Education,101.89,999,Automated Scanner,Weak Passwords,Endpoint Detection & Response,15.7,Synthetic sample data
+SYN-00122,Spain,Europe,2019,DDoS,Healthcare,70.97,878,Unknown,Misconfiguration,Patch Management,18.1,Synthetic sample data
+SYN-00123,Indonesia,Asia,2019,Phishing,Energy,47.83,3066,Automated Scanner,Third-Party Vulnerability,Patch Management,8.0,Synthetic sample data
+SYN-00124,Singapore,Asia,2023,Insider Threat,Government,20.51,4417,Insider,Not Specified,Incident Response Team,11.8,Synthetic sample data
+SYN-00125,Saudi Arabia,Asia,2019,DDoS,Energy,13.01,936,Automated Scanner,Not Specified,Patch Management,14.4,Synthetic sample data
+SYN-00126,United States,North America,2024,Malware,Transportation,20.27,8534,Insider,Weak Passwords,Not Reported,7.8,Synthetic sample data
+SYN-00127,Canada,North America,2015,DDoS,Healthcare,9.33,2464,Insider,Weak Passwords,Email Filtering,10.1,Synthetic sample data
+SYN-00128,Spain,Europe,2023,Malware,Government,27.78,11768,Automated Scanner,Third-Party Vulnerability,Network Monitoring,26.1,Synthetic sample data
+SYN-00129,Spain,Europe,2018,Insider Threat,Education,118.35,2704,Nation-State Suspected,Social Engineering,Patch Management,15.6,Synthetic sample data
+SYN-00130,France,Europe,2019,Phishing,Energy,6.56,4473,Unknown,Exposed Remote Access,Network Monitoring,15.1,Synthetic sample data
+SYN-00131,Spain,Europe,2018,Phishing,Energy,2.15,2993,Nation-State Suspected,Third-Party Vulnerability,Patch Management,24.6,Synthetic sample data
+SYN-00132,Canada,North America,2015,Phishing,Manufacturing,37.62,2286,Automated Scanner,Unpatched Software,Firewall,35.2,Synthetic sample data
+SYN-00133,India,Asia,2016,Data Breach,Retail & E-commerce,84.32,1640,Cybercriminal Group,Misconfiguration,Data Backup & Recovery,18.1,Synthetic sample data
+SYN-00134,Brazil,South America,2023,Malware,Retail & E-commerce,67.14,866,Phishing Campaign,SQL Injection Flaw,Firewall,20.9,Synthetic sample data
+SYN-00135,Saudi Arabia,Asia,2021,Credential Theft,Energy,23.29,491,Third-Party Compromise,Unpatched Software,Data Backup & Recovery,11.2,Synthetic sample data
+SYN-00136,Canada,North America,2022,Business Email Compromise,Manufacturing,46.41,473,Nation-State Suspected,Not Specified,Not Reported,13.3,Synthetic sample data
+SYN-00137,South Africa,Africa,2016,Data Breach,Education,21.82,3392,Third-Party Compromise,Not Specified,Security Awareness Training,18.2,Synthetic sample data
+SYN-00138,Indonesia,Asia,2018,Business Email Compromise,Transportation,35.19,398,Phishing Campaign,Third-Party Vulnerability,Email Filtering,13.4,Synthetic sample data
+SYN-00139,Netherlands,Europe,2022,Phishing,Energy,3.69,3168,Automated Scanner,Weak Passwords,Email Filtering,21.7,Synthetic sample data
+SYN-00140,United States,North America,2021,Ransomware,Banking & Finance,14.88,636,Insider,Not Specified,Endpoint Detection & Response,37.0,Synthetic sample data
+SYN-00141,Mexico,North America,2022,Credential Theft,Technology,13.22,1044,Unknown,Unpatched Software,Incident Response Team,14.3,Synthetic sample data
+SYN-00142,Canada,North America,2018,Malware,Government,478.89,3522,Nation-State Suspected,Social Engineering,Endpoint Detection & Response,5.0,Synthetic sample data
+SYN-00143,South Korea,Asia,2024,Data Breach,Banking & Finance,30.31,20567,Insider,Weak Passwords,Data Backup & Recovery,20.1,Synthetic sample data
+SYN-00144,Singapore,Asia,2018,Ransomware,Government,20.5,2574,Insider,Exposed Remote Access,Patch Management,9.1,Synthetic sample data
+SYN-00145,Indonesia,Asia,2022,Phishing,Manufacturing,19.21,1517,Unknown,Third-Party Vulnerability,Network Monitoring,17.4,Synthetic sample data
+SYN-00146,Canada,North America,2019,Credential Theft,Government,12.62,1469,Automated Scanner,Weak Passwords,Incident Response Team,10.9,Synthetic sample data
+SYN-00147,United Kingdom,Europe,2022,Credential Theft,Healthcare,9.57,5399,Insider,Weak Passwords,Patch Management,21.0,Synthetic sample data
+SYN-00148,Australia,Oceania,2020,Ransomware,Banking & Finance,274.33,2533,Insider,Social Engineering,Endpoint Detection & Response,18.2,Synthetic sample data
+SYN-00149,South Africa,Africa,2021,Malware,Manufacturing,22.72,935,Nation-State Suspected,Zero-Day Vulnerability,Network Monitoring,34.3,Synthetic sample data
+SYN-00150,Nigeria,Africa,2015,DDoS,Retail & E-commerce,16.93,2414,Botnet,Weak Passwords,Patch Management,10.6,Synthetic sample data
+SYN-00151,Netherlands,Europe,2018,Malware,Manufacturing,16.91,968,Nation-State Suspected,Privilege Escalation,Email Filtering,17.5,Synthetic sample data
+SYN-00152,Indonesia,Asia,2015,DDoS,Healthcare,2.52,504,Cybercriminal Group,Weak Passwords,Data Backup & Recovery,17.5,Synthetic sample data
+SYN-00153,United States,North America,2023,Business Email Compromise,Energy,169.53,589,Nation-State Suspected,Weak Passwords,Incident Response Team,19.3,Synthetic sample data
+SYN-00154,France,Europe,2021,Phishing,Technology,86.63,18657,Automated Scanner,Not Specified,Security Awareness Training,22.6,Synthetic sample data
+SYN-00155,Mexico,North America,2021,DDoS,Banking & Finance,13.59,4610,Cybercriminal Group,Misconfiguration,Endpoint Detection & Response,17.0,Synthetic sample data
+SYN-00156,Australia,Oceania,2024,Malware,Banking & Finance,24.34,4360,Phishing Campaign,Zero-Day Vulnerability,Incident Response Team,43.8,Synthetic sample data
+SYN-00157,Mexico,North America,2016,Ransomware,Transportation,94.77,576,Insider,Not Specified,Data Backup & Recovery,79.3,Synthetic sample data
+SYN-00158,United Kingdom,Europe,2023,Business Email Compromise,Manufacturing,19.84,2239,Cybercriminal Group,Unpatched Software,Data Backup & Recovery,9.7,Synthetic sample data
+SYN-00159,South Korea,Asia,2022,Ransomware,Energy,121.37,172,Unknown,Exposed Remote Access,Firewall,89.0,Synthetic sample data
+SYN-00160,United Kingdom,Europe,2019,Phishing,Government,6.5,1461,Unknown,SQL Injection Flaw,Network Monitoring,8.7,Synthetic sample data
+SYN-00161,Indonesia,Asia,2023,Malware,Banking & Finance,3.83,781,Phishing Campaign,SQL Injection Flaw,Incident Response Team,11.3,Synthetic sample data
+SYN-00162,United Kingdom,Europe,2023,SQL Injection,Retail & E-commerce,7.84,1321,Botnet,Exposed Remote Access,Firewall,14.5,Synthetic sample data
+SYN-00163,Spain,Europe,2016,Malware,Retail & E-commerce,12.12,581,Automated Scanner,Not Specified,Not Reported,27.3,Synthetic sample data
+SYN-00164,Singapore,Asia,2021,Credential Theft,Transportation,29.16,1276,Botnet,Zero-Day Vulnerability,Network Monitoring,13.9,Synthetic sample data
+SYN-00165,Spain,Europe,2024,Business Email Compromise,Manufacturing,3.07,3857,Unknown,Zero-Day Vulnerability,Data Backup & Recovery,45.0,Synthetic sample data
+SYN-00166,Brazil,South America,2019,Ransomware,Government,39.37,1869,Unknown,Exposed Remote Access,Endpoint Detection & Response,25.4,Synthetic sample data
+SYN-00167,United Arab Emirates,Asia,2023,DDoS,Healthcare,3.1,1874,Phishing Campaign,Social Engineering,Network Monitoring,6.5,Synthetic sample data
+SYN-00168,Germany,Europe,2015,Phishing,Retail & E-commerce,4.79,3369,Insider,Privilege Escalation,Network Monitoring,13.8,Synthetic sample data
+SYN-00169,Germany,Europe,2019,Malware,Healthcare,12.02,459,Phishing Campaign,Misconfiguration,Network Monitoring,15.7,Synthetic sample data
+SYN-00170,South Korea,Asia,2020,Phishing,Banking & Finance,23.87,1342,Phishing Campaign,Weak Passwords,Network Monitoring,7.0,Synthetic sample data
+SYN-00171,South Korea,Asia,2018,Credential Theft,Government,4.57,658,Botnet,Exposed Remote Access,Data Backup & Recovery,4.4,Synthetic sample data
+SYN-00172,United Kingdom,Europe,2024,Phishing,Energy,6.05,4531,Botnet,SQL Injection Flaw,Network Monitoring,35.0,Synthetic sample data
+SYN-00173,Mexico,North America,2024,Malware,Healthcare,64.1,2329,Third-Party Compromise,SQL Injection Flaw,Email Filtering,18.9,Synthetic sample data
+SYN-00174,Brazil,South America,2020,Phishing,Education,21.43,2015,Phishing Campaign,Misconfiguration,Network Monitoring,14.0,Synthetic sample data
+SYN-00175,Indonesia,Asia,2017,DDoS,Telecommunications,7.61,359,Nation-State Suspected,Misconfiguration,Firewall,16.6,Synthetic sample data
+SYN-00176,Spain,Europe,2021,Data Breach,Telecommunications,65.94,1161,Automated Scanner,Misconfiguration,Endpoint Detection & Response,33.8,Synthetic sample data
+SYN-00177,Spain,Europe,2023,DDoS,Transportation,32.64,3330,Phishing Campaign,Zero-Day Vulnerability,Incident Response Team,72.3,Synthetic sample data
+SYN-00178,South Africa,Africa,2015,Malware,Manufacturing,40.41,5557,Phishing Campaign,Privilege Escalation,Endpoint Detection & Response,9.2,Synthetic sample data
+SYN-00179,Nigeria,Africa,2017,Data Breach,Retail & E-commerce,26.66,2686,Insider,Weak Passwords,Not Reported,22.7,Synthetic sample data
+SYN-00180,France,Europe,2023,Zero-Day Exploit,Healthcare,12.28,18011,Botnet,Exposed Remote Access,Multi-Factor Authentication,41.1,Synthetic sample data
+SYN-00181,Netherlands,Europe,2019,Data Breach,Technology,19.55,48179,Automated Scanner,Unpatched Software,Endpoint Detection & Response,14.9,Synthetic sample data
+SYN-00182,Netherlands,Europe,2015,Credential Theft,Healthcare,37.86,1319,Automated Scanner,SQL Injection Flaw,Endpoint Detection & Response,9.6,Synthetic sample data
+SYN-00183,Brazil,South America,2024,Credential Theft,Manufacturing,61.4,408,Cybercriminal Group,Weak Passwords,Endpoint Detection & Response,42.9,Synthetic sample data
+SYN-00184,Brazil,South America,2019,Phishing,Education,14.24,5726,Phishing Campaign,SQL Injection Flaw,Patch Management,27.1,Synthetic sample data
+SYN-00185,United Kingdom,Europe,2016,Phishing,Telecommunications,2.51,2036,Phishing Campaign,Misconfiguration,Not Reported,7.6,Synthetic sample data
+SYN-00186,Germany,Europe,2016,Ransomware,Education,103.82,207,Botnet,Exposed Remote Access,Firewall,32.4,Synthetic sample data
+SYN-00187,United Arab Emirates,Asia,2018,Data Breach,Government,48.84,8630,Unknown,Not Specified,Email Filtering,9.4,Synthetic sample data
+SYN-00188,United Kingdom,Europe,2018,DDoS,Transportation,3.76,509,Nation-State Suspected,Weak Passwords,Patch Management,34.9,Synthetic sample data
+SYN-00189,Canada,North America,2022,Malware,Retail & E-commerce,191.56,1641,Automated Scanner,Not Specified,Endpoint Detection & Response,38.9,Synthetic sample data
+SYN-00190,United Kingdom,Europe,2015,DDoS,Banking & Finance,10.63,7501,Nation-State Suspected,Social Engineering,Multi-Factor Authentication,14.3,Synthetic sample data
+SYN-00191,Indonesia,Asia,2023,Data Breach,Education,38.99,8448,Phishing Campaign,Zero-Day Vulnerability,Endpoint Detection & Response,11.8,Synthetic sample data
+SYN-00192,United Kingdom,Europe,2019,Data Breach,Retail & E-commerce,46.66,6028,Cybercriminal Group,Social Engineering,Endpoint Detection & Response,16.3,Synthetic sample data
+SYN-00193,Italy,Europe,2019,Phishing,Government,6.62,2562,Nation-State Suspected,Unpatched Software,Multi-Factor Authentication,16.3,Synthetic sample data
+SYN-00194,India,Asia,2022,Credential Theft,Government,22.86,348,Third-Party Compromise,Misconfiguration,Patch Management,29.1,Synthetic sample data
+SYN-00195,India,Asia,2023,Credential Theft,Technology,9.76,838,Insider,SQL Injection Flaw,Security Awareness Training,12.4,Synthetic sample data
+SYN-00196,India,Asia,2017,Ransomware,Energy,96.65,318,Cybercriminal Group,Exposed Remote Access,Endpoint Detection & Response,22.7,Synthetic sample data
+SYN-00197,South Africa,Africa,2024,Ransomware,Manufacturing,88.44,276,Automated Scanner,Social Engineering,Incident Response Team,17.7,Synthetic sample data
+SYN-00198,United States,North America,2020,Phishing,Technology,11.63,2372,Nation-State Suspected,Unpatched Software,Security Awareness Training,41.4,Synthetic sample data
+SYN-00199,United Arab Emirates,Asia,2022,Zero-Day Exploit,Healthcare,80.19,1611,Phishing Campaign,Third-Party Vulnerability,Firewall,34.4,Synthetic sample data
+SYN-00200,South Africa,Africa,2019,Credential Theft,Technology,10.69,104,Third-Party Compromise,SQL Injection Flaw,Email Filtering,18.4,Synthetic sample data
+SYN-00201,Japan,Asia,2022,Malware,Technology,13.9,571,Phishing Campaign,Third-Party Vulnerability,Network Monitoring,54.3,Synthetic sample data
+SYN-00202,Saudi Arabia,Asia,2015,Phishing,Manufacturing,41.15,716,Botnet,Unpatched Software,Security Awareness Training,25.3,Synthetic sample data
+SYN-00203,Mexico,North America,2022,DDoS,Energy,25.26,517,Insider,Unpatched Software,Email Filtering,5.4,Synthetic sample data
+SYN-00204,United Kingdom,Europe,2015,Zero-Day Exploit,Retail & E-commerce,40.2,1226,Automated Scanner,Misconfiguration,Endpoint Detection & Response,44.4,Synthetic sample data
+SYN-00205,Mexico,North America,2022,Phishing,Technology,28.57,2139,Botnet,SQL Injection Flaw,Security Awareness Training,22.9,Synthetic sample data
+SYN-00206,South Africa,Africa,2022,Malware,Energy,14.03,1528,Automated Scanner,Weak Passwords,Endpoint Detection & Response,11.6,Synthetic sample data
+SYN-00207,Spain,Europe,2020,SQL Injection,Energy,8.49,2005,Third-Party Compromise,Exposed Remote Access,Patch Management,27.5,Synthetic sample data
+SYN-00208,Japan,Asia,2017,Ransomware,Manufacturing,83.83,1554,Third-Party Compromise,Not Specified,Multi-Factor Authentication,29.6,Synthetic sample data
+SYN-00209,India,Asia,2016,Phishing,Transportation,10.28,7336,Insider,Weak Passwords,Incident Response Team,13.3,Synthetic sample data
+SYN-00210,Singapore,Asia,2015,Phishing,Transportation,8.91,1563,Botnet,Unpatched Software,Incident Response Team,20.1,Synthetic sample data
+SYN-00211,Indonesia,Asia,2024,Business Email Compromise,Retail & E-commerce,57.62,3269,Botnet,Exposed Remote Access,Patch Management,18.0,Synthetic sample data
+SYN-00212,Singapore,Asia,2024,Ransomware,Transportation,35.74,875,Phishing Campaign,Privilege Escalation,Firewall,82.9,Synthetic sample data
+SYN-00213,Singapore,Asia,2022,Phishing,Retail & E-commerce,6.81,520,Insider,Unpatched Software,Network Monitoring,38.3,Synthetic sample data
+SYN-00214,Mexico,North America,2020,DDoS,Healthcare,31.52,557,Automated Scanner,Not Specified,Security Awareness Training,27.5,Synthetic sample data
+SYN-00215,United Kingdom,Europe,2020,DDoS,Transportation,30.04,519,Automated Scanner,Weak Passwords,Data Backup & Recovery,5.3,Synthetic sample data
+SYN-00216,Indonesia,Asia,2019,Data Breach,Education,25.31,2367,Insider,Unpatched Software,Multi-Factor Authentication,43.1,Synthetic sample data
+SYN-00217,Spain,Europe,2018,Phishing,Retail & E-commerce,10.33,6660,Botnet,Zero-Day Vulnerability,Endpoint Detection & Response,29.9,Synthetic sample data
+SYN-00218,Indonesia,Asia,2021,Phishing,Technology,2.7,155,Third-Party Compromise,Misconfiguration,Email Filtering,17.9,Synthetic sample data
+SYN-00219,Germany,Europe,2016,Data Breach,Energy,67.81,6777,Unknown,Not Specified,Security Awareness Training,22.1,Synthetic sample data
+SYN-00220,Spain,Europe,2024,SQL Injection,Telecommunications,19.73,7771,Nation-State Suspected,Unpatched Software,Data Backup & Recovery,19.2,Synthetic sample data
+SYN-00221,South Korea,Asia,2017,Insider Threat,Government,36.27,2736,Insider,Social Engineering,Firewall,19.2,Synthetic sample data
+SYN-00222,United Kingdom,Europe,2016,Malware,Technology,12.33,5622,Third-Party Compromise,Zero-Day Vulnerability,Incident Response Team,17.2,Synthetic sample data
+SYN-00223,Nigeria,Africa,2017,Phishing,Transportation,101.96,6354,Phishing Campaign,Unpatched Software,Not Reported,24.6,Synthetic sample data
+SYN-00224,Spain,Europe,2015,Phishing,Technology,18.26,474,Botnet,Not Specified,Not Reported,20.6,Synthetic sample data
+SYN-00225,Spain,Europe,2019,SQL Injection,Banking & Finance,9.07,2019,Third-Party Compromise,Zero-Day Vulnerability,Patch Management,26.4,Synthetic sample data
+SYN-00226,South Korea,Asia,2020,Ransomware,Technology,272.88,1386,Phishing Campaign,Social Engineering,Email Filtering,18.2,Synthetic sample data
+SYN-00227,Brazil,South America,2023,SQL Injection,Banking & Finance,41.11,491,Botnet,Social Engineering,Security Awareness Training,22.5,Synthetic sample data
+SYN-00228,South Korea,Asia,2023,Malware,Healthcare,21.0,7002,Cybercriminal Group,Social Engineering,Network Monitoring,17.9,Synthetic sample data
+SYN-00229,France,Europe,2016,Ransomware,Technology,90.14,679,Cybercriminal Group,Misconfiguration,Not Reported,10.9,Synthetic sample data
+SYN-00230,Italy,Europe,2015,Credential Theft,Banking & Finance,19.43,121,Automated Scanner,Misconfiguration,Firewall,21.7,Synthetic sample data
+SYN-00231,Mexico,North America,2020,Malware,Retail & E-commerce,54.73,288,Automated Scanner,Zero-Day Vulnerability,Incident Response Team,52.2,Synthetic sample data
+SYN-00232,United Arab Emirates,Asia,2023,Data Breach,Transportation,36.3,1290,Nation-State Suspected,Zero-Day Vulnerability,Endpoint Detection & Response,8.0,Synthetic sample data
+SYN-00233,South Africa,Africa,2018,Phishing,Retail & E-commerce,25.76,8099,Cybercriminal Group,Not Specified,Data Backup & Recovery,14.2,Synthetic sample data
+SYN-00234,India,Asia,2024,Data Breach,Transportation,92.09,1114,Insider,SQL Injection Flaw,Security Awareness Training,13.1,Synthetic sample data
+SYN-00235,Japan,Asia,2023,Phishing,Healthcare,26.11,21373,Automated Scanner,Misconfiguration,Patch Management,11.0,Synthetic sample data
+SYN-00236,South Africa,Africa,2021,Business Email Compromise,Manufacturing,3.04,883,Third-Party Compromise,Zero-Day Vulnerability,Not Reported,87.6,Synthetic sample data
+SYN-00237,United Kingdom,Europe,2022,SQL Injection,Energy,13.2,2907,Phishing Campaign,Exposed Remote Access,Incident Response Team,9.3,Synthetic sample data
+SYN-00238,Netherlands,Europe,2022,Phishing,Government,14.29,402,Phishing Campaign,Privilege Escalation,Network Monitoring,15.7,Synthetic sample data
+SYN-00239,United Kingdom,Europe,2017,Data Breach,Technology,30.91,975,Unknown,Exposed Remote Access,Email Filtering,7.4,Synthetic sample data
+SYN-00240,Italy,Europe,2018,Phishing,Banking & Finance,7.59,2432,Insider,Social Engineering,Network Monitoring,41.2,Synthetic sample data
+SYN-00241,Italy,Europe,2024,DDoS,Technology,10.09,1057,Botnet,SQL Injection Flaw,Email Filtering,22.0,Synthetic sample data
+SYN-00242,United States,North America,2024,DDoS,Healthcare,32.38,1434,Third-Party Compromise,Weak Passwords,Data Backup & Recovery,19.6,Synthetic sample data
+SYN-00243,Germany,Europe,2021,Malware,Healthcare,4.36,270,Nation-State Suspected,Privilege Escalation,Firewall,6.5,Synthetic sample data
+SYN-00244,Saudi Arabia,Asia,2024,Data Breach,Technology,16.38,1117,Phishing Campaign,Third-Party Vulnerability,Not Reported,17.0,Synthetic sample data
+SYN-00245,Nigeria,Africa,2019,Phishing,Energy,61.8,2611,Automated Scanner,Social Engineering,Email Filtering,9.0,Synthetic sample data
+SYN-00246,Canada,North America,2022,Zero-Day Exploit,Education,23.66,393,Nation-State Suspected,Privilege Escalation,Multi-Factor Authentication,45.6,Synthetic sample data
+SYN-00247,Germany,Europe,2016,Credential Theft,Banking & Finance,1.0,4331,Cybercriminal Group,Misconfiguration,Firewall,24.9,Synthetic sample data
+SYN-00248,Singapore,Asia,2017,Phishing,Technology,20.3,659,Automated Scanner,Zero-Day Vulnerability,Data Backup & Recovery,10.7,Synthetic sample data
+SYN-00249,India,Asia,2017,Phishing,Transportation,4.5,1831,Automated Scanner,Not Specified,Email Filtering,58.8,Synthetic sample data
+SYN-00250,Brazil,South America,2022,Insider Threat,Healthcare,28.88,2308,Unknown,Privilege Escalation,Multi-Factor Authentication,17.6,Synthetic sample data
+SYN-00251,Saudi Arabia,Asia,2016,Malware,Retail & E-commerce,123.6,1366,Automated Scanner,SQL Injection Flaw,Data Backup & Recovery,16.4,Synthetic sample data
+SYN-00252,Spain,Europe,2020,Ransomware,Education,56.25,1046,Cybercriminal Group,Third-Party Vulnerability,Security Awareness Training,11.2,Synthetic sample data
+SYN-00253,Singapore,Asia,2016,Zero-Day Exploit,Banking & Finance,9.3,7201,Phishing Campaign,Exposed Remote Access,Data Backup & Recovery,38.4,Synthetic sample data
+SYN-00254,Singapore,Asia,2020,Credential Theft,Retail & E-commerce,51.34,2545,Automated Scanner,SQL Injection Flaw,Incident Response Team,15.5,Synthetic sample data
+SYN-00255,Canada,North America,2015,Ransomware,Education,187.12,14167,Third-Party Compromise,Unpatched Software,Multi-Factor Authentication,24.4,Synthetic sample data
+SYN-00256,Australia,Oceania,2018,Phishing,Technology,16.5,267,Insider,Privilege Escalation,Security Awareness Training,41.1,Synthetic sample data
+SYN-00257,South Korea,Asia,2022,Data Breach,Energy,40.2,2258,Botnet,Privilege Escalation,Multi-Factor Authentication,29.1,Synthetic sample data
+SYN-00258,Netherlands,Europe,2017,Business Email Compromise,Government,42.67,4619,Phishing Campaign,Exposed Remote Access,Not Reported,24.4,Synthetic sample data
+SYN-00259,Canada,North America,2019,Malware,Manufacturing,4.56,5974,Nation-State Suspected,Privilege Escalation,Firewall,38.3,Synthetic sample data
+SYN-00260,Singapore,Asia,2023,Data Breach,Retail & E-commerce,4.32,3006,Insider,Not Specified,Patch Management,43.8,Synthetic sample data
+SYN-00261,Indonesia,Asia,2022,DDoS,Technology,14.15,175,Nation-State Suspected,Exposed Remote Access,Multi-Factor Authentication,4.3,Synthetic sample data
+SYN-00262,Japan,Asia,2019,Data Breach,Government,69.36,2805,Cybercriminal Group,Zero-Day Vulnerability,Security Awareness Training,79.5,Synthetic sample data
+SYN-00263,South Africa,Africa,2015,Insider Threat,Technology,74.25,325,Unknown,SQL Injection Flaw,Incident Response Team,23.8,Synthetic sample data
+SYN-00264,Netherlands,Europe,2023,Business Email Compromise,Retail & E-commerce,5.7,655,Insider,Zero-Day Vulnerability,Email Filtering,16.9,Synthetic sample data
+SYN-00265,Nigeria,Africa,2019,DDoS,Government,84.23,5315,Botnet,Not Specified,Patch Management,28.4,Synthetic sample data
+SYN-00266,Netherlands,Europe,2023,Malware,Manufacturing,4.87,950,Insider,Misconfiguration,Incident Response Team,9.2,Synthetic sample data
+SYN-00267,Australia,Oceania,2020,Ransomware,Education,44.35,5201,Insider,Not Specified,Incident Response Team,14.5,Synthetic sample data
+SYN-00268,Canada,North America,2024,SQL Injection,Retail & E-commerce,12.43,3542,Cybercriminal Group,SQL Injection Flaw,Data Backup & Recovery,30.2,Synthetic sample data
+SYN-00269,India,Asia,2019,SQL Injection,Retail & E-commerce,103.55,5539,Third-Party Compromise,Third-Party Vulnerability,Endpoint Detection & Response,33.3,Synthetic sample data
+SYN-00270,Germany,Europe,2018,DDoS,Technology,12.24,4704,Phishing Campaign,Misconfiguration,Multi-Factor Authentication,18.3,Synthetic sample data
+SYN-00271,France,Europe,2021,Malware,Technology,17.54,780,Unknown,SQL Injection Flaw,Multi-Factor Authentication,7.8,Synthetic sample data
+SYN-00272,Saudi Arabia,Asia,2016,Ransomware,Telecommunications,44.47,434,Unknown,Exposed Remote Access,Multi-Factor Authentication,58.0,Synthetic sample data
+SYN-00273,Brazil,South America,2019,Data Breach,Manufacturing,46.76,2659,Cybercriminal Group,Third-Party Vulnerability,Incident Response Team,4.7,Synthetic sample data
+SYN-00274,United Arab Emirates,Asia,2018,Malware,Energy,11.46,1528,Botnet,Misconfiguration,Firewall,26.9,Synthetic sample data
+SYN-00275,Singapore,Asia,2020,Phishing,Retail & E-commerce,4.35,2317,Phishing Campaign,Zero-Day Vulnerability,Not Reported,29.4,Synthetic sample data
+SYN-00276,Brazil,South America,2024,DDoS,Manufacturing,3.05,4084,Unknown,Misconfiguration,Multi-Factor Authentication,11.1,Synthetic sample data
+SYN-00277,Singapore,Asia,2022,Malware,Manufacturing,3.27,447,Nation-State Suspected,Privilege Escalation,Incident Response Team,4.6,Synthetic sample data
+SYN-00278,United Kingdom,Europe,2016,SQL Injection,Energy,12.79,7404,Cybercriminal Group,Not Specified,Not Reported,14.3,Synthetic sample data
+SYN-00279,United Arab Emirates,Asia,2021,Ransomware,Transportation,49.03,2355,Nation-State Suspected,Misconfiguration,Email Filtering,11.6,Synthetic sample data
+SYN-00280,Netherlands,Europe,2017,Business Email Compromise,Telecommunications,58.49,749,Third-Party Compromise,Weak Passwords,Security Awareness Training,24.3,Synthetic sample data
+SYN-00281,United Arab Emirates,Asia,2021,Malware,Telecommunications,29.81,3957,Cybercriminal Group,Weak Passwords,Network Monitoring,18.6,Synthetic sample data
+SYN-00282,Mexico,North America,2020,DDoS,Healthcare,14.19,5178,Nation-State Suspected,Exposed Remote Access,Security Awareness Training,15.6,Synthetic sample data
+SYN-00283,Italy,Europe,2017,Malware,Retail & E-commerce,11.83,533,Phishing Campaign,Third-Party Vulnerability,Patch Management,9.5,Synthetic sample data
+SYN-00284,Singapore,Asia,2016,Malware,Telecommunications,25.27,1727,Automated Scanner,Social Engineering,Not Reported,17.9,Synthetic sample data
+SYN-00285,France,Europe,2017,DDoS,Technology,3.95,1207,Cybercriminal Group,Zero-Day Vulnerability,Endpoint Detection & Response,9.7,Synthetic sample data
+SYN-00286,Brazil,South America,2024,Credential Theft,Government,98.26,361,Nation-State Suspected,Misconfiguration,Network Monitoring,21.7,Synthetic sample data
+SYN-00287,Nigeria,Africa,2017,Data Breach,Government,38.3,2319,Automated Scanner,Not Specified,Not Reported,32.1,Synthetic sample data
+SYN-00288,Nigeria,Africa,2023,Malware,Banking & Finance,48.53,2565,Unknown,Social Engineering,Email Filtering,43.0,Synthetic sample data
+SYN-00289,Germany,Europe,2021,Phishing,Telecommunications,15.73,2634,Insider,Unpatched Software,Patch Management,13.8,Synthetic sample data
+SYN-00290,Singapore,Asia,2021,Malware,Government,9.0,1834,Unknown,Not Specified,Patch Management,40.9,Synthetic sample data
+SYN-00291,Australia,Oceania,2021,DDoS,Energy,16.54,3164,Automated Scanner,Misconfiguration,Network Monitoring,9.5,Synthetic sample data
+SYN-00292,Japan,Asia,2016,Phishing,Technology,34.44,2116,Third-Party Compromise,Third-Party Vulnerability,Not Reported,11.7,Synthetic sample data
+SYN-00293,India,Asia,2021,Insider Threat,Technology,37.57,259,Nation-State Suspected,Not Specified,Multi-Factor Authentication,26.4,Synthetic sample data
+SYN-00294,India,Asia,2024,DDoS,Retail & E-commerce,28.54,830,Botnet,Weak Passwords,Network Monitoring,17.7,Synthetic sample data
+SYN-00295,United Kingdom,Europe,2016,DDoS,Energy,11.93,1375,Third-Party Compromise,SQL Injection Flaw,Patch Management,16.5,Synthetic sample data
+SYN-00296,Germany,Europe,2023,Insider Threat,Energy,39.19,1159,Nation-State Suspected,Privilege Escalation,Data Backup & Recovery,18.2,Synthetic sample data
+SYN-00297,Germany,Europe,2019,Phishing,Retail & E-commerce,54.72,1427,Insider,SQL Injection Flaw,Data Backup & Recovery,48.5,Synthetic sample data
+SYN-00298,United Kingdom,Europe,2023,Insider Threat,Telecommunications,61.73,6273,Third-Party Compromise,SQL Injection Flaw,Security Awareness Training,4.6,Synthetic sample data
+SYN-00299,France,Europe,2018,Ransomware,Retail & E-commerce,228.51,939,Third-Party Compromise,Misconfiguration,Endpoint Detection & Response,31.3,Synthetic sample data
+SYN-00300,Japan,Asia,2023,Ransomware,Retail & E-commerce,130.91,1563,Botnet,Weak Passwords,Incident Response Team,19.2,Synthetic sample data
+SYN-00301,Japan,Asia,2022,Zero-Day Exploit,Energy,66.8,1785,Automated Scanner,SQL Injection Flaw,Multi-Factor Authentication,30.0,Synthetic sample data
+SYN-00302,Spain,Europe,2024,Ransomware,Government,27.95,875,Automated Scanner,Exposed Remote Access,Security Awareness Training,24.6,Synthetic sample data
+SYN-00303,Netherlands,Europe,2018,Credential Theft,Education,34.89,11678,Insider,Third-Party Vulnerability,Data Backup & Recovery,16.0,Synthetic sample data
+SYN-00304,Nigeria,Africa,2022,Phishing,Energy,5.21,135,Third-Party Compromise,Privilege Escalation,Patch Management,10.8,Synthetic sample data
+SYN-00305,Indonesia,Asia,2019,Ransomware,Technology,14.48,1883,Phishing Campaign,SQL Injection Flaw,Not Reported,45.4,Synthetic sample data
+SYN-00306,Italy,Europe,2022,Business Email Compromise,Telecommunications,12.07,598,Phishing Campaign,Exposed Remote Access,Not Reported,27.6,Synthetic sample data
+SYN-00307,Saudi Arabia,Asia,2024,Malware,Healthcare,10.99,782,Phishing Campaign,Misconfiguration,Network Monitoring,20.5,Synthetic sample data
+SYN-00308,South Korea,Asia,2020,Business Email Compromise,Energy,103.65,6519,Automated Scanner,Exposed Remote Access,Firewall,6.8,Synthetic sample data
+SYN-00309,United Kingdom,Europe,2016,Ransomware,Government,8.34,1184,Phishing Campaign,Exposed Remote Access,Patch Management,29.0,Synthetic sample data
+SYN-00310,India,Asia,2020,Credential Theft,Manufacturing,85.13,1605,Automated Scanner,Privilege Escalation,Incident Response Team,13.6,Synthetic sample data
+SYN-00311,Netherlands,Europe,2021,DDoS,Energy,19.26,1126,Nation-State Suspected,SQL Injection Flaw,Email Filtering,11.2,Synthetic sample data
+SYN-00312,United States,North America,2023,Credential Theft,Government,19.78,1258,Third-Party Compromise,Zero-Day Vulnerability,Email Filtering,6.3,Synthetic sample data
+SYN-00313,South Africa,Africa,2024,Ransomware,Banking & Finance,156.82,255,Third-Party Compromise,Social Engineering,Data Backup & Recovery,72.2,Synthetic sample data
+SYN-00314,Canada,North America,2019,Phishing,Retail & E-commerce,26.81,5451,Nation-State Suspected,Zero-Day Vulnerability,Incident Response Team,8.6,Synthetic sample data
+SYN-00315,Saudi Arabia,Asia,2022,Ransomware,Transportation,52.67,479,Automated Scanner,Social Engineering,Network Monitoring,67.4,Synthetic sample data
+SYN-00316,Canada,North America,2016,Phishing,Telecommunications,2.17,5480,Insider,SQL Injection Flaw,Data Backup & Recovery,6.7,Synthetic sample data
+SYN-00317,Australia,Oceania,2019,Credential Theft,Banking & Finance,37.6,969,Phishing Campaign,Social Engineering,Data Backup & Recovery,61.4,Synthetic sample data
+SYN-00318,Spain,Europe,2021,Data Breach,Education,96.65,609,Third-Party Compromise,Misconfiguration,Multi-Factor Authentication,11.6,Synthetic sample data
+SYN-00319,India,Asia,2018,Zero-Day Exploit,Retail & E-commerce,24.72,3712,Unknown,SQL Injection Flaw,Multi-Factor Authentication,33.2,Synthetic sample data
+SYN-00320,United Kingdom,Europe,2018,Phishing,Healthcare,8.11,2603,Third-Party Compromise,Weak Passwords,Multi-Factor Authentication,16.1,Synthetic sample data
+SYN-00321,Indonesia,Asia,2020,Credential Theft,Telecommunications,12.31,5777,Insider,Weak Passwords,Data Backup & Recovery,14.9,Synthetic sample data
+SYN-00322,Spain,Europe,2018,DDoS,Energy,1.38,7752,Third-Party Compromise,SQL Injection Flaw,Email Filtering,12.1,Synthetic sample data
+SYN-00323,United Arab Emirates,Asia,2022,Phishing,Energy,15.02,3366,Unknown,Misconfiguration,Multi-Factor Authentication,25.5,Synthetic sample data
+SYN-00324,Spain,Europe,2023,Phishing,Education,2.68,808,Third-Party Compromise,Exposed Remote Access,Network Monitoring,5.8,Synthetic sample data
+SYN-00325,Mexico,North America,2022,DDoS,Transportation,2.49,4350,Nation-State Suspected,Weak Passwords,Network Monitoring,21.0,Synthetic sample data
+SYN-00326,Nigeria,Africa,2020,Credential Theft,Banking & Finance,184.9,485,Nation-State Suspected,Third-Party Vulnerability,Multi-Factor Authentication,16.8,Synthetic sample data
+SYN-00327,Canada,North America,2023,Malware,Retail & E-commerce,27.28,9770,Insider,Not Specified,Firewall,21.4,Synthetic sample data
+SYN-00328,Nigeria,Africa,2016,Phishing,Government,19.42,41108,Unknown,Third-Party Vulnerability,Network Monitoring,44.6,Synthetic sample data
+SYN-00329,Singapore,Asia,2020,Malware,Technology,24.96,1136,Third-Party Compromise,Not Specified,Security Awareness Training,20.5,Synthetic sample data
+SYN-00330,South Africa,Africa,2015,Ransomware,Retail & E-commerce,51.18,1554,Insider,SQL Injection Flaw,Multi-Factor Authentication,26.5,Synthetic sample data
+SYN-00331,France,Europe,2020,SQL Injection,Retail & E-commerce,5.93,10273,Insider,Zero-Day Vulnerability,Patch Management,27.1,Synthetic sample data
+SYN-00332,Germany,Europe,2024,Data Breach,Banking & Finance,112.89,8558,Unknown,Unpatched Software,Multi-Factor Authentication,54.3,Synthetic sample data
+SYN-00333,Saudi Arabia,Asia,2015,Data Breach,Technology,6.88,638,Cybercriminal Group,Zero-Day Vulnerability,Incident Response Team,25.2,Synthetic sample data
+SYN-00334,South Korea,Asia,2024,DDoS,Healthcare,24.19,742,Insider,Exposed Remote Access,Patch Management,30.1,Synthetic sample data
+SYN-00335,France,Europe,2016,Malware,Technology,26.52,1914,Botnet,Misconfiguration,Email Filtering,26.8,Synthetic sample data
+SYN-00336,Canada,North America,2018,Phishing,Technology,3.5,1761,Third-Party Compromise,Not Specified,Endpoint Detection & Response,9.9,Synthetic sample data
+SYN-00337,South Africa,Africa,2017,Zero-Day Exploit,Transportation,14.13,270,Automated Scanner,Not Specified,Firewall,6.8,Synthetic sample data
+SYN-00338,United Kingdom,Europe,2016,Business Email Compromise,Retail & E-commerce,8.26,668,Botnet,Zero-Day Vulnerability,Multi-Factor Authentication,8.0,Synthetic sample data
+SYN-00339,Australia,Oceania,2018,DDoS,Education,37.27,112,Automated Scanner,Not Specified,Firewall,17.1,Synthetic sample data
+SYN-00340,India,Asia,2019,Phishing,Transportation,8.37,17026,Nation-State Suspected,Weak Passwords,Email Filtering,52.9,Synthetic sample data
+SYN-00341,Canada,North America,2021,DDoS,Healthcare,14.53,1342,Third-Party Compromise,Privilege Escalation,Not Reported,9.0,Synthetic sample data
+SYN-00342,Singapore,Asia,2022,Malware,Government,15.24,853,Cybercriminal Group,SQL Injection Flaw,Network Monitoring,10.6,Synthetic sample data
+SYN-00343,United States,North America,2023,Insider Threat,Retail & E-commerce,32.86,2360,Botnet,SQL Injection Flaw,Data Backup & Recovery,11.0,Synthetic sample data
+SYN-00344,Brazil,South America,2021,Zero-Day Exploit,Transportation,8.83,2173,Third-Party Compromise,Privilege Escalation,Incident Response Team,19.0,Synthetic sample data
+SYN-00345,Italy,Europe,2017,Malware,Government,147.42,466,Botnet,SQL Injection Flaw,Endpoint Detection & Response,14.0,Synthetic sample data
+SYN-00346,South Korea,Asia,2019,Phishing,Retail & E-commerce,18.08,4076,Phishing Campaign,Misconfiguration,Firewall,14.9,Synthetic sample data
+SYN-00347,Japan,Asia,2021,Malware,Government,12.19,1302,Botnet,Social Engineering,Security Awareness Training,15.4,Synthetic sample data
+SYN-00348,Mexico,North America,2015,Data Breach,Technology,221.18,2916,Third-Party Compromise,Exposed Remote Access,Not Reported,20.8,Synthetic sample data
+SYN-00349,Germany,Europe,2022,Malware,Banking & Finance,11.06,1677,Insider,Third-Party Vulnerability,Incident Response Team,19.2,Synthetic sample data
+SYN-00350,South Africa,Africa,2022,Malware,Education,15.42,235,Nation-State Suspected,Privilege Escalation,Firewall,13.5,Synthetic sample data
+SYN-00351,Germany,Europe,2017,Business Email Compromise,Energy,23.91,575,Botnet,Exposed Remote Access,Data Backup & Recovery,8.4,Synthetic sample data
+SYN-00352,Japan,Asia,2016,Phishing,Telecommunications,39.97,578,Third-Party Compromise,Unpatched Software,Incident Response Team,3.9,Synthetic sample data
+SYN-00353,Brazil,South America,2017,Credential Theft,Government,3.97,1020,Cybercriminal Group,Exposed Remote Access,Patch Management,6.8,Synthetic sample data
+SYN-00354,France,Europe,2015,Malware,Telecommunications,7.28,1239,Cybercriminal Group,Not Specified,Email Filtering,5.1,Synthetic sample data
+SYN-00355,Canada,North America,2023,Ransomware,Energy,8.58,9371,Insider,Weak Passwords,Firewall,11.8,Synthetic sample data
+SYN-00356,Japan,Asia,2017,Data Breach,Transportation,29.67,5095,Botnet,Privilege Escalation,Not Reported,6.6,Synthetic sample data
+SYN-00357,Germany,Europe,2019,Ransomware,Technology,8.35,3406,Insider,Social Engineering,Not Reported,41.8,Synthetic sample data
+SYN-00358,Singapore,Asia,2019,DDoS,Transportation,17.0,2187,Third-Party Compromise,Misconfiguration,Not Reported,6.6,Synthetic sample data
+SYN-00359,South Africa,Africa,2018,Phishing,Banking & Finance,8.71,3302,Automated Scanner,Unpatched Software,Security Awareness Training,5.2,Synthetic sample data
+SYN-00360,South Africa,Africa,2019,DDoS,Manufacturing,5.06,1678,Cybercriminal Group,Unpatched Software,Network Monitoring,9.6,Synthetic sample data
+SYN-00361,Singapore,Asia,2022,SQL Injection,Banking & Finance,143.67,1487,Botnet,Privilege Escalation,Firewall,28.2,Synthetic sample data
+SYN-00362,India,Asia,2023,Ransomware,Manufacturing,239.31,4158,Cybercriminal Group,Social Engineering,Not Reported,57.9,Synthetic sample data
+SYN-00363,United States,North America,2020,Zero-Day Exploit,Energy,34.05,2356,Botnet,Not Specified,Not Reported,11.5,Synthetic sample data
+SYN-00364,Spain,Europe,2018,Malware,Education,8.92,282,Insider,Third-Party Vulnerability,Patch Management,9.2,Synthetic sample data
+SYN-00365,Spain,Europe,2023,Ransomware,Manufacturing,69.4,2933,Botnet,Unpatched Software,Incident Response Team,46.0,Synthetic sample data
+SYN-00366,United States,North America,2019,Insider Threat,Transportation,147.21,1866,Phishing Campaign,SQL Injection Flaw,Email Filtering,10.3,Synthetic sample data
+SYN-00367,Indonesia,Asia,2020,Business Email Compromise,Healthcare,50.35,571,Nation-State Suspected,Misconfiguration,Firewall,13.0,Synthetic sample data
+SYN-00368,South Africa,Africa,2024,Ransomware,Healthcare,52.65,338,Nation-State Suspected,Not Specified,Network Monitoring,13.1,Synthetic sample data
+SYN-00369,Saudi Arabia,Asia,2024,Data Breach,Telecommunications,253.63,4812,Third-Party Compromise,Zero-Day Vulnerability,Network Monitoring,15.7,Synthetic sample data
+SYN-00370,South Korea,Asia,2016,Malware,Telecommunications,11.33,134,Automated Scanner,Social Engineering,Security Awareness Training,11.2,Synthetic sample data
+SYN-00371,United Kingdom,Europe,2022,Phishing,Telecommunications,34.76,944,Automated Scanner,Misconfiguration,Patch Management,33.0,Synthetic sample data
+SYN-00372,Mexico,North America,2024,Malware,Transportation,81.35,266,Insider,Third-Party Vulnerability,Firewall,26.3,Synthetic sample data
+SYN-00373,Nigeria,Africa,2024,Business Email Compromise,Energy,135.68,2744,Insider,Misconfiguration,Endpoint Detection & Response,19.3,Synthetic sample data
+SYN-00374,Germany,Europe,2022,Phishing,Technology,23.92,5914,Phishing Campaign,Not Specified,Endpoint Detection & Response,19.5,Synthetic sample data
+SYN-00375,Australia,Oceania,2017,SQL Injection,Banking & Finance,20.78,1608,Botnet,Misconfiguration,Email Filtering,22.1,Synthetic sample data
+SYN-00376,Netherlands,Europe,2019,SQL Injection,Technology,15.76,723,Third-Party Compromise,Unpatched Software,Not Reported,17.4,Synthetic sample data
+SYN-00377,Indonesia,Asia,2020,Phishing,Education,19.28,1382,Cybercriminal Group,Social Engineering,Data Backup & Recovery,12.3,Synthetic sample data
+SYN-00378,Japan,Asia,2022,Phishing,Energy,15.23,5439,Unknown,SQL Injection Flaw,Data Backup & Recovery,4.5,Synthetic sample data
+SYN-00379,Nigeria,Africa,2022,SQL Injection,Transportation,16.61,3574,Unknown,Not Specified,Firewall,9.7,Synthetic sample data
+SYN-00380,United States,North America,2024,Malware,Retail & E-commerce,24.9,247,Nation-State Suspected,Exposed Remote Access,Incident Response Team,11.6,Synthetic sample data
+SYN-00381,United Kingdom,Europe,2017,Business Email Compromise,Energy,8.56,152,Nation-State Suspected,Privilege Escalation,Incident Response Team,26.7,Synthetic sample data
+SYN-00382,India,Asia,2020,DDoS,Banking & Finance,69.72,819,Automated Scanner,Privilege Escalation,Incident Response Team,35.0,Synthetic sample data
+SYN-00383,Japan,Asia,2015,Data Breach,Transportation,9.12,3350,Nation-State Suspected,Not Specified,Patch Management,6.4,Synthetic sample data
+SYN-00384,France,Europe,2019,Phishing,Education,30.93,3882,Nation-State Suspected,Zero-Day Vulnerability,Multi-Factor Authentication,11.5,Synthetic sample data
+SYN-00385,Italy,Europe,2015,Ransomware,Healthcare,509.28,1026,Botnet,Not Specified,Firewall,53.8,Synthetic sample data
+SYN-00386,Japan,Asia,2018,DDoS,Manufacturing,3.25,1229,Cybercriminal Group,Zero-Day Vulnerability,Endpoint Detection & Response,6.4,Synthetic sample data
+SYN-00387,Mexico,North America,2022,Ransomware,Energy,184.95,1919,Unknown,Weak Passwords,Patch Management,101.0,Synthetic sample data
+SYN-00388,Nigeria,Africa,2024,SQL Injection,Education,38.18,1798,Third-Party Compromise,Zero-Day Vulnerability,Patch Management,21.3,Synthetic sample data
+SYN-00389,Netherlands,Europe,2018,DDoS,Government,79.1,347,Third-Party Compromise,Third-Party Vulnerability,Multi-Factor Authentication,10.6,Synthetic sample data
+SYN-00390,Australia,Oceania,2015,Phishing,Healthcare,16.31,5223,Cybercriminal Group,Not Specified,Security Awareness Training,93.9,Synthetic sample data
+SYN-00391,Netherlands,Europe,2017,SQL Injection,Government,25.63,6984,Nation-State Suspected,Zero-Day Vulnerability,Email Filtering,37.1,Synthetic sample data
+SYN-00392,France,Europe,2017,Business Email Compromise,Education,24.03,4312,Cybercriminal Group,Exposed Remote Access,Data Backup & Recovery,14.4,Synthetic sample data
+SYN-00393,Australia,Oceania,2024,Malware,Telecommunications,39.22,29589,Phishing Campaign,Misconfiguration,Incident Response Team,21.5,Synthetic sample data
+SYN-00394,United Kingdom,Europe,2016,DDoS,Education,2.55,308,Automated Scanner,Weak Passwords,Email Filtering,47.5,Synthetic sample data
+SYN-00395,Italy,Europe,2022,Malware,Technology,62.34,9447,Phishing Campaign,Third-Party Vulnerability,Security Awareness Training,10.0,Synthetic sample data
+SYN-00396,Mexico,North America,2015,Data Breach,Healthcare,10.05,10053,Third-Party Compromise,Third-Party Vulnerability,Network Monitoring,14.0,Synthetic sample data
+SYN-00397,Mexico,North America,2016,Data Breach,Manufacturing,60.85,305,Automated Scanner,Unpatched Software,Email Filtering,20.1,Synthetic sample data
+SYN-00398,United Kingdom,Europe,2023,Data Breach,Telecommunications,25.1,4862,Automated Scanner,Weak Passwords,Multi-Factor Authentication,6.5,Synthetic sample data
+SYN-00399,Italy,Europe,2022,Insider Threat,Energy,4.14,690,Botnet,Not Specified,Security Awareness Training,10.0,Synthetic sample data
+SYN-00400,India,Asia,2019,Credential Theft,Healthcare,30.16,2135,Automated Scanner,Not Specified,Firewall,8.9,Synthetic sample data
+SYN-00401,Singapore,Asia,2021,Ransomware,Transportation,149.06,941,Botnet,SQL Injection Flaw,Security Awareness Training,14.1,Synthetic sample data
+SYN-00402,United Arab Emirates,Asia,2023,Phishing,Retail & E-commerce,42.26,1826,Cybercriminal Group,Misconfiguration,Endpoint Detection & Response,29.0,Synthetic sample data
+SYN-00403,South Africa,Africa,2021,Data Breach,Telecommunications,62.93,165,Botnet,Social Engineering,Firewall,18.7,Synthetic sample data
+SYN-00404,Japan,Asia,2022,Data Breach,Healthcare,9.42,729,Nation-State Suspected,SQL Injection Flaw,Data Backup & Recovery,31.0,Synthetic sample data
+SYN-00405,Canada,North America,2022,Business Email Compromise,Retail & E-commerce,14.94,1331,Nation-State Suspected,Weak Passwords,Security Awareness Training,13.6,Synthetic sample data
+SYN-00406,France,Europe,2020,Data Breach,Telecommunications,98.51,6725,Cybercriminal Group,Unpatched Software,Multi-Factor Authentication,12.9,Synthetic sample data
+SYN-00407,Singapore,Asia,2018,Business Email Compromise,Manufacturing,24.8,1204,Insider,Unpatched Software,Security Awareness Training,27.4,Synthetic sample data
+SYN-00408,Saudi Arabia,Asia,2022,Phishing,Manufacturing,6.06,3545,Botnet,Privilege Escalation,Security Awareness Training,15.6,Synthetic sample data
+SYN-00409,Singapore,Asia,2018,SQL Injection,Transportation,25.68,562,Botnet,Not Specified,Firewall,19.6,Synthetic sample data
+SYN-00410,Australia,Oceania,2024,Malware,Telecommunications,37.24,617,Nation-State Suspected,Weak Passwords,Data Backup & Recovery,48.0,Synthetic sample data
+SYN-00411,Brazil,South America,2024,SQL Injection,Technology,42.68,1062,Cybercriminal Group,Weak Passwords,Email Filtering,51.3,Synthetic sample data
+SYN-00412,Germany,Europe,2022,Malware,Healthcare,8.89,1819,Cybercriminal Group,Exposed Remote Access,Security Awareness Training,15.9,Synthetic sample data
+SYN-00413,South Korea,Asia,2024,Business Email Compromise,Banking & Finance,96.01,3193,Automated Scanner,Privilege Escalation,Firewall,14.8,Synthetic sample data
+SYN-00414,United Kingdom,Europe,2021,SQL Injection,Manufacturing,80.06,2207,Cybercriminal Group,Zero-Day Vulnerability,Data Backup & Recovery,5.8,Synthetic sample data
+SYN-00415,Saudi Arabia,Asia,2020,Business Email Compromise,Banking & Finance,22.41,341,Third-Party Compromise,Weak Passwords,Endpoint Detection & Response,28.8,Synthetic sample data
+SYN-00416,Indonesia,Asia,2018,Phishing,Manufacturing,28.79,11368,Insider,Third-Party Vulnerability,Endpoint Detection & Response,25.2,Synthetic sample data
+SYN-00417,France,Europe,2023,Data Breach,Education,22.7,2553,Cybercriminal Group,Unpatched Software,Network Monitoring,34.0,Synthetic sample data
+SYN-00418,Indonesia,Asia,2019,Malware,Manufacturing,6.8,567,Phishing Campaign,Social Engineering,Email Filtering,10.1,Synthetic sample data
+SYN-00419,United States,North America,2019,Malware,Energy,12.9,4992,Botnet,Privilege Escalation,Network Monitoring,10.7,Synthetic sample data
+SYN-00420,Singapore,Asia,2022,DDoS,Energy,42.25,236,Automated Scanner,Privilege Escalation,Patch Management,10.1,Synthetic sample data
+SYN-00421,South Africa,Africa,2015,Phishing,Education,72.36,3493,Automated Scanner,Misconfiguration,Not Reported,13.0,Synthetic sample data
+SYN-00422,France,Europe,2020,Phishing,Energy,3.64,2877,Cybercriminal Group,SQL Injection Flaw,Network Monitoring,20.8,Synthetic sample data
+SYN-00423,South Africa,Africa,2024,Data Breach,Transportation,9.6,1316,Automated Scanner,SQL Injection Flaw,Endpoint Detection & Response,32.7,Synthetic sample data
+SYN-00424,United Kingdom,Europe,2020,Phishing,Retail & E-commerce,8.18,489,Insider,Zero-Day Vulnerability,Security Awareness Training,10.0,Synthetic sample data
+SYN-00425,Saudi Arabia,Asia,2023,Insider Threat,Manufacturing,17.13,715,Unknown,Misconfiguration,Data Backup & Recovery,26.5,Synthetic sample data
+SYN-00426,Nigeria,Africa,2021,Phishing,Transportation,11.61,17760,Phishing Campaign,Misconfiguration,Security Awareness Training,20.3,Synthetic sample data
+SYN-00427,Japan,Asia,2023,Malware,Transportation,48.51,1211,Botnet,Social Engineering,Firewall,9.7,Synthetic sample data
+SYN-00428,Spain,Europe,2023,Business Email Compromise,Retail & E-commerce,96.74,20025,Cybercriminal Group,Weak Passwords,Firewall,13.7,Synthetic sample data
+SYN-00429,Canada,North America,2015,Phishing,Education,29.72,6171,Automated Scanner,Unpatched Software,Not Reported,21.6,Synthetic sample data
+SYN-00430,Germany,Europe,2020,DDoS,Transportation,16.01,1053,Cybercriminal Group,Zero-Day Vulnerability,Firewall,13.9,Synthetic sample data
+SYN-00431,United Arab Emirates,Asia,2021,Data Breach,Manufacturing,84.5,2696,Cybercriminal Group,Zero-Day Vulnerability,Patch Management,11.1,Synthetic sample data
+SYN-00432,Japan,Asia,2023,Ransomware,Manufacturing,9.39,1414,Nation-State Suspected,Zero-Day Vulnerability,Network Monitoring,27.3,Synthetic sample data
+SYN-00433,Japan,Asia,2016,Phishing,Energy,34.49,2673,Insider,Social Engineering,Incident Response Team,20.8,Synthetic sample data
+SYN-00434,Germany,Europe,2021,Malware,Healthcare,20.66,324,Phishing Campaign,Misconfiguration,Multi-Factor Authentication,48.4,Synthetic sample data
+SYN-00435,Singapore,Asia,2017,Data Breach,Banking & Finance,77.69,1336,Phishing Campaign,Social Engineering,Firewall,44.0,Synthetic sample data
+SYN-00436,United Kingdom,Europe,2015,Business Email Compromise,Technology,44.08,2134,Cybercriminal Group,Social Engineering,Endpoint Detection & Response,6.0,Synthetic sample data
+SYN-00437,United States,North America,2016,Phishing,Education,16.08,6919,Third-Party Compromise,SQL Injection Flaw,Firewall,3.7,Synthetic sample data
+SYN-00438,United States,North America,2016,Insider Threat,Energy,4.68,6483,Automated Scanner,SQL Injection Flaw,Not Reported,16.9,Synthetic sample data
+SYN-00439,Singapore,Asia,2016,Malware,Energy,48.06,368,Botnet,Privilege Escalation,Network Monitoring,9.0,Synthetic sample data
+SYN-00440,Saudi Arabia,Asia,2019,Data Breach,Telecommunications,3.17,8227,Insider,Third-Party Vulnerability,Data Backup & Recovery,21.0,Synthetic sample data
+SYN-00441,Spain,Europe,2016,Malware,Energy,12.03,3264,Phishing Campaign,Unpatched Software,Firewall,13.6,Synthetic sample data
+SYN-00442,Australia,Oceania,2024,Credential Theft,Technology,27.86,3510,Phishing Campaign,Social Engineering,Data Backup & Recovery,4.9,Synthetic sample data
+SYN-00443,Mexico,North America,2020,Malware,Transportation,4.24,499,Unknown,Privilege Escalation,Incident Response Team,16.3,Synthetic sample data
+SYN-00444,Brazil,South America,2015,Phishing,Banking & Finance,40.37,3593,Phishing Campaign,Privilege Escalation,Multi-Factor Authentication,19.1,Synthetic sample data
+SYN-00445,United Kingdom,Europe,2023,Business Email Compromise,Telecommunications,31.89,163,Insider,Zero-Day Vulnerability,Email Filtering,49.2,Synthetic sample data
+SYN-00446,India,Asia,2021,SQL Injection,Healthcare,56.37,5237,Unknown,Privilege Escalation,Network Monitoring,27.5,Synthetic sample data
+SYN-00447,Nigeria,Africa,2017,Ransomware,Technology,118.36,3034,Automated Scanner,Unpatched Software,Not Reported,23.2,Synthetic sample data
+SYN-00448,Italy,Europe,2015,Malware,Telecommunications,41.19,177,Unknown,Not Specified,Network Monitoring,8.5,Synthetic sample data
+SYN-00449,Netherlands,Europe,2015,Business Email Compromise,Manufacturing,21.57,584,Unknown,Unpatched Software,Data Backup & Recovery,7.4,Synthetic sample data
+SYN-00450,Netherlands,Europe,2016,SQL Injection,Healthcare,5.58,990,Nation-State Suspected,Unpatched Software,Network Monitoring,15.0,Synthetic sample data
+SYN-00451,Spain,Europe,2024,Phishing,Manufacturing,7.76,2245,Unknown,Not Specified,Data Backup & Recovery,8.6,Synthetic sample data
+SYN-00452,Singapore,Asia,2017,Data Breach,Manufacturing,19.52,983,Unknown,Social Engineering,Email Filtering,40.6,Synthetic sample data
+SYN-00453,United Kingdom,Europe,2024,Phishing,Manufacturing,29.11,165,Nation-State Suspected,Unpatched Software,Not Reported,20.9,Synthetic sample data
+SYN-00454,South Africa,Africa,2021,Data Breach,Manufacturing,15.78,4931,Insider,Exposed Remote Access,Data Backup & Recovery,51.5,Synthetic sample data
+SYN-00455,Italy,Europe,2017,DDoS,Retail & E-commerce,20.55,468,Automated Scanner,Zero-Day Vulnerability,Incident Response Team,5.3,Synthetic sample data
+SYN-00456,South Africa,Africa,2021,Malware,Healthcare,104.41,423,Insider,Exposed Remote Access,Patch Management,14.6,Synthetic sample data
+SYN-00457,Australia,Oceania,2015,Ransomware,Education,210.31,3495,Automated Scanner,Privilege Escalation,Incident Response Team,43.7,Synthetic sample data
+SYN-00458,Indonesia,Asia,2017,Data Breach,Banking & Finance,141.35,8625,Automated Scanner,Weak Passwords,Multi-Factor Authentication,10.5,Synthetic sample data
+SYN-00459,United Kingdom,Europe,2021,Insider Threat,Government,30.49,762,Insider,Unpatched Software,Not Reported,27.4,Synthetic sample data
+SYN-00460,Netherlands,Europe,2021,Credential Theft,Retail & E-commerce,6.91,652,Unknown,Social Engineering,Firewall,18.6,Synthetic sample data
+SYN-00461,Germany,Europe,2020,DDoS,Telecommunications,5.95,9024,Insider,Zero-Day Vulnerability,Firewall,25.1,Synthetic sample data
+SYN-00462,Indonesia,Asia,2021,Ransomware,Manufacturing,133.44,4788,Phishing Campaign,Third-Party Vulnerability,Security Awareness Training,19.2,Synthetic sample data
+SYN-00463,Japan,Asia,2022,Data Breach,Technology,34.97,23524,Cybercriminal Group,Zero-Day Vulnerability,Endpoint Detection & Response,54.6,Synthetic sample data
+SYN-00464,Italy,Europe,2016,Malware,Transportation,76.14,458,Third-Party Compromise,Privilege Escalation,Multi-Factor Authentication,10.2,Synthetic sample data
+SYN-00465,Netherlands,Europe,2016,Phishing,Retail & E-commerce,22.74,2066,Botnet,Not Specified,Data Backup & Recovery,7.0,Synthetic sample data
+SYN-00466,Singapore,Asia,2019,Phishing,Technology,25.44,5070,Third-Party Compromise,Misconfiguration,Data Backup & Recovery,5.3,Synthetic sample data
+SYN-00467,Japan,Asia,2015,Malware,Technology,24.45,1660,Nation-State Suspected,Misconfiguration,Endpoint Detection & Response,16.3,Synthetic sample data
+SYN-00468,Australia,Oceania,2018,Insider Threat,Education,7.72,1032,Nation-State Suspected,Privilege Escalation,Data Backup & Recovery,9.4,Synthetic sample data
+SYN-00469,France,Europe,2018,Data Breach,Retail & E-commerce,9.98,1886,Third-Party Compromise,Not Specified,Email Filtering,13.1,Synthetic sample data
+SYN-00470,Saudi Arabia,Asia,2019,Phishing,Energy,43.99,1199,Cybercriminal Group,Weak Passwords,Network Monitoring,43.1,Synthetic sample data
+SYN-00471,India,Asia,2015,Ransomware,Transportation,68.65,646,Unknown,Zero-Day Vulnerability,Data Backup & Recovery,27.6,Synthetic sample data
+SYN-00472,South Korea,Asia,2017,Phishing,Energy,106.05,7401,Unknown,Misconfiguration,Patch Management,48.7,Synthetic sample data
+SYN-00473,France,Europe,2023,Ransomware,Government,168.75,2122,Third-Party Compromise,Privilege Escalation,Firewall,14.3,Synthetic sample data
+SYN-00474,Japan,Asia,2022,Malware,Telecommunications,20.04,2179,Cybercriminal Group,Privilege Escalation,Network Monitoring,13.3,Synthetic sample data
+SYN-00475,South Africa,Africa,2017,Credential Theft,Energy,6.85,428,Nation-State Suspected,Not Specified,Not Reported,8.4,Synthetic sample data
+SYN-00476,Germany,Europe,2020,Phishing,Healthcare,14.7,3760,Automated Scanner,Privilege Escalation,Email Filtering,6.1,Synthetic sample data
+SYN-00477,Netherlands,Europe,2017,Phishing,Banking & Finance,27.38,2982,Nation-State Suspected,SQL Injection Flaw,Multi-Factor Authentication,11.5,Synthetic sample data
+SYN-00478,Mexico,North America,2016,Phishing,Retail & E-commerce,2.45,3355,Botnet,Exposed Remote Access,Data Backup & Recovery,16.2,Synthetic sample data
+SYN-00479,South Africa,Africa,2024,Phishing,Healthcare,9.31,2177,Third-Party Compromise,Third-Party Vulnerability,Security Awareness Training,11.6,Synthetic sample data
+SYN-00480,United Arab Emirates,Asia,2024,Phishing,Technology,6.56,459,Phishing Campaign,Weak Passwords,Incident Response Team,7.7,Synthetic sample data
+SYN-00481,Italy,Europe,2016,Ransomware,Technology,24.51,1424,Phishing Campaign,Privilege Escalation,Patch Management,25.5,Synthetic sample data
+SYN-00482,Netherlands,Europe,2019,Malware,Transportation,3.07,639,Phishing Campaign,Third-Party Vulnerability,Multi-Factor Authentication,14.4,Synthetic sample data
+SYN-00483,South Africa,Africa,2020,DDoS,Telecommunications,26.67,333,Automated Scanner,Not Specified,Patch Management,15.3,Synthetic sample data
+SYN-00484,Mexico,North America,2016,Phishing,Telecommunications,18.96,11266,Automated Scanner,Exposed Remote Access,Not Reported,44.7,Synthetic sample data
+SYN-00485,United Kingdom,Europe,2017,Phishing,Retail & E-commerce,23.69,5369,Phishing Campaign,Weak Passwords,Security Awareness Training,13.6,Synthetic sample data
+SYN-00486,Indonesia,Asia,2018,Phishing,Telecommunications,1.46,12632,Botnet,Privilege Escalation,Data Backup & Recovery,43.3,Synthetic sample data
+SYN-00487,Australia,Oceania,2019,DDoS,Technology,11.12,1313,Cybercriminal Group,SQL Injection Flaw,Multi-Factor Authentication,7.0,Synthetic sample data
+SYN-00488,Italy,Europe,2024,Business Email Compromise,Telecommunications,36.95,16720,Insider,Weak Passwords,Incident Response Team,5.3,Synthetic sample data
+SYN-00489,United Arab Emirates,Asia,2022,Data Breach,Banking & Finance,34.64,2496,Botnet,Zero-Day Vulnerability,Security Awareness Training,65.6,Synthetic sample data
+SYN-00490,South Korea,Asia,2017,SQL Injection,Technology,25.46,5501,Unknown,SQL Injection Flaw,Email Filtering,9.8,Synthetic sample data
+SYN-00491,Saudi Arabia,Asia,2022,Phishing,Technology,8.12,1712,Automated Scanner,Zero-Day Vulnerability,Security Awareness Training,9.5,Synthetic sample data
+SYN-00492,France,Europe,2020,Business Email Compromise,Banking & Finance,39.83,5227,Nation-State Suspected,Misconfiguration,Incident Response Team,18.9,Synthetic sample data
+SYN-00493,Japan,Asia,2016,SQL Injection,Manufacturing,46.61,3061,Botnet,Zero-Day Vulnerability,Email Filtering,7.1,Synthetic sample data
+SYN-00494,Germany,Europe,2018,Malware,Technology,12.55,384,Cybercriminal Group,Social Engineering,Email Filtering,25.6,Synthetic sample data
+SYN-00495,Canada,North America,2017,Business Email Compromise,Energy,78.84,976,Unknown,Social Engineering,Firewall,14.0,Synthetic sample data
+SYN-00496,Brazil,South America,2015,Data Breach,Energy,140.83,37276,Phishing Campaign,Unpatched Software,Network Monitoring,33.1,Synthetic sample data
+SYN-00497,Italy,Europe,2019,Malware,Energy,39.6,2650,Nation-State Suspected,SQL Injection Flaw,Network Monitoring,8.0,Synthetic sample data
+SYN-00498,Saudi Arabia,Asia,2022,Data Breach,Technology,11.54,12355,Insider,Zero-Day Vulnerability,Endpoint Detection & Response,12.6,Synthetic sample data
+SYN-00499,Indonesia,Asia,2019,DDoS,Government,16.75,8881,Cybercriminal Group,Weak Passwords,Incident Response Team,7.5,Synthetic sample data
+SYN-00500,Italy,Europe,2020,Phishing,Healthcare,22.86,17797,Automated Scanner,Zero-Day Vulnerability,Not Reported,18.0,Synthetic sample data
+SYN-00501,United Arab Emirates,Asia,2019,Ransomware,Transportation,77.15,1391,Botnet,Exposed Remote Access,Incident Response Team,49.4,Synthetic sample data
+SYN-00502,Brazil,South America,2021,Credential Theft,Healthcare,58.23,1140,Phishing Campaign,Weak Passwords,Data Backup & Recovery,17.7,Synthetic sample data
+SYN-00503,Italy,Europe,2021,SQL Injection,Transportation,37.62,369,Automated Scanner,Exposed Remote Access,Email Filtering,15.9,Synthetic sample data
+SYN-00504,Italy,Europe,2023,Phishing,Retail & E-commerce,14.6,453,Automated Scanner,Privilege Escalation,Multi-Factor Authentication,10.7,Synthetic sample data
+SYN-00505,Brazil,South America,2017,Business Email Compromise,Technology,31.91,147,Cybercriminal Group,Zero-Day Vulnerability,Patch Management,13.3,Synthetic sample data
+SYN-00506,Netherlands,Europe,2022,SQL Injection,Technology,47.15,1171,Automated Scanner,Not Specified,Firewall,10.8,Synthetic sample data
+SYN-00507,Singapore,Asia,2016,Credential Theft,Transportation,46.09,1154,Unknown,Exposed Remote Access,Security Awareness Training,9.5,Synthetic sample data
+SYN-00508,United States,North America,2024,Data Breach,Education,9.54,2809,Phishing Campaign,Third-Party Vulnerability,Endpoint Detection & Response,18.1,Synthetic sample data
+SYN-00509,Spain,Europe,2023,SQL Injection,Healthcare,36.52,776,Botnet,Weak Passwords,Patch Management,20.1,Synthetic sample data
+SYN-00510,India,Asia,2022,Credential Theft,Banking & Finance,5.77,842,Third-Party Compromise,Exposed Remote Access,Firewall,10.7,Synthetic sample data
+SYN-00511,France,Europe,2016,Phishing,Technology,18.31,6549,Botnet,Weak Passwords,Not Reported,8.5,Synthetic sample data
+SYN-00512,Saudi Arabia,Asia,2024,Ransomware,Energy,11.96,953,Unknown,Unpatched Software,Patch Management,24.4,Synthetic sample data
+SYN-00513,United States,North America,2019,DDoS,Transportation,18.3,1689,Phishing Campaign,Social Engineering,Incident Response Team,35.6,Synthetic sample data
+SYN-00514,Brazil,South America,2020,DDoS,Government,80.53,1894,Insider,Third-Party Vulnerability,Data Backup & Recovery,11.7,Synthetic sample data
+SYN-00515,Mexico,North America,2020,Credential Theft,Retail & E-commerce,41.72,718,Nation-State Suspected,Weak Passwords,Firewall,10.1,Synthetic sample data
+SYN-00516,Indonesia,Asia,2019,SQL Injection,Retail & E-commerce,6.01,874,Third-Party Compromise,SQL Injection Flaw,Patch Management,35.2,Synthetic sample data
+SYN-00517,Brazil,South America,2015,Data Breach,Banking & Finance,52.16,2329,Cybercriminal Group,Misconfiguration,Data Backup & Recovery,23.7,Synthetic sample data
+SYN-00518,South Korea,Asia,2016,Malware,Technology,16.51,6164,Third-Party Compromise,Exposed Remote Access,Firewall,21.9,Synthetic sample data
+SYN-00519,Saudi Arabia,Asia,2019,Credential Theft,Retail & E-commerce,3.4,3559,Insider,Privilege Escalation,Network Monitoring,19.6,Synthetic sample data
+SYN-00520,France,Europe,2024,DDoS,Government,15.32,466,Insider,Not Specified,Not Reported,8.7,Synthetic sample data
+SYN-00521,France,Europe,2018,Credential Theft,Banking & Finance,3.67,3406,Nation-State Suspected,Third-Party Vulnerability,Email Filtering,29.5,Synthetic sample data
+SYN-00522,Nigeria,Africa,2019,Phishing,Energy,11.21,3736,Automated Scanner,Privilege Escalation,Network Monitoring,44.6,Synthetic sample data
+SYN-00523,Singapore,Asia,2015,Malware,Manufacturing,52.99,949,Phishing Campaign,Not Specified,Multi-Factor Authentication,19.0,Synthetic sample data
+SYN-00524,Nigeria,Africa,2015,DDoS,Manufacturing,4.52,1406,Nation-State Suspected,Social Engineering,Endpoint Detection & Response,5.0,Synthetic sample data
+SYN-00525,South Korea,Asia,2016,Data Breach,Transportation,119.97,3482,Phishing Campaign,Unpatched Software,Multi-Factor Authentication,12.3,Synthetic sample data
+SYN-00526,Nigeria,Africa,2018,Credential Theft,Transportation,14.65,1724,Cybercriminal Group,Privilege Escalation,Data Backup & Recovery,27.6,Synthetic sample data
+SYN-00527,United States,North America,2022,DDoS,Transportation,36.98,1374,Insider,Unpatched Software,Endpoint Detection & Response,15.6,Synthetic sample data
+SYN-00528,Japan,Asia,2018,Phishing,Banking & Finance,14.65,3765,Cybercriminal Group,Misconfiguration,Patch Management,20.2,Synthetic sample data
+SYN-00529,Brazil,South America,2017,Malware,Transportation,115.83,1896,Third-Party Compromise,Zero-Day Vulnerability,Network Monitoring,3.3,Synthetic sample data
+SYN-00530,Indonesia,Asia,2015,Malware,Retail & E-commerce,9.59,1774,Insider,Social Engineering,Endpoint Detection & Response,20.5,Synthetic sample data
+SYN-00531,Japan,Asia,2016,Malware,Banking & Finance,47.25,1236,Automated Scanner,Social Engineering,Multi-Factor Authentication,15.0,Synthetic sample data
+SYN-00532,Singapore,Asia,2021,Phishing,Government,4.29,599,Cybercriminal Group,SQL Injection Flaw,Multi-Factor Authentication,23.8,Synthetic sample data
+SYN-00533,Indonesia,Asia,2018,Phishing,Banking & Finance,4.09,1485,Botnet,Zero-Day Vulnerability,Endpoint Detection & Response,45.5,Synthetic sample data
+SYN-00534,Italy,Europe,2024,SQL Injection,Healthcare,35.58,927,Phishing Campaign,Misconfiguration,Firewall,19.3,Synthetic sample data
+SYN-00535,Indonesia,Asia,2019,Business Email Compromise,Manufacturing,18.95,1136,Insider,Weak Passwords,Patch Management,6.1,Synthetic sample data
+SYN-00536,Italy,Europe,2020,Malware,Telecommunications,23.67,6865,Botnet,SQL Injection Flaw,Network Monitoring,21.1,Synthetic sample data
+SYN-00537,Netherlands,Europe,2015,Phishing,Retail & E-commerce,4.7,1830,Automated Scanner,Social Engineering,Data Backup & Recovery,27.4,Synthetic sample data
+SYN-00538,United Kingdom,Europe,2017,Business Email Compromise,Education,33.67,1138,Automated Scanner,Third-Party Vulnerability,Network Monitoring,12.3,Synthetic sample data
+SYN-00539,France,Europe,2021,Phishing,Telecommunications,8.35,9088,Insider,Zero-Day Vulnerability,Endpoint Detection & Response,34.7,Synthetic sample data
+SYN-00540,Canada,North America,2016,Phishing,Manufacturing,4.52,378,Cybercriminal Group,Third-Party Vulnerability,Security Awareness Training,6.9,Synthetic sample data
+SYN-00541,Brazil,South America,2023,SQL Injection,Banking & Finance,42.97,877,Nation-State Suspected,Zero-Day Vulnerability,Network Monitoring,22.8,Synthetic sample data
+SYN-00542,Italy,Europe,2017,Credential Theft,Retail & E-commerce,5.4,1614,Insider,Social Engineering,Email Filtering,28.0,Synthetic sample data
+SYN-00543,United Kingdom,Europe,2020,Credential Theft,Technology,13.43,765,Unknown,Social Engineering,Email Filtering,28.9,Synthetic sample data
+SYN-00544,Nigeria,Africa,2021,Data Breach,Technology,121.32,4469,Nation-State Suspected,SQL Injection Flaw,Not Reported,40.6,Synthetic sample data
+SYN-00545,Mexico,North America,2018,Insider Threat,Healthcare,5.14,561,Unknown,Social Engineering,Email Filtering,17.5,Synthetic sample data
+SYN-00546,Saudi Arabia,Asia,2022,Phishing,Retail & E-commerce,5.34,2623,Phishing Campaign,Exposed Remote Access,Patch Management,8.1,Synthetic sample data
+SYN-00547,United Kingdom,Europe,2021,Insider Threat,Retail & E-commerce,16.39,1187,Botnet,Social Engineering,Patch Management,53.9,Synthetic sample data
+SYN-00548,Italy,Europe,2022,Ransomware,Banking & Finance,200.24,657,Botnet,Privilege Escalation,Endpoint Detection & Response,32.5,Synthetic sample data
+SYN-00549,South Korea,Asia,2024,Phishing,Healthcare,35.8,897,Nation-State Suspected,Privilege Escalation,Network Monitoring,25.0,Synthetic sample data
+SYN-00550,Canada,North America,2017,SQL Injection,Technology,27.73,1982,Automated Scanner,Exposed Remote Access,Firewall,27.4,Synthetic sample data
+SYN-00551,Indonesia,Asia,2019,Data Breach,Healthcare,22.1,937,Insider,Privilege Escalation,Data Backup & Recovery,15.7,Synthetic sample data
+SYN-00552,South Korea,Asia,2021,Ransomware,Technology,141.72,3330,Insider,Exposed Remote Access,Multi-Factor Authentication,9.6,Synthetic sample data
+SYN-00553,Canada,North America,2022,Phishing,Education,13.59,359,Botnet,Misconfiguration,Multi-Factor Authentication,15.2,Synthetic sample data
+SYN-00554,India,Asia,2023,Phishing,Banking & Finance,8.56,613,Phishing Campaign,Exposed Remote Access,Patch Management,10.6,Synthetic sample data
+SYN-00555,Canada,North America,2018,Phishing,Technology,60.61,7404,Cybercriminal Group,Weak Passwords,Network Monitoring,5.8,Synthetic sample data
+SYN-00556,Singapore,Asia,2020,DDoS,Retail & E-commerce,6.34,478,Insider,Third-Party Vulnerability,Data Backup & Recovery,11.8,Synthetic sample data
+SYN-00557,South Korea,Asia,2018,Phishing,Education,33.42,6612,Third-Party Compromise,Weak Passwords,Endpoint Detection & Response,18.2,Synthetic sample data
+SYN-00558,Germany,Europe,2024,Ransomware,Technology,361.97,132,Botnet,SQL Injection Flaw,Firewall,27.1,Synthetic sample data
+SYN-00559,Saudi Arabia,Asia,2024,Malware,Energy,9.34,1120,Insider,Third-Party Vulnerability,Not Reported,16.4,Synthetic sample data
+SYN-00560,Mexico,North America,2018,Data Breach,Retail & E-commerce,13.08,6726,Automated Scanner,SQL Injection Flaw,Firewall,29.3,Synthetic sample data
+SYN-00561,Canada,North America,2018,DDoS,Retail & E-commerce,14.22,1740,Insider,Not Specified,Data Backup & Recovery,13.4,Synthetic sample data
+SYN-00562,India,Asia,2017,Insider Threat,Government,36.84,431,Phishing Campaign,Misconfiguration,Not Reported,14.1,Synthetic sample data
+SYN-00563,Japan,Asia,2018,Ransomware,Government,25.3,874,Insider,Zero-Day Vulnerability,Patch Management,26.4,Synthetic sample data
+SYN-00564,Saudi Arabia,Asia,2021,Business Email Compromise,Telecommunications,194.66,121,Cybercriminal Group,Exposed Remote Access,Data Backup & Recovery,9.9,Synthetic sample data
+SYN-00565,South Korea,Asia,2019,Malware,Transportation,6.72,599,Automated Scanner,Unpatched Software,Network Monitoring,27.0,Synthetic sample data
+SYN-00566,Nigeria,Africa,2021,Zero-Day Exploit,Manufacturing,97.85,1119,Unknown,Privilege Escalation,Patch Management,60.0,Synthetic sample data
+SYN-00567,Netherlands,Europe,2017,Phishing,Technology,29.05,1851,Nation-State Suspected,SQL Injection Flaw,Incident Response Team,13.2,Synthetic sample data
+SYN-00568,Canada,North America,2018,Malware,Manufacturing,558.23,553,Cybercriminal Group,Misconfiguration,Patch Management,21.3,Synthetic sample data
+SYN-00569,Japan,Asia,2015,Phishing,Healthcare,4.0,4977,Unknown,Exposed Remote Access,Not Reported,22.8,Synthetic sample data
+SYN-00570,Netherlands,Europe,2019,Business Email Compromise,Healthcare,68.19,151,Phishing Campaign,Not Specified,Network Monitoring,7.9,Synthetic sample data
+SYN-00571,Germany,Europe,2016,Business Email Compromise,Technology,13.22,2164,Unknown,Zero-Day Vulnerability,Data Backup & Recovery,12.2,Synthetic sample data
+SYN-00572,Japan,Asia,2018,Phishing,Government,3.38,317,Insider,Zero-Day Vulnerability,Data Backup & Recovery,15.3,Synthetic sample data
+SYN-00573,United States,North America,2015,Ransomware,Banking & Finance,50.85,1241,Cybercriminal Group,Unpatched Software,Security Awareness Training,24.7,Synthetic sample data
+SYN-00574,Singapore,Asia,2020,Credential Theft,Manufacturing,5.01,938,Unknown,Exposed Remote Access,Not Reported,14.0,Synthetic sample data
+SYN-00575,Brazil,South America,2015,Data Breach,Energy,29.26,10163,Nation-State Suspected,Social Engineering,Network Monitoring,9.6,Synthetic sample data
+SYN-00576,India,Asia,2020,Data Breach,Retail & E-commerce,82.51,2113,Automated Scanner,Exposed Remote Access,Not Reported,21.1,Synthetic sample data
+SYN-00577,Mexico,North America,2019,Data Breach,Government,78.88,4971,Cybercriminal Group,Misconfiguration,Email Filtering,27.2,Synthetic sample data
+SYN-00578,South Korea,Asia,2016,Malware,Energy,31.91,4456,Insider,Social Engineering,Security Awareness Training,13.7,Synthetic sample data
+SYN-00579,France,Europe,2022,Insider Threat,Healthcare,76.82,2071,Botnet,Third-Party Vulnerability,Email Filtering,41.2,Synthetic sample data
+SYN-00580,Mexico,North America,2023,Zero-Day Exploit,Technology,19.18,225,Insider,Social Engineering,Patch Management,20.4,Synthetic sample data
+SYN-00581,Brazil,South America,2023,Data Breach,Transportation,6.83,1475,Insider,Unpatched Software,Data Backup & Recovery,20.8,Synthetic sample data
+SYN-00582,South Africa,Africa,2017,Business Email Compromise,Banking & Finance,26.24,1297,Third-Party Compromise,Zero-Day Vulnerability,Incident Response Team,5.6,Synthetic sample data
+SYN-00583,Australia,Oceania,2018,Data Breach,Banking & Finance,5.91,545,Botnet,Privilege Escalation,Data Backup & Recovery,14.0,Synthetic sample data
+SYN-00584,United Arab Emirates,Asia,2021,Malware,Energy,46.65,435,Nation-State Suspected,Zero-Day Vulnerability,Security Awareness Training,8.7,Synthetic sample data
+SYN-00585,Netherlands,Europe,2017,Malware,Telecommunications,3.18,3658,Nation-State Suspected,Misconfiguration,Security Awareness Training,9.8,Synthetic sample data
+SYN-00586,India,Asia,2016,Malware,Telecommunications,31.34,1250,Botnet,Weak Passwords,Endpoint Detection & Response,10.5,Synthetic sample data
+SYN-00587,United Kingdom,Europe,2022,Credential Theft,Technology,2.67,3621,Nation-State Suspected,Privilege Escalation,Network Monitoring,15.3,Synthetic sample data
+SYN-00588,Germany,Europe,2024,Phishing,Telecommunications,4.19,45045,Unknown,Zero-Day Vulnerability,Not Reported,17.6,Synthetic sample data
+SYN-00589,United States,North America,2021,DDoS,Energy,47.66,7535,Automated Scanner,Unpatched Software,Incident Response Team,23.5,Synthetic sample data
+SYN-00590,Germany,Europe,2017,Credential Theft,Government,29.36,554,Cybercriminal Group,Third-Party Vulnerability,Email Filtering,6.9,Synthetic sample data
+SYN-00591,India,Asia,2016,Zero-Day Exploit,Energy,78.0,3946,Nation-State Suspected,SQL Injection Flaw,Incident Response Team,29.2,Synthetic sample data
+SYN-00592,Spain,Europe,2020,DDoS,Manufacturing,7.8,140,Insider,Unpatched Software,Multi-Factor Authentication,10.0,Synthetic sample data
+SYN-00593,Brazil,South America,2024,Malware,Energy,29.56,298,Nation-State Suspected,Zero-Day Vulnerability,Data Backup & Recovery,10.0,Synthetic sample data
+SYN-00594,France,Europe,2018,Data Breach,Transportation,8.62,1255,Botnet,Exposed Remote Access,Firewall,18.4,Synthetic sample data
+SYN-00595,Nigeria,Africa,2016,Ransomware,Healthcare,31.81,298,Third-Party Compromise,SQL Injection Flaw,Patch Management,77.4,Synthetic sample data
+SYN-00596,Spain,Europe,2016,DDoS,Transportation,80.8,974,Nation-State Suspected,Third-Party Vulnerability,Patch Management,17.9,Synthetic sample data
+SYN-00597,Mexico,North America,2022,DDoS,Education,18.63,1594,Cybercriminal Group,Third-Party Vulnerability,Firewall,59.9,Synthetic sample data
+SYN-00598,United Arab Emirates,Asia,2018,Data Breach,Technology,38.26,232,Automated Scanner,Misconfiguration,Email Filtering,3.6,Synthetic sample data
+SYN-00599,South Africa,Africa,2021,Business Email Compromise,Healthcare,39.18,1000,Phishing Campaign,Unpatched Software,Security Awareness Training,27.0,Synthetic sample data
+SYN-00600,Italy,Europe,2023,Data Breach,Technology,130.89,4497,Cybercriminal Group,Not Specified,Security Awareness Training,17.8,Synthetic sample data
+SYN-00601,Saudi Arabia,Asia,2022,Zero-Day Exploit,Energy,41.79,1000,Insider,Misconfiguration,Endpoint Detection & Response,27.8,Synthetic sample data
+SYN-00602,Germany,Europe,2020,SQL Injection,Retail & E-commerce,18.29,98,Phishing Campaign,Zero-Day Vulnerability,Patch Management,19.3,Synthetic sample data
+SYN-00603,South Korea,Asia,2024,Credential Theft,Banking & Finance,14.8,428,Third-Party Compromise,Weak Passwords,Not Reported,24.9,Synthetic sample data
+SYN-00604,United States,North America,2016,Malware,Retail & E-commerce,69.38,2638,Phishing Campaign,Third-Party Vulnerability,Incident Response Team,15.6,Synthetic sample data
+SYN-00605,United Arab Emirates,Asia,2021,SQL Injection,Energy,30.7,2087,Nation-State Suspected,Unpatched Software,Email Filtering,12.5,Synthetic sample data
+SYN-00606,Nigeria,Africa,2020,SQL Injection,Government,5.29,1304,Insider,Privilege Escalation,Patch Management,27.7,Synthetic sample data
+SYN-00607,Mexico,North America,2017,Phishing,Healthcare,15.18,7180,Cybercriminal Group,Misconfiguration,Firewall,18.3,Synthetic sample data
+SYN-00608,Spain,Europe,2019,Ransomware,Healthcare,14.45,176,Unknown,Social Engineering,Not Reported,5.8,Synthetic sample data
+SYN-00609,Australia,Oceania,2022,Data Breach,Healthcare,49.35,728,Botnet,Social Engineering,Not Reported,12.0,Synthetic sample data
+SYN-00610,Brazil,South America,2021,Phishing,Retail & E-commerce,8.65,3344,Phishing Campaign,Weak Passwords,Data Backup & Recovery,11.6,Synthetic sample data
+SYN-00611,Italy,Europe,2021,Data Breach,Education,21.31,1920,Phishing Campaign,Zero-Day Vulnerability,Network Monitoring,8.9,Synthetic sample data
+SYN-00612,Saudi Arabia,Asia,2016,Malware,Education,15.0,3719,Automated Scanner,SQL Injection Flaw,Network Monitoring,25.1,Synthetic sample data
+SYN-00613,Netherlands,Europe,2023,Data Breach,Retail & E-commerce,6.53,426,Nation-State Suspected,Social Engineering,Not Reported,62.2,Synthetic sample data
+SYN-00614,Australia,Oceania,2018,Data Breach,Healthcare,14.26,3727,Phishing Campaign,Third-Party Vulnerability,Not Reported,7.7,Synthetic sample data
+SYN-00615,France,Europe,2023,Zero-Day Exploit,Manufacturing,15.17,6909,Automated Scanner,Unpatched Software,Data Backup & Recovery,36.0,Synthetic sample data
+SYN-00616,India,Asia,2024,Phishing,Retail & E-commerce,1.09,895,Unknown,Privilege Escalation,Incident Response Team,14.1,Synthetic sample data
+SYN-00617,Japan,Asia,2015,Phishing,Retail & E-commerce,11.13,1425,Cybercriminal Group,Third-Party Vulnerability,Email Filtering,9.5,Synthetic sample data
+SYN-00618,Indonesia,Asia,2018,Ransomware,Government,27.87,2874,Nation-State Suspected,Misconfiguration,Patch Management,61.0,Synthetic sample data
+SYN-00619,Indonesia,Asia,2019,Business Email Compromise,Technology,13.0,766,Nation-State Suspected,SQL Injection Flaw,Multi-Factor Authentication,23.0,Synthetic sample data
+SYN-00620,Mexico,North America,2019,SQL Injection,Transportation,13.03,7537,Insider,Privilege Escalation,Security Awareness Training,13.3,Synthetic sample data
+SYN-00621,Nigeria,Africa,2020,Phishing,Telecommunications,7.45,582,Phishing Campaign,Privilege Escalation,Firewall,11.6,Synthetic sample data
+SYN-00622,Japan,Asia,2021,Data Breach,Retail & E-commerce,30.19,3812,Phishing Campaign,Misconfiguration,Endpoint Detection & Response,22.0,Synthetic sample data
+SYN-00623,United States,North America,2024,Phishing,Technology,38.77,766,Cybercriminal Group,Unpatched Software,Multi-Factor Authentication,19.0,Synthetic sample data
+SYN-00624,United States,North America,2016,DDoS,Manufacturing,12.59,1181,Phishing Campaign,Social Engineering,Firewall,13.2,Synthetic sample data
+SYN-00625,India,Asia,2023,Data Breach,Energy,14.44,2754,Phishing Campaign,Weak Passwords,Multi-Factor Authentication,6.5,Synthetic sample data
+SYN-00626,Brazil,South America,2020,Data Breach,Retail & E-commerce,20.13,1196,Unknown,Unpatched Software,Email Filtering,18.9,Synthetic sample data
+SYN-00627,Italy,Europe,2020,DDoS,Technology,31.36,10209,Botnet,Zero-Day Vulnerability,Not Reported,21.2,Synthetic sample data
+SYN-00628,Mexico,North America,2022,Business Email Compromise,Telecommunications,20.69,497,Phishing Campaign,Unpatched Software,Not Reported,11.9,Synthetic sample data
+SYN-00629,Spain,Europe,2021,Data Breach,Manufacturing,28.83,2763,Botnet,Social Engineering,Data Backup & Recovery,29.4,Synthetic sample data
+SYN-00630,Netherlands,Europe,2021,DDoS,Retail & E-commerce,4.26,3144,Phishing Campaign,Social Engineering,Network Monitoring,3.1,Synthetic sample data
+SYN-00631,India,Asia,2017,Phishing,Government,5.2,3358,Unknown,Weak Passwords,Data Backup & Recovery,7.2,Synthetic sample data
+SYN-00632,United Kingdom,Europe,2018,Phishing,Transportation,10.24,6626,Unknown,Misconfiguration,Firewall,14.6,Synthetic sample data
+SYN-00633,South Korea,Asia,2015,Ransomware,Government,116.48,20688,Cybercriminal Group,Weak Passwords,Not Reported,39.8,Synthetic sample data
+SYN-00634,Netherlands,Europe,2023,Ransomware,Retail & E-commerce,266.83,321,Unknown,Misconfiguration,Patch Management,19.0,Synthetic sample data
+SYN-00635,Indonesia,Asia,2024,Credential Theft,Telecommunications,31.94,6768,Automated Scanner,SQL Injection Flaw,Data Backup & Recovery,11.2,Synthetic sample data
+SYN-00636,United Kingdom,Europe,2020,Data Breach,Manufacturing,19.92,6245,Cybercriminal Group,Social Engineering,Patch Management,12.0,Synthetic sample data
+SYN-00637,Netherlands,Europe,2024,Phishing,Telecommunications,3.96,13628,Cybercriminal Group,Weak Passwords,Network Monitoring,11.7,Synthetic sample data
+SYN-00638,United Arab Emirates,Asia,2017,Data Breach,Healthcare,8.89,1408,Third-Party Compromise,Exposed Remote Access,Incident Response Team,28.6,Synthetic sample data
+SYN-00639,Brazil,South America,2022,Phishing,Healthcare,18.84,14716,Insider,Social Engineering,Firewall,34.2,Synthetic sample data
+SYN-00640,Singapore,Asia,2022,Business Email Compromise,Manufacturing,95.38,1024,Nation-State Suspected,SQL Injection Flaw,Not Reported,18.8,Synthetic sample data
+SYN-00641,Brazil,South America,2024,Data Breach,Telecommunications,73.76,10677,Phishing Campaign,Weak Passwords,Firewall,15.5,Synthetic sample data
+SYN-00642,South Africa,Africa,2017,Phishing,Transportation,2.93,2328,Third-Party Compromise,SQL Injection Flaw,Endpoint Detection & Response,11.0,Synthetic sample data
+SYN-00643,Saudi Arabia,Asia,2017,Malware,Energy,40.94,3321,Third-Party Compromise,SQL Injection Flaw,Endpoint Detection & Response,30.6,Synthetic sample data
+SYN-00644,Canada,North America,2023,Phishing,Healthcare,24.76,3936,Nation-State Suspected,Exposed Remote Access,Firewall,15.2,Synthetic sample data
+SYN-00645,South Korea,Asia,2016,Phishing,Healthcare,9.08,1137,Unknown,Exposed Remote Access,Security Awareness Training,4.8,Synthetic sample data
+SYN-00646,Germany,Europe,2019,Malware,Energy,30.98,38,Botnet,Privilege Escalation,Firewall,12.5,Synthetic sample data
+SYN-00647,Spain,Europe,2018,Phishing,Banking & Finance,14.02,614,Unknown,Zero-Day Vulnerability,Patch Management,7.5,Synthetic sample data
+SYN-00648,Nigeria,Africa,2023,Phishing,Education,35.59,8361,Botnet,Weak Passwords,Endpoint Detection & Response,15.7,Synthetic sample data
+SYN-00649,Japan,Asia,2021,Malware,Transportation,72.59,1854,Unknown,Weak Passwords,Incident Response Team,46.0,Synthetic sample data
+SYN-00650,Singapore,Asia,2015,Phishing,Telecommunications,7.78,4941,Botnet,Privilege Escalation,Network Monitoring,2.6,Synthetic sample data
+SYN-00651,Germany,Europe,2015,Phishing,Retail & E-commerce,13.56,1224,Unknown,Third-Party Vulnerability,Firewall,13.1,Synthetic sample data
+SYN-00652,South Africa,Africa,2019,DDoS,Healthcare,10.72,1584,Automated Scanner,Privilege Escalation,Data Backup & Recovery,23.0,Synthetic sample data
+SYN-00653,Japan,Asia,2022,Malware,Government,5.86,2521,Botnet,Third-Party Vulnerability,Data Backup & Recovery,8.7,Synthetic sample data
+SYN-00654,Germany,Europe,2016,Credential Theft,Healthcare,50.99,1686,Phishing Campaign,Weak Passwords,Not Reported,16.8,Synthetic sample data
+SYN-00655,South Africa,Africa,2021,Phishing,Telecommunications,3.14,1150,Unknown,Unpatched Software,Security Awareness Training,34.8,Synthetic sample data
+SYN-00656,Mexico,North America,2015,Insider Threat,Retail & E-commerce,27.74,884,Nation-State Suspected,Zero-Day Vulnerability,Patch Management,18.9,Synthetic sample data
+SYN-00657,Indonesia,Asia,2021,Phishing,Technology,1.89,11705,Cybercriminal Group,Not Specified,Data Backup & Recovery,15.2,Synthetic sample data
+SYN-00658,Brazil,South America,2023,Phishing,Transportation,4.59,434,Unknown,Zero-Day Vulnerability,Incident Response Team,96.0,Synthetic sample data
+SYN-00659,Netherlands,Europe,2021,Phishing,Government,5.14,271,Automated Scanner,SQL Injection Flaw,Firewall,66.0,Synthetic sample data
+SYN-00660,India,Asia,2019,Phishing,Government,5.11,1393,Cybercriminal Group,Not Specified,Endpoint Detection & Response,29.4,Synthetic sample data
+SYN-00661,Germany,Europe,2022,Credential Theft,Technology,6.92,9965,Phishing Campaign,Privilege Escalation,Endpoint Detection & Response,15.4,Synthetic sample data
+SYN-00662,South Africa,Africa,2015,SQL Injection,Transportation,29.29,110,Cybercriminal Group,Unpatched Software,Network Monitoring,29.6,Synthetic sample data
+SYN-00663,United States,North America,2023,Phishing,Energy,4.68,1588,Botnet,Social Engineering,Network Monitoring,10.0,Synthetic sample data
+SYN-00664,United Kingdom,Europe,2020,Data Breach,Education,39.46,1196,Automated Scanner,Privilege Escalation,Data Backup & Recovery,104.7,Synthetic sample data
+SYN-00665,France,Europe,2021,Phishing,Transportation,49.71,8446,Nation-State Suspected,Misconfiguration,Security Awareness Training,73.4,Synthetic sample data
+SYN-00666,Saudi Arabia,Asia,2016,Data Breach,Technology,21.12,398,Insider,Not Specified,Network Monitoring,18.9,Synthetic sample data
+SYN-00667,Italy,Europe,2020,Malware,Healthcare,47.3,447,Botnet,SQL Injection Flaw,Data Backup & Recovery,8.9,Synthetic sample data
+SYN-00668,United States,North America,2020,Phishing,Transportation,3.85,1204,Third-Party Compromise,Social Engineering,Incident Response Team,20.9,Synthetic sample data
+SYN-00669,United Kingdom,Europe,2024,SQL Injection,Technology,18.82,826,Unknown,SQL Injection Flaw,Network Monitoring,14.4,Synthetic sample data
+SYN-00670,Netherlands,Europe,2021,Ransomware,Banking & Finance,4.73,230,Nation-State Suspected,Weak Passwords,Not Reported,33.3,Synthetic sample data
+SYN-00671,Germany,Europe,2021,Business Email Compromise,Education,32.26,1293,Third-Party Compromise,SQL Injection Flaw,Data Backup & Recovery,70.9,Synthetic sample data
+SYN-00672,Canada,North America,2017,Phishing,Manufacturing,3.57,577,Cybercriminal Group,Weak Passwords,Patch Management,27.8,Synthetic sample data
+SYN-00673,Japan,Asia,2017,DDoS,Healthcare,53.07,1194,Botnet,SQL Injection Flaw,Firewall,17.7,Synthetic sample data
+SYN-00674,Spain,Europe,2019,Ransomware,Telecommunications,238.09,247,Insider,Unpatched Software,Patch Management,12.4,Synthetic sample data
+SYN-00675,Australia,Oceania,2016,Phishing,Telecommunications,18.85,1578,Cybercriminal Group,Social Engineering,Multi-Factor Authentication,6.3,Synthetic sample data
+SYN-00676,Italy,Europe,2023,Credential Theft,Education,52.21,1057,Automated Scanner,Misconfiguration,Incident Response Team,9.5,Synthetic sample data
+SYN-00677,United Kingdom,Europe,2019,Malware,Education,36.12,336,Phishing Campaign,Misconfiguration,Email Filtering,7.5,Synthetic sample data
+SYN-00678,Italy,Europe,2020,Phishing,Education,28.15,1960,Third-Party Compromise,Unpatched Software,Multi-Factor Authentication,12.6,Synthetic sample data
+SYN-00679,Italy,Europe,2024,Malware,Technology,14.15,506,Phishing Campaign,Weak Passwords,Security Awareness Training,26.4,Synthetic sample data
+SYN-00680,Mexico,North America,2021,Phishing,Education,23.05,894,Automated Scanner,Social Engineering,Firewall,21.9,Synthetic sample data
+SYN-00681,Italy,Europe,2024,Malware,Education,31.59,748,Insider,Misconfiguration,Network Monitoring,15.1,Synthetic sample data
+SYN-00682,France,Europe,2016,Phishing,Banking & Finance,10.35,1445,Third-Party Compromise,Privilege Escalation,Not Reported,16.7,Synthetic sample data
+SYN-00683,Germany,Europe,2016,Ransomware,Manufacturing,47.18,324,Automated Scanner,Privilege Escalation,Network Monitoring,84.8,Synthetic sample data
+SYN-00684,Germany,Europe,2019,Data Breach,Banking & Finance,52.33,2397,Botnet,Exposed Remote Access,Security Awareness Training,8.9,Synthetic sample data
+SYN-00685,Australia,Oceania,2021,Data Breach,Education,10.85,8023,Automated Scanner,Third-Party Vulnerability,Firewall,13.2,Synthetic sample data
+SYN-00686,Italy,Europe,2020,Credential Theft,Healthcare,16.21,1242,Unknown,Privilege Escalation,Not Reported,21.4,Synthetic sample data
+SYN-00687,South Africa,Africa,2016,Credential Theft,Banking & Finance,6.53,397,Automated Scanner,Weak Passwords,Security Awareness Training,13.1,Synthetic sample data
+SYN-00688,United States,North America,2015,Ransomware,Manufacturing,13.96,486,Nation-State Suspected,Third-Party Vulnerability,Incident Response Team,26.7,Synthetic sample data
+SYN-00689,Mexico,North America,2021,Malware,Healthcare,10.33,2204,Nation-State Suspected,Zero-Day Vulnerability,Not Reported,21.7,Synthetic sample data
+SYN-00690,Australia,Oceania,2019,Phishing,Energy,2.11,4109,Insider,Zero-Day Vulnerability,Patch Management,5.4,Synthetic sample data
+SYN-00691,Nigeria,Africa,2016,Phishing,Telecommunications,9.89,1869,Third-Party Compromise,Third-Party Vulnerability,Network Monitoring,39.7,Synthetic sample data
+SYN-00692,Brazil,South America,2024,SQL Injection,Retail & E-commerce,22.57,272,Third-Party Compromise,Misconfiguration,Not Reported,13.5,Synthetic sample data
+SYN-00693,United States,North America,2022,Credential Theft,Energy,23.99,459,Automated Scanner,Weak Passwords,Endpoint Detection & Response,15.9,Synthetic sample data
+SYN-00694,India,Asia,2016,Business Email Compromise,Energy,32.28,12630,Cybercriminal Group,Social Engineering,Incident Response Team,11.9,Synthetic sample data
+SYN-00695,United States,North America,2022,Data Breach,Retail & E-commerce,39.81,2454,Phishing Campaign,Unpatched Software,Multi-Factor Authentication,32.4,Synthetic sample data
+SYN-00696,Spain,Europe,2017,Credential Theft,Energy,81.6,943,Nation-State Suspected,Not Specified,Email Filtering,20.3,Synthetic sample data
+SYN-00697,Indonesia,Asia,2018,Malware,Education,20.97,679,Nation-State Suspected,Unpatched Software,Not Reported,7.8,Synthetic sample data
+SYN-00698,Nigeria,Africa,2017,Phishing,Telecommunications,111.9,3053,Phishing Campaign,Not Specified,Data Backup & Recovery,14.5,Synthetic sample data
+SYN-00699,France,Europe,2015,Zero-Day Exploit,Manufacturing,44.5,2108,Insider,SQL Injection Flaw,Incident Response Team,40.5,Synthetic sample data
+SYN-00700,Brazil,South America,2019,Business Email Compromise,Education,21.84,2717,Unknown,Unpatched Software,Email Filtering,17.0,Synthetic sample data
+SYN-00701,Singapore,Asia,2024,Insider Threat,Manufacturing,6.19,1334,Unknown,Unpatched Software,Multi-Factor Authentication,12.7,Synthetic sample data
+SYN-00702,Canada,North America,2016,SQL Injection,Government,6.98,1122,Unknown,Exposed Remote Access,Endpoint Detection & Response,19.1,Synthetic sample data
+SYN-00703,Japan,Asia,2020,Phishing,Telecommunications,12.26,2288,Unknown,Misconfiguration,Not Reported,5.0,Synthetic sample data
+SYN-00704,Nigeria,Africa,2023,Credential Theft,Retail & E-commerce,31.83,4267,Phishing Campaign,Not Specified,Multi-Factor Authentication,13.1,Synthetic sample data
+SYN-00705,United Kingdom,Europe,2020,Phishing,Energy,13.68,1160,Automated Scanner,Social Engineering,Security Awareness Training,17.7,Synthetic sample data
+SYN-00706,United Kingdom,Europe,2022,Malware,Technology,5.78,298,Phishing Campaign,Not Specified,Endpoint Detection & Response,5.5,Synthetic sample data
+SYN-00707,United States,North America,2018,Credential Theft,Education,39.34,6835,Nation-State Suspected,Exposed Remote Access,Network Monitoring,14.6,Synthetic sample data
+SYN-00708,Germany,Europe,2024,Malware,Education,18.37,355,Cybercriminal Group,Weak Passwords,Network Monitoring,15.8,Synthetic sample data
+SYN-00709,Netherlands,Europe,2024,Data Breach,Banking & Finance,58.76,412,Third-Party Compromise,Unpatched Software,Data Backup & Recovery,32.5,Synthetic sample data
+SYN-00710,India,Asia,2016,Phishing,Energy,9.12,6049,Insider,SQL Injection Flaw,Data Backup & Recovery,24.3,Synthetic sample data
+SYN-00711,Saudi Arabia,Asia,2021,Data Breach,Banking & Finance,169.97,1912,Automated Scanner,Weak Passwords,Data Backup & Recovery,8.0,Synthetic sample data
+SYN-00712,Saudi Arabia,Asia,2020,Malware,Manufacturing,7.11,174,Unknown,Weak Passwords,Security Awareness Training,9.9,Synthetic sample data
+SYN-00713,India,Asia,2020,Ransomware,Retail & E-commerce,29.32,1844,Nation-State Suspected,Misconfiguration,Not Reported,51.7,Synthetic sample data
+SYN-00714,United Arab Emirates,Asia,2018,Malware,Education,50.25,3978,Third-Party Compromise,Third-Party Vulnerability,Patch Management,17.3,Synthetic sample data
+SYN-00715,United Arab Emirates,Asia,2021,Data Breach,Transportation,21.11,4299,Automated Scanner,Zero-Day Vulnerability,Endpoint Detection & Response,7.6,Synthetic sample data
+SYN-00716,Brazil,South America,2015,Zero-Day Exploit,Telecommunications,54.26,678,Automated Scanner,Unpatched Software,Multi-Factor Authentication,14.9,Synthetic sample data
+SYN-00717,Spain,Europe,2015,Credential Theft,Technology,8.78,1167,Automated Scanner,Weak Passwords,Security Awareness Training,10.2,Synthetic sample data
+SYN-00718,United Arab Emirates,Asia,2015,SQL Injection,Manufacturing,37.17,4015,Nation-State Suspected,Not Specified,Security Awareness Training,12.2,Synthetic sample data
+SYN-00719,India,Asia,2016,DDoS,Education,69.24,363,Automated Scanner,Exposed Remote Access,Not Reported,25.3,Synthetic sample data
+SYN-00720,Netherlands,Europe,2021,Phishing,Education,139.75,3042,Third-Party Compromise,Zero-Day Vulnerability,Patch Management,18.4,Synthetic sample data
+SYN-00721,France,Europe,2017,Malware,Banking & Finance,6.3,2407,Automated Scanner,Weak Passwords,Email Filtering,12.9,Synthetic sample data
+SYN-00722,United Kingdom,Europe,2019,SQL Injection,Energy,1.82,199,Third-Party Compromise,Unpatched Software,Email Filtering,5.9,Synthetic sample data
+SYN-00723,India,Asia,2018,Phishing,Banking & Finance,12.55,3731,Botnet,Third-Party Vulnerability,Email Filtering,22.7,Synthetic sample data
+SYN-00724,France,Europe,2015,Data Breach,Manufacturing,28.78,1940,Cybercriminal Group,Not Specified,Security Awareness Training,10.6,Synthetic sample data
+SYN-00725,United Arab Emirates,Asia,2021,Phishing,Technology,2.67,1424,Nation-State Suspected,Misconfiguration,Multi-Factor Authentication,22.7,Synthetic sample data
+SYN-00726,South Africa,Africa,2024,Phishing,Manufacturing,28.81,2645,Cybercriminal Group,Zero-Day Vulnerability,Firewall,16.8,Synthetic sample data
+SYN-00727,United Arab Emirates,Asia,2018,Malware,Transportation,78.55,3489,Cybercriminal Group,Misconfiguration,Data Backup & Recovery,38.3,Synthetic sample data
+SYN-00728,Italy,Europe,2023,Malware,Education,62.17,638,Insider,Not Specified,Patch Management,3.9,Synthetic sample data
+SYN-00729,Nigeria,Africa,2020,Phishing,Energy,15.09,1689,Phishing Campaign,SQL Injection Flaw,Email Filtering,24.9,Synthetic sample data
+SYN-00730,Indonesia,Asia,2018,Business Email Compromise,Technology,70.51,395,Botnet,Not Specified,Patch Management,16.6,Synthetic sample data
+SYN-00731,Spain,Europe,2018,SQL Injection,Telecommunications,10.49,2842,Cybercriminal Group,Misconfiguration,Endpoint Detection & Response,17.0,Synthetic sample data
+SYN-00732,Mexico,North America,2021,Malware,Technology,4.4,609,Insider,Zero-Day Vulnerability,Endpoint Detection & Response,28.9,Synthetic sample data
+SYN-00733,Nigeria,Africa,2019,Business Email Compromise,Government,42.08,2109,Botnet,Not Specified,Incident Response Team,14.3,Synthetic sample data
+SYN-00734,Netherlands,Europe,2019,Insider Threat,Healthcare,13.09,7977,Insider,Zero-Day Vulnerability,Email Filtering,32.1,Synthetic sample data
+SYN-00735,Singapore,Asia,2021,Ransomware,Government,41.48,3807,Botnet,Weak Passwords,Security Awareness Training,22.8,Synthetic sample data
+SYN-00736,South Africa,Africa,2019,Malware,Retail & E-commerce,10.0,18179,Botnet,Zero-Day Vulnerability,Patch Management,50.1,Synthetic sample data
+SYN-00737,Australia,Oceania,2015,Malware,Banking & Finance,127.34,3341,Third-Party Compromise,Social Engineering,Patch Management,27.8,Synthetic sample data
+SYN-00738,Germany,Europe,2016,Malware,Technology,34.1,992,Automated Scanner,Zero-Day Vulnerability,Endpoint Detection & Response,54.6,Synthetic sample data
+SYN-00739,Singapore,Asia,2017,DDoS,Education,22.81,5511,Automated Scanner,Third-Party Vulnerability,Endpoint Detection & Response,4.6,Synthetic sample data
+SYN-00740,India,Asia,2015,Ransomware,Transportation,30.44,12369,Unknown,Social Engineering,Security Awareness Training,20.7,Synthetic sample data
+SYN-00741,United Kingdom,Europe,2023,Credential Theft,Retail & E-commerce,15.65,2022,Cybercriminal Group,Exposed Remote Access,Endpoint Detection & Response,28.3,Synthetic sample data
+SYN-00742,Netherlands,Europe,2018,Data Breach,Telecommunications,264.23,2293,Botnet,Zero-Day Vulnerability,Security Awareness Training,20.9,Synthetic sample data
+SYN-00743,South Africa,Africa,2016,Phishing,Education,5.12,3836,Unknown,Privilege Escalation,Network Monitoring,14.4,Synthetic sample data
+SYN-00744,Spain,Europe,2022,Data Breach,Retail & E-commerce,42.76,4829,Cybercriminal Group,Zero-Day Vulnerability,Patch Management,11.8,Synthetic sample data
+SYN-00745,South Korea,Asia,2021,Malware,Banking & Finance,4.78,726,Nation-State Suspected,Privilege Escalation,Security Awareness Training,18.1,Synthetic sample data
+SYN-00746,Australia,Oceania,2016,Insider Threat,Transportation,96.48,312,Third-Party Compromise,Misconfiguration,Not Reported,26.3,Synthetic sample data
+SYN-00747,United Arab Emirates,Asia,2023,Phishing,Banking & Finance,5.89,3897,Insider,SQL Injection Flaw,Incident Response Team,3.6,Synthetic sample data
+SYN-00748,United Arab Emirates,Asia,2020,Malware,Energy,23.83,2968,Insider,Weak Passwords,Multi-Factor Authentication,28.8,Synthetic sample data
+SYN-00749,Mexico,North America,2017,Credential Theft,Education,16.74,3637,Phishing Campaign,Unpatched Software,Endpoint Detection & Response,19.3,Synthetic sample data
+SYN-00750,Saudi Arabia,Asia,2019,Business Email Compromise,Technology,30.16,890,Cybercriminal Group,Zero-Day Vulnerability,Patch Management,9.8,Synthetic sample data
+SYN-00751,France,Europe,2022,Ransomware,Energy,95.82,1557,Insider,Exposed Remote Access,Multi-Factor Authentication,48.3,Synthetic sample data
+SYN-00752,Spain,Europe,2024,Phishing,Education,4.72,9294,Third-Party Compromise,Misconfiguration,Endpoint Detection & Response,11.9,Synthetic sample data
+SYN-00753,Saudi Arabia,Asia,2022,DDoS,Transportation,7.33,934,Insider,Weak Passwords,Email Filtering,10.4,Synthetic sample data
+SYN-00754,Nigeria,Africa,2015,Ransomware,Retail & E-commerce,19.46,422,Automated Scanner,Third-Party Vulnerability,Email Filtering,31.3,Synthetic sample data
+SYN-00755,United Kingdom,Europe,2016,Malware,Healthcare,2.18,437,Unknown,Misconfiguration,Multi-Factor Authentication,14.9,Synthetic sample data
+SYN-00756,Italy,Europe,2022,Phishing,Energy,5.86,4846,Unknown,Exposed Remote Access,Multi-Factor Authentication,20.2,Synthetic sample data
+SYN-00757,Japan,Asia,2017,Ransomware,Retail & E-commerce,22.11,22344,Third-Party Compromise,Third-Party Vulnerability,Not Reported,11.9,Synthetic sample data
+SYN-00758,Spain,Europe,2015,Ransomware,Government,75.34,325,Botnet,Privilege Escalation,Endpoint Detection & Response,8.4,Synthetic sample data
+SYN-00759,Saudi Arabia,Asia,2017,Phishing,Energy,29.91,3033,Insider,SQL Injection Flaw,Multi-Factor Authentication,20.8,Synthetic sample data
+SYN-00760,France,Europe,2023,DDoS,Retail & E-commerce,5.7,333,Phishing Campaign,Not Specified,Firewall,6.9,Synthetic sample data
+SYN-00761,Mexico,North America,2020,DDoS,Transportation,7.56,10992,Nation-State Suspected,Not Specified,Email Filtering,7.7,Synthetic sample data
+SYN-00762,United States,North America,2020,Phishing,Banking & Finance,8.53,510,Botnet,Third-Party Vulnerability,Email Filtering,10.2,Synthetic sample data
+SYN-00763,Mexico,North America,2022,Malware,Energy,157.93,5763,Third-Party Compromise,Third-Party Vulnerability,Endpoint Detection & Response,15.6,Synthetic sample data
+SYN-00764,Germany,Europe,2023,SQL Injection,Manufacturing,12.03,7977,Botnet,Weak Passwords,Network Monitoring,29.4,Synthetic sample data
+SYN-00765,United Arab Emirates,Asia,2017,Insider Threat,Banking & Finance,25.59,902,Insider,Privilege Escalation,Network Monitoring,13.5,Synthetic sample data
+SYN-00766,United States,North America,2024,Ransomware,Education,32.44,1541,Automated Scanner,Exposed Remote Access,Multi-Factor Authentication,44.3,Synthetic sample data
+SYN-00767,Saudi Arabia,Asia,2022,Malware,Telecommunications,2.28,2999,Phishing Campaign,Weak Passwords,Network Monitoring,9.2,Synthetic sample data
+SYN-00768,India,Asia,2022,Data Breach,Banking & Finance,2.86,7351,Third-Party Compromise,Unpatched Software,Incident Response Team,9.3,Synthetic sample data
+SYN-00769,Singapore,Asia,2017,SQL Injection,Transportation,67.51,9219,Third-Party Compromise,Third-Party Vulnerability,Multi-Factor Authentication,16.5,Synthetic sample data
+SYN-00770,United Kingdom,Europe,2017,Malware,Education,2.37,694,Insider,Third-Party Vulnerability,Data Backup & Recovery,10.9,Synthetic sample data
+SYN-00771,United Kingdom,Europe,2024,Insider Threat,Healthcare,39.68,14508,Phishing Campaign,Unpatched Software,Firewall,9.9,Synthetic sample data
+SYN-00772,United Kingdom,Europe,2018,Ransomware,Retail & E-commerce,36.6,513,Botnet,Zero-Day Vulnerability,Multi-Factor Authentication,15.6,Synthetic sample data
+SYN-00773,France,Europe,2018,Phishing,Education,3.68,778,Nation-State Suspected,Privilege Escalation,Patch Management,19.1,Synthetic sample data
+SYN-00774,Japan,Asia,2015,Insider Threat,Transportation,17.75,2170,Unknown,Misconfiguration,Incident Response Team,20.6,Synthetic sample data
+SYN-00775,France,Europe,2016,DDoS,Retail & E-commerce,14.71,1226,Nation-State Suspected,Social Engineering,Email Filtering,10.5,Synthetic sample data
+SYN-00776,Netherlands,Europe,2015,Ransomware,Healthcare,39.95,1826,Third-Party Compromise,Weak Passwords,Firewall,54.3,Synthetic sample data
+SYN-00777,South Korea,Asia,2023,Phishing,Banking & Finance,18.39,5517,Automated Scanner,Not Specified,Email Filtering,5.8,Synthetic sample data
+SYN-00778,Saudi Arabia,Asia,2020,Malware,Technology,22.2,1104,Nation-State Suspected,Weak Passwords,Security Awareness Training,19.6,Synthetic sample data
+SYN-00779,Saudi Arabia,Asia,2023,Phishing,Transportation,4.24,1675,Botnet,Misconfiguration,Network Monitoring,20.5,Synthetic sample data
+SYN-00780,Japan,Asia,2019,Ransomware,Government,19.29,12817,Insider,Social Engineering,Data Backup & Recovery,21.4,Synthetic sample data
+SYN-00781,United Arab Emirates,Asia,2016,Malware,Technology,150.56,2319,Insider,Privilege Escalation,Data Backup & Recovery,25.7,Synthetic sample data
+SYN-00782,Mexico,North America,2023,Phishing,Telecommunications,5.28,1431,Cybercriminal Group,Social Engineering,Not Reported,14.5,Synthetic sample data
+SYN-00783,Canada,North America,2017,Malware,Banking & Finance,7.0,657,Insider,Zero-Day Vulnerability,Data Backup & Recovery,8.6,Synthetic sample data
+SYN-00784,Spain,Europe,2015,Ransomware,Technology,322.92,1246,Botnet,Misconfiguration,Data Backup & Recovery,35.2,Synthetic sample data
+SYN-00785,Mexico,North America,2015,Phishing,Government,6.01,1071,Unknown,Privilege Escalation,Multi-Factor Authentication,12.2,Synthetic sample data
+SYN-00786,Germany,Europe,2024,Credential Theft,Telecommunications,7.25,737,Third-Party Compromise,Privilege Escalation,Network Monitoring,22.5,Synthetic sample data
+SYN-00787,Italy,Europe,2024,Business Email Compromise,Telecommunications,21.3,1298,Unknown,Weak Passwords,Email Filtering,65.6,Synthetic sample data
+SYN-00788,France,Europe,2021,Ransomware,Education,20.77,347,Cybercriminal Group,Third-Party Vulnerability,Patch Management,40.7,Synthetic sample data
+SYN-00789,United Arab Emirates,Asia,2015,DDoS,Technology,14.56,356,Insider,Misconfiguration,Endpoint Detection & Response,32.1,Synthetic sample data
+SYN-00790,South Korea,Asia,2024,Ransomware,Energy,35.91,2827,Automated Scanner,Weak Passwords,Endpoint Detection & Response,41.2,Synthetic sample data
+SYN-00791,Italy,Europe,2016,Ransomware,Education,5.75,6802,Unknown,Exposed Remote Access,Multi-Factor Authentication,37.0,Synthetic sample data
+SYN-00792,Canada,North America,2015,Malware,Telecommunications,146.91,371,Insider,Exposed Remote Access,Patch Management,59.9,Synthetic sample data
+SYN-00793,South Africa,Africa,2019,Phishing,Retail & E-commerce,5.3,10806,Cybercriminal Group,Exposed Remote Access,Firewall,9.2,Synthetic sample data
+SYN-00794,Singapore,Asia,2018,Phishing,Education,15.34,121,Automated Scanner,Not Specified,Data Backup & Recovery,7.2,Synthetic sample data
+SYN-00795,United Arab Emirates,Asia,2022,Phishing,Telecommunications,16.2,2877,Insider,Third-Party Vulnerability,Firewall,13.4,Synthetic sample data
+SYN-00796,Singapore,Asia,2022,Data Breach,Banking & Finance,15.76,2971,Botnet,Not Specified,Not Reported,5.8,Synthetic sample data
+SYN-00797,Germany,Europe,2016,Malware,Retail & E-commerce,11.29,9626,Phishing Campaign,Not Specified,Patch Management,13.6,Synthetic sample data
+SYN-00798,Australia,Oceania,2021,SQL Injection,Education,46.79,2671,Third-Party Compromise,SQL Injection Flaw,Endpoint Detection & Response,16.5,Synthetic sample data
+SYN-00799,Canada,North America,2021,Malware,Telecommunications,52.65,569,Nation-State Suspected,Privilege Escalation,Firewall,11.6,Synthetic sample data
+SYN-00800,Japan,Asia,2016,Malware,Technology,40.18,222,Unknown,Exposed Remote Access,Security Awareness Training,12.7,Synthetic sample data
+SYN-00801,Netherlands,Europe,2022,Data Breach,Manufacturing,73.19,5303,Cybercriminal Group,Not Specified,Data Backup & Recovery,5.1,Synthetic sample data
+SYN-00802,Japan,Asia,2022,Insider Threat,Retail & E-commerce,31.29,2497,Third-Party Compromise,Misconfiguration,Patch Management,11.6,Synthetic sample data
+SYN-00803,South Korea,Asia,2023,Data Breach,Transportation,6.76,29689,Third-Party Compromise,Misconfiguration,Security Awareness Training,7.2,Synthetic sample data
+SYN-00804,France,Europe,2023,Phishing,Transportation,16.26,176,Cybercriminal Group,Privilege Escalation,Email Filtering,21.3,Synthetic sample data
+SYN-00805,Germany,Europe,2016,Phishing,Education,8.67,1315,Phishing Campaign,Misconfiguration,Network Monitoring,19.5,Synthetic sample data
+SYN-00806,Spain,Europe,2018,Business Email Compromise,Manufacturing,168.31,1839,Nation-State Suspected,Privilege Escalation,Network Monitoring,23.2,Synthetic sample data
+SYN-00807,South Africa,Africa,2015,Ransomware,Manufacturing,75.8,1140,Third-Party Compromise,Zero-Day Vulnerability,Patch Management,68.2,Synthetic sample data
+SYN-00808,Brazil,South America,2024,Ransomware,Technology,207.44,795,Nation-State Suspected,Social Engineering,Multi-Factor Authentication,65.7,Synthetic sample data
+SYN-00809,Spain,Europe,2024,SQL Injection,Manufacturing,11.44,5113,Botnet,Not Specified,Incident Response Team,7.6,Synthetic sample data
+SYN-00810,Japan,Asia,2022,SQL Injection,Banking & Finance,12.48,203,Phishing Campaign,SQL Injection Flaw,Security Awareness Training,41.3,Synthetic sample data
+SYN-00811,United Arab Emirates,Asia,2022,Malware,Banking & Finance,34.74,433,Insider,Social Engineering,Network Monitoring,5.6,Synthetic sample data
+SYN-00812,Indonesia,Asia,2023,SQL Injection,Banking & Finance,10.64,5745,Automated Scanner,Not Specified,Incident Response Team,20.5,Synthetic sample data
+SYN-00813,South Korea,Asia,2017,Phishing,Transportation,4.58,11862,Nation-State Suspected,Third-Party Vulnerability,Patch Management,8.7,Synthetic sample data
+SYN-00814,Netherlands,Europe,2024,Malware,Healthcare,12.06,502,Cybercriminal Group,SQL Injection Flaw,Endpoint Detection & Response,17.5,Synthetic sample data
+SYN-00815,Spain,Europe,2019,DDoS,Transportation,24.54,5981,Unknown,Unpatched Software,Email Filtering,33.5,Synthetic sample data
+SYN-00816,Spain,Europe,2017,Ransomware,Telecommunications,113.22,509,Nation-State Suspected,Zero-Day Vulnerability,Patch Management,19.1,Synthetic sample data
+SYN-00817,Japan,Asia,2022,Phishing,Energy,1.09,3457,Automated Scanner,Privilege Escalation,Firewall,30.4,Synthetic sample data
+SYN-00818,Indonesia,Asia,2017,Phishing,Healthcare,10.92,2570,Insider,Social Engineering,Patch Management,9.3,Synthetic sample data
+SYN-00819,Netherlands,Europe,2017,Ransomware,Retail & E-commerce,61.22,5276,Unknown,Misconfiguration,Firewall,42.8,Synthetic sample data
+SYN-00820,France,Europe,2022,Insider Threat,Education,15.73,3105,Third-Party Compromise,Misconfiguration,Patch Management,14.3,Synthetic sample data
+SYN-00821,Nigeria,Africa,2015,Business Email Compromise,Technology,43.63,1197,Cybercriminal Group,Exposed Remote Access,Network Monitoring,25.7,Synthetic sample data
+SYN-00822,France,Europe,2019,Credential Theft,Banking & Finance,8.27,650,Third-Party Compromise,Exposed Remote Access,Data Backup & Recovery,16.8,Synthetic sample data
+SYN-00823,Germany,Europe,2016,Ransomware,Manufacturing,107.92,1592,Automated Scanner,Not Specified,Email Filtering,13.2,Synthetic sample data
+SYN-00824,Indonesia,Asia,2020,Malware,Education,31.22,1648,Phishing Campaign,Privilege Escalation,Firewall,10.8,Synthetic sample data
+SYN-00825,France,Europe,2023,DDoS,Education,112.63,423,Cybercriminal Group,Misconfiguration,Endpoint Detection & Response,23.4,Synthetic sample data
+SYN-00826,Singapore,Asia,2022,Ransomware,Manufacturing,9.27,1013,Third-Party Compromise,Social Engineering,Patch Management,27.5,Synthetic sample data
+SYN-00827,Italy,Europe,2015,SQL Injection,Energy,17.02,1393,Third-Party Compromise,Weak Passwords,Not Reported,31.1,Synthetic sample data
+SYN-00828,Netherlands,Europe,2020,Data Breach,Healthcare,49.88,18625,Phishing Campaign,Third-Party Vulnerability,Endpoint Detection & Response,27.8,Synthetic sample data
+SYN-00829,France,Europe,2022,Malware,Government,31.93,1587,Third-Party Compromise,Unpatched Software,Firewall,30.8,Synthetic sample data
+SYN-00830,United States,North America,2021,DDoS,Banking & Finance,5.97,745,Unknown,Weak Passwords,Multi-Factor Authentication,22.0,Synthetic sample data
+SYN-00831,South Korea,Asia,2018,Business Email Compromise,Transportation,17.43,896,Third-Party Compromise,Not Specified,Firewall,32.2,Synthetic sample data
+SYN-00832,India,Asia,2017,DDoS,Healthcare,19.09,3116,Third-Party Compromise,SQL Injection Flaw,Security Awareness Training,6.7,Synthetic sample data
+SYN-00833,Australia,Oceania,2018,Business Email Compromise,Transportation,33.52,1390,Phishing Campaign,Unpatched Software,Firewall,25.0,Synthetic sample data
+SYN-00834,Singapore,Asia,2021,Phishing,Healthcare,14.27,552,Third-Party Compromise,Privilege Escalation,Patch Management,1.6,Synthetic sample data
+SYN-00835,Germany,Europe,2020,Malware,Education,4.6,5975,Phishing Campaign,Exposed Remote Access,Patch Management,26.3,Synthetic sample data
+SYN-00836,United States,North America,2017,DDoS,Government,16.75,2540,Automated Scanner,Weak Passwords,Multi-Factor Authentication,34.5,Synthetic sample data
+SYN-00837,Nigeria,Africa,2017,Phishing,Energy,3.43,907,Botnet,Misconfiguration,Network Monitoring,30.6,Synthetic sample data
+SYN-00838,Singapore,Asia,2015,Business Email Compromise,Manufacturing,52.25,917,Cybercriminal Group,Privilege Escalation,Multi-Factor Authentication,47.2,Synthetic sample data
+SYN-00839,Japan,Asia,2017,Phishing,Manufacturing,0.89,10285,Insider,Unpatched Software,Data Backup & Recovery,5.9,Synthetic sample data
+SYN-00840,United States,North America,2019,Malware,Education,11.97,2926,Botnet,SQL Injection Flaw,Incident Response Team,10.7,Synthetic sample data
+SYN-00841,Brazil,South America,2017,Ransomware,Healthcare,27.5,2096,Phishing Campaign,Exposed Remote Access,Patch Management,29.5,Synthetic sample data
+SYN-00842,France,Europe,2017,Ransomware,Manufacturing,409.38,4488,Botnet,Not Specified,Multi-Factor Authentication,69.6,Synthetic sample data
+SYN-00843,Canada,North America,2017,Malware,Banking & Finance,84.63,7334,Automated Scanner,Privilege Escalation,Network Monitoring,10.3,Synthetic sample data
+SYN-00844,France,Europe,2023,Insider Threat,Manufacturing,68.34,1761,Botnet,Zero-Day Vulnerability,Network Monitoring,21.9,Synthetic sample data
+SYN-00845,Italy,Europe,2019,Phishing,Manufacturing,4.74,2202,Unknown,Weak Passwords,Incident Response Team,17.8,Synthetic sample data
+SYN-00846,United Arab Emirates,Asia,2019,Malware,Energy,1.09,3055,Phishing Campaign,Third-Party Vulnerability,Firewall,10.9,Synthetic sample data
+SYN-00847,Brazil,South America,2024,Credential Theft,Energy,20.34,178,Cybercriminal Group,Third-Party Vulnerability,Network Monitoring,47.8,Synthetic sample data
+SYN-00848,Canada,North America,2017,DDoS,Transportation,10.29,1437,Unknown,Social Engineering,Patch Management,15.8,Synthetic sample data
+SYN-00849,South Africa,Africa,2015,Phishing,Energy,12.92,4221,Nation-State Suspected,Social Engineering,Not Reported,16.0,Synthetic sample data
+SYN-00850,Canada,North America,2021,Business Email Compromise,Technology,16.79,431,Unknown,Not Specified,Security Awareness Training,30.2,Synthetic sample data
+SYN-00851,Brazil,South America,2018,Malware,Education,23.42,4801,Third-Party Compromise,Weak Passwords,Endpoint Detection & Response,9.7,Synthetic sample data
+SYN-00852,Germany,Europe,2023,Business Email Compromise,Telecommunications,10.6,1132,Botnet,Unpatched Software,Network Monitoring,93.6,Synthetic sample data
+SYN-00853,Spain,Europe,2019,Ransomware,Healthcare,111.71,4947,Phishing Campaign,Not Specified,Not Reported,41.5,Synthetic sample data
+SYN-00854,India,Asia,2016,Credential Theft,Education,6.75,645,Nation-State Suspected,Zero-Day Vulnerability,Incident Response Team,15.8,Synthetic sample data
+SYN-00855,Canada,North America,2024,Malware,Education,33.14,6326,Phishing Campaign,Privilege Escalation,Incident Response Team,20.0,Synthetic sample data
+SYN-00856,Germany,Europe,2024,Credential Theft,Healthcare,7.86,5003,Phishing Campaign,Unpatched Software,Security Awareness Training,10.3,Synthetic sample data
+SYN-00857,United Arab Emirates,Asia,2022,Credential Theft,Transportation,21.96,1524,Cybercriminal Group,Exposed Remote Access,Data Backup & Recovery,89.7,Synthetic sample data
+SYN-00858,France,Europe,2020,Credential Theft,Manufacturing,14.8,153,Third-Party Compromise,Social Engineering,Patch Management,4.0,Synthetic sample data
+SYN-00859,Indonesia,Asia,2020,Business Email Compromise,Manufacturing,15.51,21246,Botnet,Privilege Escalation,Endpoint Detection & Response,20.6,Synthetic sample data
+SYN-00860,Spain,Europe,2017,Business Email Compromise,Retail & E-commerce,19.84,981,Nation-State Suspected,Privilege Escalation,Network Monitoring,10.0,Synthetic sample data
+SYN-00861,Italy,Europe,2023,Ransomware,Energy,74.38,195,Botnet,Exposed Remote Access,Not Reported,56.6,Synthetic sample data
+SYN-00862,France,Europe,2017,Data Breach,Energy,97.56,2784,Third-Party Compromise,Exposed Remote Access,Firewall,5.3,Synthetic sample data
+SYN-00863,France,Europe,2015,Malware,Retail & E-commerce,30.06,3980,Insider,Social Engineering,Email Filtering,18.8,Synthetic sample data
+SYN-00864,Nigeria,Africa,2017,Credential Theft,Transportation,69.1,659,Unknown,Not Specified,Data Backup & Recovery,12.0,Synthetic sample data
+SYN-00865,Brazil,South America,2020,Credential Theft,Retail & E-commerce,35.2,609,Botnet,Unpatched Software,Incident Response Team,26.1,Synthetic sample data
+SYN-00866,France,Europe,2024,Credential Theft,Telecommunications,1.58,327,Automated Scanner,Privilege Escalation,Not Reported,17.6,Synthetic sample data
+SYN-00867,United Arab Emirates,Asia,2022,Credential Theft,Government,47.91,769,Phishing Campaign,SQL Injection Flaw,Endpoint Detection & Response,8.4,Synthetic sample data
+SYN-00868,South Korea,Asia,2019,DDoS,Education,38.47,632,Third-Party Compromise,Social Engineering,Not Reported,25.3,Synthetic sample data
+SYN-00869,United Kingdom,Europe,2024,Phishing,Technology,19.56,667,Botnet,Social Engineering,Security Awareness Training,33.5,Synthetic sample data
+SYN-00870,Nigeria,Africa,2021,Data Breach,Government,25.67,2022,Third-Party Compromise,Misconfiguration,Endpoint Detection & Response,8.9,Synthetic sample data
+SYN-00871,Australia,Oceania,2018,Malware,Healthcare,22.67,355,Third-Party Compromise,Privilege Escalation,Endpoint Detection & Response,17.0,Synthetic sample data
+SYN-00872,Mexico,North America,2019,Phishing,Transportation,2.66,1118,Third-Party Compromise,Unpatched Software,Firewall,4.3,Synthetic sample data
+SYN-00873,Brazil,South America,2024,Malware,Government,101.09,811,Automated Scanner,Misconfiguration,Incident Response Team,13.4,Synthetic sample data
+SYN-00874,Italy,Europe,2017,SQL Injection,Telecommunications,21.77,1198,Insider,Not Specified,Firewall,18.0,Synthetic sample data
+SYN-00875,United Arab Emirates,Asia,2017,Ransomware,Telecommunications,2.65,1497,Insider,Exposed Remote Access,Multi-Factor Authentication,18.3,Synthetic sample data
+SYN-00876,Netherlands,Europe,2023,DDoS,Energy,5.25,1002,Insider,Zero-Day Vulnerability,Network Monitoring,16.1,Synthetic sample data
+SYN-00877,Singapore,Asia,2023,Malware,Technology,101.76,1414,Nation-State Suspected,Privilege Escalation,Patch Management,33.8,Synthetic sample data
+SYN-00878,Netherlands,Europe,2024,DDoS,Manufacturing,4.46,1415,Cybercriminal Group,Third-Party Vulnerability,Multi-Factor Authentication,10.2,Synthetic sample data
+SYN-00879,Australia,Oceania,2016,Malware,Government,45.01,1894,Insider,SQL Injection Flaw,Endpoint Detection & Response,7.2,Synthetic sample data
+SYN-00880,Germany,Europe,2019,Phishing,Retail & E-commerce,26.53,983,Third-Party Compromise,Misconfiguration,Data Backup & Recovery,80.8,Synthetic sample data
+SYN-00881,Nigeria,Africa,2024,Data Breach,Education,66.55,1923,Insider,Zero-Day Vulnerability,Data Backup & Recovery,15.9,Synthetic sample data
+SYN-00882,Mexico,North America,2015,Data Breach,Telecommunications,49.69,10633,Botnet,Social Engineering,Endpoint Detection & Response,9.7,Synthetic sample data
+SYN-00883,France,Europe,2021,Ransomware,Education,277.27,1333,Nation-State Suspected,Not Specified,Patch Management,15.9,Synthetic sample data
+SYN-00884,Mexico,North America,2017,Phishing,Healthcare,4.66,1501,Insider,Exposed Remote Access,Not Reported,23.7,Synthetic sample data
+SYN-00885,Australia,Oceania,2018,Business Email Compromise,Banking & Finance,74.3,429,Cybercriminal Group,Misconfiguration,Network Monitoring,16.6,Synthetic sample data
+SYN-00886,Australia,Oceania,2020,Data Breach,Telecommunications,167.01,1495,Cybercriminal Group,Privilege Escalation,Endpoint Detection & Response,17.8,Synthetic sample data
+SYN-00887,Germany,Europe,2016,Malware,Energy,38.33,820,Cybercriminal Group,Not Specified,Firewall,5.3,Synthetic sample data
+SYN-00888,United States,North America,2022,Insider Threat,Technology,17.37,3264,Nation-State Suspected,Not Specified,Data Backup & Recovery,8.8,Synthetic sample data
+SYN-00889,Brazil,South America,2022,DDoS,Manufacturing,18.07,4190,Insider,Misconfiguration,Patch Management,7.9,Synthetic sample data
+SYN-00890,Indonesia,Asia,2018,Zero-Day Exploit,Government,43.09,2957,Third-Party Compromise,Social Engineering,Data Backup & Recovery,23.0,Synthetic sample data
+SYN-00891,Singapore,Asia,2021,Phishing,Energy,25.31,5597,Insider,Social Engineering,Security Awareness Training,12.2,Synthetic sample data
+SYN-00892,Nigeria,Africa,2020,Data Breach,Retail & E-commerce,5.52,252,Unknown,Misconfiguration,Email Filtering,37.1,Synthetic sample data
+SYN-00893,India,Asia,2018,Phishing,Energy,1.39,2811,Botnet,Exposed Remote Access,Incident Response Team,38.0,Synthetic sample data
+SYN-00894,Netherlands,Europe,2018,Phishing,Manufacturing,26.15,5813,Automated Scanner,Social Engineering,Firewall,18.0,Synthetic sample data
+SYN-00895,India,Asia,2016,Business Email Compromise,Healthcare,23.74,4750,Cybercriminal Group,Weak Passwords,Multi-Factor Authentication,13.1,Synthetic sample data
+SYN-00896,Saudi Arabia,Asia,2020,DDoS,Telecommunications,9.1,4348,Automated Scanner,SQL Injection Flaw,Firewall,8.5,Synthetic sample data
+SYN-00897,Indonesia,Asia,2024,Malware,Energy,7.3,2340,Automated Scanner,Zero-Day Vulnerability,Security Awareness Training,13.3,Synthetic sample data
+SYN-00898,Japan,Asia,2015,DDoS,Manufacturing,37.0,719,Automated Scanner,Not Specified,Not Reported,43.8,Synthetic sample data
+SYN-00899,Singapore,Asia,2019,Data Breach,Healthcare,32.11,5476,Third-Party Compromise,Not Specified,Email Filtering,9.9,Synthetic sample data
+SYN-00900,United States,North America,2022,Ransomware,Government,33.35,2102,Cybercriminal Group,Social Engineering,Patch Management,31.5,Synthetic sample data
+SYN-00901,Australia,Oceania,2022,Malware,Banking & Finance,13.61,6759,Nation-State Suspected,Exposed Remote Access,Network Monitoring,21.5,Synthetic sample data
+SYN-00902,United Arab Emirates,Asia,2019,DDoS,Telecommunications,7.21,2558,Nation-State Suspected,Zero-Day Vulnerability,Endpoint Detection & Response,7.7,Synthetic sample data
+SYN-00903,Brazil,South America,2024,Credential Theft,Healthcare,30.19,516,Phishing Campaign,Weak Passwords,Multi-Factor Authentication,18.8,Synthetic sample data
+SYN-00904,Brazil,South America,2018,SQL Injection,Healthcare,6.58,1488,Botnet,Unpatched Software,Endpoint Detection & Response,19.0,Synthetic sample data
+SYN-00905,South Africa,Africa,2024,Credential Theft,Banking & Finance,8.9,24480,Automated Scanner,Misconfiguration,Incident Response Team,34.8,Synthetic sample data
+SYN-00906,United Kingdom,Europe,2018,Phishing,Manufacturing,19.21,3555,Insider,Misconfiguration,Data Backup & Recovery,10.8,Synthetic sample data
+SYN-00907,United Arab Emirates,Asia,2018,DDoS,Education,3.08,3122,Nation-State Suspected,Misconfiguration,Endpoint Detection & Response,111.6,Synthetic sample data
+SYN-00908,South Korea,Asia,2015,Zero-Day Exploit,Healthcare,128.65,10015,Third-Party Compromise,Not Specified,Network Monitoring,40.6,Synthetic sample data
+SYN-00909,United Arab Emirates,Asia,2022,Malware,Education,25.43,797,Automated Scanner,SQL Injection Flaw,Incident Response Team,9.4,Synthetic sample data
+SYN-00910,Mexico,North America,2022,Credential Theft,Telecommunications,31.69,3227,Automated Scanner,Misconfiguration,Firewall,26.7,Synthetic sample data
+SYN-00911,United Arab Emirates,Asia,2015,Malware,Government,20.37,430,Botnet,Not Specified,Firewall,28.4,Synthetic sample data
+SYN-00912,Australia,Oceania,2022,Data Breach,Telecommunications,35.66,1769,Unknown,Exposed Remote Access,Firewall,18.9,Synthetic sample data
+SYN-00913,Italy,Europe,2022,Credential Theft,Technology,22.94,524,Automated Scanner,Weak Passwords,Patch Management,22.4,Synthetic sample data
+SYN-00914,Italy,Europe,2019,Ransomware,Manufacturing,41.87,593,Botnet,SQL Injection Flaw,Not Reported,32.3,Synthetic sample data
+SYN-00915,Singapore,Asia,2018,SQL Injection,Manufacturing,1.56,1286,Insider,Not Specified,Not Reported,5.5,Synthetic sample data
+SYN-00916,Germany,Europe,2021,Business Email Compromise,Transportation,31.37,600,Third-Party Compromise,Unpatched Software,Incident Response Team,72.4,Synthetic sample data
+SYN-00917,France,Europe,2017,Malware,Banking & Finance,30.53,4379,Automated Scanner,Social Engineering,Security Awareness Training,9.6,Synthetic sample data
+SYN-00918,Singapore,Asia,2022,Zero-Day Exploit,Transportation,70.22,1464,Insider,Social Engineering,Not Reported,17.8,Synthetic sample data
+SYN-00919,United States,North America,2019,Ransomware,Government,146.22,303,Nation-State Suspected,Weak Passwords,Multi-Factor Authentication,38.3,Synthetic sample data
+SYN-00920,Saudi Arabia,Asia,2022,Business Email Compromise,Healthcare,8.73,501,Nation-State Suspected,Privilege Escalation,Patch Management,7.8,Synthetic sample data
+SYN-00921,Spain,Europe,2020,Phishing,Technology,8.33,938,Cybercriminal Group,Exposed Remote Access,Network Monitoring,31.6,Synthetic sample data
+SYN-00922,India,Asia,2017,Malware,Healthcare,41.77,174,Botnet,Misconfiguration,Endpoint Detection & Response,36.4,Synthetic sample data
+SYN-00923,Nigeria,Africa,2020,Business Email Compromise,Telecommunications,36.71,1061,Unknown,Third-Party Vulnerability,Multi-Factor Authentication,15.4,Synthetic sample data
+SYN-00924,France,Europe,2018,Ransomware,Energy,47.1,767,Cybercriminal Group,Weak Passwords,Security Awareness Training,35.8,Synthetic sample data
+SYN-00925,Italy,Europe,2019,Malware,Technology,26.41,1567,Phishing Campaign,Weak Passwords,Security Awareness Training,28.2,Synthetic sample data
+SYN-00926,United Arab Emirates,Asia,2023,SQL Injection,Government,39.6,2543,Unknown,Social Engineering,Firewall,18.7,Synthetic sample data
+SYN-00927,Japan,Asia,2018,Business Email Compromise,Education,100.37,2248,Third-Party Compromise,Social Engineering,Network Monitoring,2.5,Synthetic sample data
+SYN-00928,Italy,Europe,2021,Phishing,Healthcare,3.29,39370,Cybercriminal Group,Exposed Remote Access,Endpoint Detection & Response,91.3,Synthetic sample data
+SYN-00929,South Africa,Africa,2020,Malware,Retail & E-commerce,16.37,386,Nation-State Suspected,Social Engineering,Incident Response Team,18.1,Synthetic sample data
+SYN-00930,Canada,North America,2016,Data Breach,Banking & Finance,109.78,1436,Cybercriminal Group,Not Specified,Multi-Factor Authentication,11.1,Synthetic sample data
+SYN-00931,Nigeria,Africa,2020,Phishing,Technology,28.96,10265,Cybercriminal Group,Zero-Day Vulnerability,Multi-Factor Authentication,16.0,Synthetic sample data
+SYN-00932,United Kingdom,Europe,2018,Malware,Transportation,42.45,2243,Nation-State Suspected,Zero-Day Vulnerability,Multi-Factor Authentication,5.8,Synthetic sample data
+SYN-00933,South Korea,Asia,2021,Phishing,Banking & Finance,39.14,1121,Cybercriminal Group,Unpatched Software,Patch Management,5.4,Synthetic sample data
+SYN-00934,United States,North America,2015,SQL Injection,Technology,12.73,331,Automated Scanner,Social Engineering,Multi-Factor Authentication,17.8,Synthetic sample data
+SYN-00935,United Arab Emirates,Asia,2023,DDoS,Manufacturing,16.92,175,Third-Party Compromise,Exposed Remote Access,Firewall,62.7,Synthetic sample data
+SYN-00936,Nigeria,Africa,2020,Zero-Day Exploit,Healthcare,45.26,29333,Nation-State Suspected,Misconfiguration,Network Monitoring,17.3,Synthetic sample data
+SYN-00937,Japan,Asia,2024,Phishing,Retail & E-commerce,12.72,2918,Unknown,Unpatched Software,Data Backup & Recovery,43.6,Synthetic sample data
+SYN-00938,Canada,North America,2020,Malware,Manufacturing,27.09,591,Third-Party Compromise,Third-Party Vulnerability,Data Backup & Recovery,10.9,Synthetic sample data
+SYN-00939,Germany,Europe,2018,Data Breach,Telecommunications,105.46,540,Botnet,Social Engineering,Multi-Factor Authentication,12.5,Synthetic sample data
+SYN-00940,Germany,Europe,2018,Phishing,Banking & Finance,0.98,815,Nation-State Suspected,Unpatched Software,Security Awareness Training,39.3,Synthetic sample data
+SYN-00941,United Arab Emirates,Asia,2021,Phishing,Transportation,7.99,39551,Nation-State Suspected,SQL Injection Flaw,Data Backup & Recovery,23.8,Synthetic sample data
+SYN-00942,Spain,Europe,2015,Malware,Manufacturing,59.44,1453,Cybercriminal Group,Zero-Day Vulnerability,Email Filtering,28.6,Synthetic sample data
+SYN-00943,United Arab Emirates,Asia,2022,Zero-Day Exploit,Technology,49.46,952,Cybercriminal Group,Privilege Escalation,Endpoint Detection & Response,13.2,Synthetic sample data
+SYN-00944,South Korea,Asia,2018,Data Breach,Healthcare,146.05,2428,Cybercriminal Group,Misconfiguration,Not Reported,23.6,Synthetic sample data
+SYN-00945,Indonesia,Asia,2015,Ransomware,Healthcare,32.04,741,Automated Scanner,Misconfiguration,Email Filtering,16.7,Synthetic sample data
+SYN-00946,United Kingdom,Europe,2018,Malware,Retail & E-commerce,9.53,12533,Cybercriminal Group,Exposed Remote Access,Firewall,9.5,Synthetic sample data
+SYN-00947,Germany,Europe,2016,Phishing,Government,5.09,6563,Cybercriminal Group,Privilege Escalation,Email Filtering,7.1,Synthetic sample data
+SYN-00948,France,Europe,2021,DDoS,Technology,9.04,303,Phishing Campaign,Unpatched Software,Endpoint Detection & Response,22.9,Synthetic sample data
+SYN-00949,Indonesia,Asia,2020,DDoS,Telecommunications,9.69,740,Phishing Campaign,Misconfiguration,Not Reported,4.2,Synthetic sample data
+SYN-00950,United States,North America,2020,Phishing,Banking & Finance,12.61,5539,Phishing Campaign,Third-Party Vulnerability,Patch Management,24.9,Synthetic sample data
+SYN-00951,Spain,Europe,2022,Malware,Healthcare,35.82,2621,Botnet,Exposed Remote Access,Incident Response Team,7.0,Synthetic sample data
+SYN-00952,United Kingdom,Europe,2022,DDoS,Healthcare,33.87,663,Botnet,Social Engineering,Data Backup & Recovery,6.9,Synthetic sample data
+SYN-00953,Singapore,Asia,2021,Phishing,Manufacturing,22.89,10560,Unknown,Privilege Escalation,Not Reported,45.7,Synthetic sample data
+SYN-00954,Nigeria,Africa,2017,Ransomware,Energy,43.44,3181,Nation-State Suspected,Privilege Escalation,Endpoint Detection & Response,35.9,Synthetic sample data
+SYN-00955,Mexico,North America,2019,Malware,Manufacturing,14.16,7572,Nation-State Suspected,Third-Party Vulnerability,Not Reported,6.1,Synthetic sample data
+SYN-00956,Netherlands,Europe,2023,Insider Threat,Transportation,6.19,723,Botnet,Privilege Escalation,Network Monitoring,20.0,Synthetic sample data
+SYN-00957,France,Europe,2019,SQL Injection,Transportation,95.17,887,Insider,SQL Injection Flaw,Network Monitoring,34.9,Synthetic sample data
+SYN-00958,Nigeria,Africa,2019,Ransomware,Technology,258.28,207,Insider,Not Specified,Firewall,47.5,Synthetic sample data
+SYN-00959,Australia,Oceania,2022,DDoS,Government,1.23,2873,Phishing Campaign,Zero-Day Vulnerability,Security Awareness Training,22.8,Synthetic sample data
+SYN-00960,Canada,North America,2021,Malware,Education,4.66,1666,Automated Scanner,Third-Party Vulnerability,Network Monitoring,18.1,Synthetic sample data
+SYN-00961,India,Asia,2021,Data Breach,Telecommunications,30.53,939,Phishing Campaign,Privilege Escalation,Data Backup & Recovery,28.1,Synthetic sample data
+SYN-00962,Indonesia,Asia,2023,Ransomware,Healthcare,230.25,331,Unknown,Social Engineering,Multi-Factor Authentication,33.9,Synthetic sample data
+SYN-00963,Nigeria,Africa,2018,Ransomware,Transportation,97.47,1553,Nation-State Suspected,Third-Party Vulnerability,Network Monitoring,5.6,Synthetic sample data
+SYN-00964,Mexico,North America,2018,DDoS,Banking & Finance,6.3,505,Botnet,Unpatched Software,Not Reported,10.5,Synthetic sample data
+SYN-00965,Canada,North America,2019,Phishing,Retail & E-commerce,9.64,7301,Nation-State Suspected,Exposed Remote Access,Not Reported,15.3,Synthetic sample data
+SYN-00966,Mexico,North America,2024,Business Email Compromise,Banking & Finance,13.66,988,Nation-State Suspected,Social Engineering,Email Filtering,16.7,Synthetic sample data
+SYN-00967,South Korea,Asia,2024,Phishing,Government,4.19,1058,Phishing Campaign,Not Specified,Data Backup & Recovery,6.8,Synthetic sample data
+SYN-00968,Canada,North America,2021,Data Breach,Telecommunications,49.69,2977,Cybercriminal Group,Not Specified,Security Awareness Training,6.4,Synthetic sample data
+SYN-00969,South Korea,Asia,2021,Phishing,Education,10.4,15799,Third-Party Compromise,Social Engineering,Patch Management,29.4,Synthetic sample data
+SYN-00970,India,Asia,2021,Malware,Retail & E-commerce,33.86,496,Phishing Campaign,Misconfiguration,Endpoint Detection & Response,11.9,Synthetic sample data
+SYN-00971,Brazil,South America,2021,Ransomware,Government,263.25,2519,Insider,Exposed Remote Access,Patch Management,40.8,Synthetic sample data
+SYN-00972,Spain,Europe,2021,SQL Injection,Retail & E-commerce,28.13,670,Cybercriminal Group,Social Engineering,Not Reported,13.8,Synthetic sample data
+SYN-00973,Japan,Asia,2017,DDoS,Government,13.91,1351,Insider,Weak Passwords,Network Monitoring,10.6,Synthetic sample data
+SYN-00974,Saudi Arabia,Asia,2020,DDoS,Education,7.27,357,Automated Scanner,Social Engineering,Email Filtering,22.3,Synthetic sample data
+SYN-00975,Mexico,North America,2017,Phishing,Telecommunications,12.25,8393,Automated Scanner,Exposed Remote Access,Incident Response Team,35.3,Synthetic sample data
+SYN-00976,Saudi Arabia,Asia,2024,Data Breach,Technology,73.87,8292,Nation-State Suspected,Third-Party Vulnerability,Data Backup & Recovery,15.5,Synthetic sample data
+SYN-00977,Australia,Oceania,2021,Business Email Compromise,Government,47.05,534,Automated Scanner,Not Specified,Firewall,16.0,Synthetic sample data
+SYN-00978,South Korea,Asia,2020,SQL Injection,Telecommunications,11.41,1797,Botnet,Exposed Remote Access,Multi-Factor Authentication,13.2,Synthetic sample data
+SYN-00979,Mexico,North America,2021,Phishing,Education,6.0,9174,Third-Party Compromise,Third-Party Vulnerability,Incident Response Team,13.4,Synthetic sample data
+SYN-00980,Italy,Europe,2017,Phishing,Healthcare,2.33,3568,Botnet,Third-Party Vulnerability,Patch Management,15.1,Synthetic sample data
+SYN-00981,Saudi Arabia,Asia,2022,Ransomware,Manufacturing,170.28,1034,Nation-State Suspected,SQL Injection Flaw,Multi-Factor Authentication,42.1,Synthetic sample data
+SYN-00982,Netherlands,Europe,2023,Phishing,Government,32.29,540,Unknown,SQL Injection Flaw,Email Filtering,11.9,Synthetic sample data
+SYN-00983,India,Asia,2019,Phishing,Government,34.24,18054,Insider,Exposed Remote Access,Not Reported,5.3,Synthetic sample data
+SYN-00984,Germany,Europe,2016,Data Breach,Manufacturing,50.98,3485,Third-Party Compromise,Privilege Escalation,Patch Management,4.9,Synthetic sample data
+SYN-00985,Netherlands,Europe,2023,Data Breach,Transportation,32.56,7901,Insider,Social Engineering,Multi-Factor Authentication,4.8,Synthetic sample data
+SYN-00986,France,Europe,2016,Credential Theft,Energy,15.17,256,Insider,Social Engineering,Security Awareness Training,9.1,Synthetic sample data
+SYN-00987,Nigeria,Africa,2024,Ransomware,Healthcare,31.16,406,Insider,Misconfiguration,Not Reported,60.3,Synthetic sample data
+SYN-00988,Nigeria,Africa,2017,Malware,Banking & Finance,11.45,1044,Third-Party Compromise,SQL Injection Flaw,Endpoint Detection & Response,14.9,Synthetic sample data
+SYN-00989,Canada,North America,2024,Credential Theft,Manufacturing,48.61,2269,Botnet,Not Specified,Network Monitoring,7.6,Synthetic sample data
+SYN-00990,Brazil,South America,2015,Phishing,Government,40.31,18217,Cybercriminal Group,Misconfiguration,Patch Management,11.3,Synthetic sample data
+SYN-00991,India,Asia,2017,SQL Injection,Manufacturing,56.67,720,Phishing Campaign,Weak Passwords,Not Reported,19.0,Synthetic sample data
+SYN-00992,South Korea,Asia,2024,Credential Theft,Government,8.42,988,Phishing Campaign,Privilege Escalation,Not Reported,8.1,Synthetic sample data
+SYN-00993,South Korea,Asia,2020,Insider Threat,Education,48.7,5034,Nation-State Suspected,Exposed Remote Access,Data Backup & Recovery,12.7,Synthetic sample data
+SYN-00994,Brazil,South America,2017,Phishing,Banking & Finance,18.52,1515,Phishing Campaign,Misconfiguration,Endpoint Detection & Response,9.4,Synthetic sample data
+SYN-00995,Nigeria,Africa,2016,Insider Threat,Energy,37.29,977,Nation-State Suspected,Social Engineering,Email Filtering,28.6,Synthetic sample data
+SYN-00996,Spain,Europe,2022,Data Breach,Technology,319.21,7581,Third-Party Compromise,Privilege Escalation,Firewall,27.2,Synthetic sample data
+SYN-00997,Japan,Asia,2019,Malware,Telecommunications,51.77,681,Third-Party Compromise,Misconfiguration,Multi-Factor Authentication,27.3,Synthetic sample data
+SYN-00998,Saudi Arabia,Asia,2020,Ransomware,Healthcare,23.28,4173,Automated Scanner,Third-Party Vulnerability,Security Awareness Training,28.3,Synthetic sample data
+SYN-00999,Italy,Europe,2024,Data Breach,Transportation,28.9,2923,Insider,Exposed Remote Access,Multi-Factor Authentication,12.0,Synthetic sample data
+SYN-01000,United Kingdom,Europe,2022,Credential Theft,Technology,8.31,1828,Automated Scanner,Not Specified,Not Reported,8.7,Synthetic sample data
+SYN-01001,India,Asia,2018,Data Breach,Transportation,116.58,15852,Nation-State Suspected,Exposed Remote Access,Patch Management,66.0,Synthetic sample data
+SYN-01002,India,Asia,2022,Zero-Day Exploit,Retail & E-commerce,179.62,2247,Nation-State Suspected,Unpatched Software,Security Awareness Training,24.9,Synthetic sample data
+SYN-01003,Canada,North America,2022,Phishing,Government,18.0,6312,Nation-State Suspected,Misconfiguration,Patch Management,10.9,Synthetic sample data
+SYN-01004,South Africa,Africa,2019,Zero-Day Exploit,Energy,556.25,354,Phishing Campaign,Unpatched Software,Firewall,50.1,Synthetic sample data
+SYN-01005,Germany,Europe,2022,Data Breach,Education,25.22,915,Phishing Campaign,SQL Injection Flaw,Endpoint Detection & Response,17.8,Synthetic sample data
+SYN-01006,Australia,Oceania,2022,Zero-Day Exploit,Manufacturing,131.67,17801,Cybercriminal Group,SQL Injection Flaw,Data Backup & Recovery,24.5,Synthetic sample data
+SYN-01007,Saudi Arabia,Asia,2022,Business Email Compromise,Healthcare,69.63,1873,Insider,Privilege Escalation,Incident Response Team,6.5,Synthetic sample data
+SYN-01008,United States,North America,2024,Malware,Manufacturing,31.49,579,Third-Party Compromise,Exposed Remote Access,Multi-Factor Authentication,3.2,Synthetic sample data
+SYN-01009,Singapore,Asia,2016,Data Breach,Banking & Finance,42.51,153,Third-Party Compromise,Social Engineering,Patch Management,12.1,Synthetic sample data
+SYN-01010,South Africa,Africa,2021,Phishing,Education,35.72,1810,Third-Party Compromise,Misconfiguration,Endpoint Detection & Response,11.1,Synthetic sample data
+SYN-01011,Germany,Europe,2017,DDoS,Transportation,1.21,1646,Phishing Campaign,Social Engineering,Multi-Factor Authentication,18.7,Synthetic sample data
+SYN-01012,Indonesia,Asia,2019,SQL Injection,Education,1.35,423,Phishing Campaign,Exposed Remote Access,Multi-Factor Authentication,22.5,Synthetic sample data
+SYN-01013,Germany,Europe,2024,Phishing,Telecommunications,9.08,6493,Cybercriminal Group,Privilege Escalation,Network Monitoring,13.1,Synthetic sample data
+SYN-01014,Netherlands,Europe,2016,Data Breach,Banking & Finance,135.91,2559,Automated Scanner,Social Engineering,Firewall,71.4,Synthetic sample data
+SYN-01015,Australia,Oceania,2022,DDoS,Banking & Finance,19.37,1450,Unknown,Social Engineering,Not Reported,12.7,Synthetic sample data
+SYN-01016,Netherlands,Europe,2019,Ransomware,Transportation,81.2,6104,Phishing Campaign,Exposed Remote Access,Patch Management,17.6,Synthetic sample data
+SYN-01017,Brazil,South America,2024,Phishing,Transportation,17.41,635,Phishing Campaign,Social Engineering,Firewall,33.7,Synthetic sample data
+SYN-01018,Germany,Europe,2024,Phishing,Retail & E-commerce,4.65,211,Phishing Campaign,Weak Passwords,Data Backup & Recovery,11.8,Synthetic sample data
+SYN-01019,Italy,Europe,2019,Malware,Retail & E-commerce,3.14,9908,Botnet,Social Engineering,Data Backup & Recovery,13.2,Synthetic sample data
+SYN-01020,Nigeria,Africa,2015,Ransomware,Technology,119.81,714,Automated Scanner,Misconfiguration,Multi-Factor Authentication,20.1,Synthetic sample data
+SYN-01021,Japan,Asia,2021,Business Email Compromise,Telecommunications,15.66,985,Phishing Campaign,Not Specified,Email Filtering,10.2,Synthetic sample data
+SYN-01022,Mexico,North America,2019,Phishing,Retail & E-commerce,42.31,3166,Automated Scanner,Misconfiguration,Multi-Factor Authentication,9.6,Synthetic sample data
+SYN-01023,United Arab Emirates,Asia,2023,Ransomware,Healthcare,133.02,677,Nation-State Suspected,Third-Party Vulnerability,Patch Management,116.3,Synthetic sample data
+SYN-01024,Indonesia,Asia,2024,DDoS,Energy,5.23,1694,Botnet,Privilege Escalation,Incident Response Team,8.8,Synthetic sample data
+SYN-01025,Nigeria,Africa,2019,Data Breach,Education,45.29,1318,Insider,Exposed Remote Access,Not Reported,31.3,Synthetic sample data
+SYN-01026,Singapore,Asia,2020,Malware,Retail & E-commerce,16.58,1996,Third-Party Compromise,Privilege Escalation,Security Awareness Training,29.2,Synthetic sample data
+SYN-01027,India,Asia,2018,Malware,Energy,19.35,2379,Phishing Campaign,Unpatched Software,Incident Response Team,9.0,Synthetic sample data
+SYN-01028,Netherlands,Europe,2021,Phishing,Education,7.6,7894,Automated Scanner,Social Engineering,Endpoint Detection & Response,30.0,Synthetic sample data
+SYN-01029,India,Asia,2022,Data Breach,Energy,76.19,1880,Botnet,Weak Passwords,Email Filtering,5.5,Synthetic sample data
+SYN-01030,Netherlands,Europe,2019,Phishing,Manufacturing,1.71,693,Third-Party Compromise,Privilege Escalation,Incident Response Team,10.7,Synthetic sample data
+SYN-01031,India,Asia,2017,Phishing,Retail & E-commerce,8.92,1325,Insider,Misconfiguration,Patch Management,6.8,Synthetic sample data
+SYN-01032,South Africa,Africa,2021,Phishing,Healthcare,2.82,2937,Botnet,Privilege Escalation,Data Backup & Recovery,23.9,Synthetic sample data
+SYN-01033,Brazil,South America,2021,Phishing,Retail & E-commerce,18.55,3068,Botnet,Zero-Day Vulnerability,Incident Response Team,12.1,Synthetic sample data
+SYN-01034,Saudi Arabia,Asia,2023,Data Breach,Retail & E-commerce,96.18,1372,Automated Scanner,Exposed Remote Access,Firewall,5.0,Synthetic sample data
+SYN-01035,United States,North America,2018,Malware,Technology,2.51,3576,Automated Scanner,Unpatched Software,Not Reported,7.2,Synthetic sample data
+SYN-01036,Netherlands,Europe,2017,Phishing,Government,45.16,13810,Insider,Misconfiguration,Security Awareness Training,8.6,Synthetic sample data
+SYN-01037,Singapore,Asia,2023,DDoS,Education,6.36,538,Nation-State Suspected,SQL Injection Flaw,Incident Response Team,7.0,Synthetic sample data
+SYN-01038,Italy,Europe,2017,Data Breach,Healthcare,69.44,1005,Unknown,Third-Party Vulnerability,Endpoint Detection & Response,63.2,Synthetic sample data
+SYN-01039,United States,North America,2015,Phishing,Government,9.18,811,Phishing Campaign,Unpatched Software,Security Awareness Training,19.6,Synthetic sample data
+SYN-01040,Saudi Arabia,Asia,2015,Data Breach,Manufacturing,105.46,1376,Third-Party Compromise,Exposed Remote Access,Endpoint Detection & Response,7.1,Synthetic sample data
+SYN-01041,Brazil,South America,2024,Data Breach,Energy,44.85,841,Automated Scanner,Zero-Day Vulnerability,Email Filtering,7.2,Synthetic sample data
+SYN-01042,India,Asia,2023,Malware,Banking & Finance,11.17,838,Cybercriminal Group,Not Specified,Multi-Factor Authentication,17.1,Synthetic sample data
+SYN-01043,Mexico,North America,2021,DDoS,Retail & E-commerce,116.39,1033,Unknown,Misconfiguration,Patch Management,12.7,Synthetic sample data
+SYN-01044,Netherlands,Europe,2021,Business Email Compromise,Energy,26.42,2207,Cybercriminal Group,Privilege Escalation,Multi-Factor Authentication,15.3,Synthetic sample data
+SYN-01045,United States,North America,2024,Business Email Compromise,Energy,13.27,2463,Botnet,Misconfiguration,Endpoint Detection & Response,23.4,Synthetic sample data
+SYN-01046,Spain,Europe,2022,SQL Injection,Retail & E-commerce,20.04,797,Insider,Exposed Remote Access,Security Awareness Training,19.9,Synthetic sample data
+SYN-01047,Japan,Asia,2023,DDoS,Education,22.54,20060,Unknown,Zero-Day Vulnerability,Firewall,15.1,Synthetic sample data
+SYN-01048,France,Europe,2016,Malware,Banking & Finance,16.02,3185,Unknown,Zero-Day Vulnerability,Data Backup & Recovery,52.2,Synthetic sample data
+SYN-01049,United Arab Emirates,Asia,2020,DDoS,Government,23.46,233,Nation-State Suspected,Social Engineering,Multi-Factor Authentication,37.8,Synthetic sample data
+SYN-01050,Italy,Europe,2023,SQL Injection,Banking & Finance,4.39,1650,Insider,Unpatched Software,Network Monitoring,6.6,Synthetic sample data
+SYN-01051,Brazil,South America,2022,Data Breach,Banking & Finance,53.47,5783,Third-Party Compromise,Weak Passwords,Patch Management,29.6,Synthetic sample data
+SYN-01052,United Arab Emirates,Asia,2018,Credential Theft,Education,123.88,2526,Third-Party Compromise,Unpatched Software,Data Backup & Recovery,25.3,Synthetic sample data
+SYN-01053,South Korea,Asia,2016,DDoS,Transportation,13.39,309,Insider,Social Engineering,Not Reported,29.3,Synthetic sample data
+SYN-01054,Singapore,Asia,2021,Phishing,Energy,98.47,1111,Unknown,Third-Party Vulnerability,Incident Response Team,14.8,Synthetic sample data
+SYN-01055,France,Europe,2019,Credential Theft,Transportation,126.72,793,Phishing Campaign,Exposed Remote Access,Multi-Factor Authentication,3.6,Synthetic sample data
+SYN-01056,United Kingdom,Europe,2019,Data Breach,Healthcare,23.94,2627,Nation-State Suspected,Unpatched Software,Incident Response Team,25.0,Synthetic sample data
+SYN-01057,Australia,Oceania,2024,Data Breach,Government,21.25,825,Phishing Campaign,Social Engineering,Email Filtering,22.1,Synthetic sample data
+SYN-01058,Indonesia,Asia,2021,Insider Threat,Banking & Finance,0.65,3487,Third-Party Compromise,Weak Passwords,Network Monitoring,9.6,Synthetic sample data
+SYN-01059,India,Asia,2018,SQL Injection,Banking & Finance,12.18,16824,Insider,SQL Injection Flaw,Data Backup & Recovery,11.0,Synthetic sample data
+SYN-01060,United Kingdom,Europe,2020,Insider Threat,Retail & E-commerce,12.9,304,Phishing Campaign,Misconfiguration,Security Awareness Training,18.2,Synthetic sample data
+SYN-01061,Germany,Europe,2022,Data Breach,Telecommunications,84.79,1051,Unknown,Third-Party Vulnerability,Firewall,26.5,Synthetic sample data
+SYN-01062,Canada,North America,2022,Credential Theft,Energy,4.05,1714,Botnet,Exposed Remote Access,Multi-Factor Authentication,8.1,Synthetic sample data
+SYN-01063,United States,North America,2024,Credential Theft,Energy,99.66,817,Third-Party Compromise,Not Specified,Not Reported,3.6,Synthetic sample data
+SYN-01064,Netherlands,Europe,2024,Insider Threat,Technology,67.24,5611,Unknown,Zero-Day Vulnerability,Incident Response Team,6.3,Synthetic sample data
+SYN-01065,Brazil,South America,2023,Business Email Compromise,Transportation,8.1,243,Unknown,Not Specified,Security Awareness Training,44.8,Synthetic sample data
+SYN-01066,Australia,Oceania,2017,SQL Injection,Healthcare,163.52,988,Botnet,Social Engineering,Patch Management,18.9,Synthetic sample data
+SYN-01067,Indonesia,Asia,2022,Phishing,Healthcare,14.6,709,Automated Scanner,Exposed Remote Access,Multi-Factor Authentication,19.6,Synthetic sample data
+SYN-01068,Saudi Arabia,Asia,2020,Data Breach,Energy,17.72,6198,Botnet,Third-Party Vulnerability,Multi-Factor Authentication,11.1,Synthetic sample data
+SYN-01069,Brazil,South America,2021,DDoS,Manufacturing,2.88,1652,Botnet,Exposed Remote Access,Patch Management,109.8,Synthetic sample data
+SYN-01070,Australia,Oceania,2015,DDoS,Technology,29.29,3196,Phishing Campaign,Misconfiguration,Security Awareness Training,6.4,Synthetic sample data
+SYN-01071,South Africa,Africa,2023,Ransomware,Banking & Finance,88.44,10347,Cybercriminal Group,Misconfiguration,Email Filtering,23.9,Synthetic sample data
+SYN-01072,United Kingdom,Europe,2018,Credential Theft,Manufacturing,13.0,1815,Cybercriminal Group,Weak Passwords,Endpoint Detection & Response,19.2,Synthetic sample data
+SYN-01073,Singapore,Asia,2015,Malware,Government,41.8,349,Insider,Not Specified,Email Filtering,20.3,Synthetic sample data
+SYN-01074,Spain,Europe,2022,Malware,Education,42.38,428,Unknown,Misconfiguration,Multi-Factor Authentication,56.4,Synthetic sample data
+SYN-01075,Saudi Arabia,Asia,2017,Ransomware,Energy,18.97,4758,Phishing Campaign,Privilege Escalation,Email Filtering,51.1,Synthetic sample data
+SYN-01076,Mexico,North America,2016,Malware,Healthcare,11.45,484,Automated Scanner,Weak Passwords,Security Awareness Training,20.5,Synthetic sample data
+SYN-01077,Spain,Europe,2023,DDoS,Manufacturing,8.06,2101,Unknown,Unpatched Software,Security Awareness Training,12.5,Synthetic sample data
+SYN-01078,Japan,Asia,2024,Ransomware,Government,41.48,287,Unknown,Zero-Day Vulnerability,Incident Response Team,93.6,Synthetic sample data
+SYN-01079,Mexico,North America,2022,DDoS,Government,6.78,294,Automated Scanner,Privilege Escalation,Incident Response Team,35.6,Synthetic sample data
+SYN-01080,Japan,Asia,2016,Data Breach,Education,51.27,2268,Unknown,Misconfiguration,Not Reported,19.2,Synthetic sample data
+SYN-01081,Nigeria,Africa,2018,SQL Injection,Energy,3.34,941,Insider,Unpatched Software,Incident Response Team,4.9,Synthetic sample data
+SYN-01082,United States,North America,2022,Business Email Compromise,Transportation,25.01,68,Unknown,Exposed Remote Access,Endpoint Detection & Response,10.0,Synthetic sample data
+SYN-01083,Brazil,South America,2015,Malware,Banking & Finance,4.96,910,Unknown,Third-Party Vulnerability,Firewall,14.5,Synthetic sample data
+SYN-01084,United Kingdom,Europe,2023,Data Breach,Government,23.27,1971,Phishing Campaign,Not Specified,Firewall,24.9,Synthetic sample data
+SYN-01085,Nigeria,Africa,2024,Data Breach,Education,28.18,5023,Cybercriminal Group,Misconfiguration,Firewall,24.4,Synthetic sample data
+SYN-01086,Saudi Arabia,Asia,2019,DDoS,Education,4.75,1425,Botnet,Zero-Day Vulnerability,Not Reported,20.7,Synthetic sample data
+SYN-01087,South Korea,Asia,2023,DDoS,Banking & Finance,35.16,1556,Automated Scanner,Unpatched Software,Network Monitoring,15.6,Synthetic sample data
+SYN-01088,Japan,Asia,2015,Insider Threat,Telecommunications,24.01,1036,Nation-State Suspected,Exposed Remote Access,Endpoint Detection & Response,83.8,Synthetic sample data
+SYN-01089,Italy,Europe,2022,Data Breach,Government,49.37,22876,Botnet,SQL Injection Flaw,Incident Response Team,18.4,Synthetic sample data
+SYN-01090,United States,North America,2021,Data Breach,Retail & E-commerce,268.31,1126,Third-Party Compromise,Weak Passwords,Patch Management,11.6,Synthetic sample data
+SYN-01091,India,Asia,2015,Data Breach,Government,78.69,1757,Nation-State Suspected,Third-Party Vulnerability,Firewall,36.5,Synthetic sample data
+SYN-01092,Netherlands,Europe,2021,Phishing,Manufacturing,14.17,2788,Nation-State Suspected,Misconfiguration,Security Awareness Training,10.8,Synthetic sample data
+SYN-01093,Canada,North America,2018,DDoS,Transportation,21.55,1471,Phishing Campaign,SQL Injection Flaw,Data Backup & Recovery,47.3,Synthetic sample data
+SYN-01094,Singapore,Asia,2021,Phishing,Transportation,2.28,1134,Botnet,Exposed Remote Access,Not Reported,20.7,Synthetic sample data
+SYN-01095,Italy,Europe,2016,DDoS,Technology,62.02,646,Third-Party Compromise,SQL Injection Flaw,Multi-Factor Authentication,29.3,Synthetic sample data
+SYN-01096,Saudi Arabia,Asia,2020,Business Email Compromise,Education,7.96,147,Nation-State Suspected,Social Engineering,Multi-Factor Authentication,17.0,Synthetic sample data
+SYN-01097,Germany,Europe,2022,DDoS,Government,32.03,120,Cybercriminal Group,Social Engineering,Incident Response Team,8.0,Synthetic sample data
+SYN-01098,Mexico,North America,2019,Phishing,Education,22.0,1262,Automated Scanner,Unpatched Software,Network Monitoring,19.5,Synthetic sample data
+SYN-01099,Nigeria,Africa,2022,Business Email Compromise,Energy,28.58,227,Phishing Campaign,Social Engineering,Data Backup & Recovery,9.2,Synthetic sample data
+SYN-01100,Italy,Europe,2016,Data Breach,Energy,113.4,1711,Automated Scanner,Third-Party Vulnerability,Multi-Factor Authentication,17.0,Synthetic sample data
+SYN-01101,United Arab Emirates,Asia,2021,Phishing,Government,0.43,12549,Third-Party Compromise,Third-Party Vulnerability,Data Backup & Recovery,11.2,Synthetic sample data
+SYN-01102,Indonesia,Asia,2022,Ransomware,Government,138.37,3751,Botnet,Privilege Escalation,Network Monitoring,48.5,Synthetic sample data
+SYN-01103,Nigeria,Africa,2020,Credential Theft,Manufacturing,41.63,928,Nation-State Suspected,Misconfiguration,Incident Response Team,13.7,Synthetic sample data
+SYN-01104,Canada,North America,2016,Insider Threat,Government,18.41,292,Phishing Campaign,SQL Injection Flaw,Network Monitoring,17.7,Synthetic sample data
+SYN-01105,Germany,Europe,2019,Ransomware,Energy,101.18,318,Unknown,Exposed Remote Access,Not Reported,88.1,Synthetic sample data
+SYN-01106,South Africa,Africa,2021,Phishing,Banking & Finance,29.85,139,Botnet,SQL Injection Flaw,Incident Response Team,54.8,Synthetic sample data
+SYN-01107,Germany,Europe,2017,Phishing,Healthcare,3.54,1254,Botnet,Social Engineering,Not Reported,4.3,Synthetic sample data
+SYN-01108,South Korea,Asia,2020,Phishing,Government,31.27,1145,Automated Scanner,Exposed Remote Access,Incident Response Team,12.0,Synthetic sample data
+SYN-01109,France,Europe,2020,DDoS,Education,3.41,700,Automated Scanner,Misconfiguration,Data Backup & Recovery,11.9,Synthetic sample data
+SYN-01110,India,Asia,2023,Credential Theft,Telecommunications,1.43,900,Phishing Campaign,Privilege Escalation,Firewall,20.0,Synthetic sample data
+SYN-01111,Saudi Arabia,Asia,2018,Business Email Compromise,Government,62.5,1894,Phishing Campaign,Exposed Remote Access,Network Monitoring,17.7,Synthetic sample data
+SYN-01112,Japan,Asia,2020,Data Breach,Retail & E-commerce,106.47,1836,Insider,SQL Injection Flaw,Incident Response Team,16.3,Synthetic sample data
+SYN-01113,Mexico,North America,2019,Ransomware,Banking & Finance,835.32,1322,Third-Party Compromise,Zero-Day Vulnerability,Patch Management,59.8,Synthetic sample data
+SYN-01114,Netherlands,Europe,2022,Phishing,Transportation,4.57,5251,Botnet,Privilege Escalation,Endpoint Detection & Response,22.4,Synthetic sample data
+SYN-01115,Singapore,Asia,2017,DDoS,Energy,5.75,2103,Insider,Misconfiguration,Firewall,15.4,Synthetic sample data
+SYN-01116,South Korea,Asia,2023,DDoS,Transportation,44.82,11467,Automated Scanner,SQL Injection Flaw,Security Awareness Training,13.4,Synthetic sample data
+SYN-01117,Indonesia,Asia,2021,Insider Threat,Banking & Finance,19.84,2608,Insider,Weak Passwords,Patch Management,11.4,Synthetic sample data
+SYN-01118,United Arab Emirates,Asia,2017,Insider Threat,Transportation,32.84,5431,Phishing Campaign,Weak Passwords,Firewall,9.3,Synthetic sample data
+SYN-01119,France,Europe,2023,Phishing,Transportation,8.27,628,Insider,Weak Passwords,Not Reported,10.4,Synthetic sample data
+SYN-01120,Australia,Oceania,2017,Phishing,Telecommunications,17.28,709,Unknown,Privilege Escalation,Firewall,9.9,Synthetic sample data
+SYN-01121,Germany,Europe,2024,Business Email Compromise,Telecommunications,8.25,1700,Botnet,SQL Injection Flaw,Incident Response Team,11.1,Synthetic sample data
+SYN-01122,Japan,Asia,2022,Data Breach,Education,20.67,1587,Phishing Campaign,Misconfiguration,Patch Management,18.7,Synthetic sample data
+SYN-01123,Brazil,South America,2017,DDoS,Technology,50.13,455,Botnet,Weak Passwords,Not Reported,61.0,Synthetic sample data
+SYN-01124,United States,North America,2018,Data Breach,Transportation,37.83,892,Third-Party Compromise,Misconfiguration,Not Reported,14.4,Synthetic sample data
+SYN-01125,Singapore,Asia,2023,Malware,Education,13.92,2304,Botnet,Social Engineering,Multi-Factor Authentication,7.6,Synthetic sample data
+SYN-01126,India,Asia,2021,Phishing,Transportation,12.47,460,Botnet,Privilege Escalation,Security Awareness Training,13.1,Synthetic sample data
+SYN-01127,United Kingdom,Europe,2021,Malware,Transportation,57.43,450,Cybercriminal Group,Exposed Remote Access,Security Awareness Training,51.7,Synthetic sample data
+SYN-01128,United States,North America,2018,Data Breach,Education,7.11,8803,Cybercriminal Group,Social Engineering,Multi-Factor Authentication,15.7,Synthetic sample data
+SYN-01129,South Korea,Asia,2020,Malware,Education,43.69,896,Phishing Campaign,SQL Injection Flaw,Email Filtering,2.9,Synthetic sample data
+SYN-01130,Brazil,South America,2019,Malware,Banking & Finance,37.86,2865,Phishing Campaign,Weak Passwords,Incident Response Team,9.5,Synthetic sample data
+SYN-01131,France,Europe,2016,Malware,Technology,25.37,2396,Cybercriminal Group,Third-Party Vulnerability,Multi-Factor Authentication,25.1,Synthetic sample data
+SYN-01132,Australia,Oceania,2023,Phishing,Telecommunications,9.99,7196,Phishing Campaign,Social Engineering,Multi-Factor Authentication,17.2,Synthetic sample data
+SYN-01133,South Africa,Africa,2018,Credential Theft,Government,3.77,176,Phishing Campaign,Social Engineering,Multi-Factor Authentication,23.5,Synthetic sample data
+SYN-01134,Nigeria,Africa,2024,Ransomware,Banking & Finance,485.85,519,Insider,Unpatched Software,Incident Response Team,25.5,Synthetic sample data
+SYN-01135,Nigeria,Africa,2021,Malware,Government,8.12,629,Phishing Campaign,SQL Injection Flaw,Not Reported,19.0,Synthetic sample data
+SYN-01136,United Kingdom,Europe,2016,Phishing,Transportation,19.41,280,Automated Scanner,Privilege Escalation,Endpoint Detection & Response,22.7,Synthetic sample data
+SYN-01137,Netherlands,Europe,2019,DDoS,Manufacturing,19.89,3062,Insider,Unpatched Software,Network Monitoring,36.3,Synthetic sample data
+SYN-01138,Saudi Arabia,Asia,2023,Zero-Day Exploit,Retail & E-commerce,88.93,3491,Phishing Campaign,Social Engineering,Email Filtering,30.6,Synthetic sample data
+SYN-01139,Nigeria,Africa,2021,Insider Threat,Government,110.47,1600,Insider,Privilege Escalation,Patch Management,77.6,Synthetic sample data
+SYN-01140,Nigeria,Africa,2017,Phishing,Energy,9.9,794,Nation-State Suspected,Not Specified,Not Reported,6.1,Synthetic sample data
+SYN-01141,Italy,Europe,2022,Credential Theft,Energy,6.22,3262,Botnet,Unpatched Software,Endpoint Detection & Response,25.3,Synthetic sample data
+SYN-01142,France,Europe,2016,Credential Theft,Energy,58.06,1870,Phishing Campaign,Social Engineering,Network Monitoring,15.4,Synthetic sample data
+SYN-01143,Germany,Europe,2016,Zero-Day Exploit,Banking & Finance,143.66,621,Nation-State Suspected,Third-Party Vulnerability,Multi-Factor Authentication,20.1,Synthetic sample data
+SYN-01144,Canada,North America,2024,Zero-Day Exploit,Energy,58.39,1069,Third-Party Compromise,Privilege Escalation,Multi-Factor Authentication,82.7,Synthetic sample data
+SYN-01145,Japan,Asia,2018,Malware,Healthcare,2.97,12908,Nation-State Suspected,Not Specified,Data Backup & Recovery,26.7,Synthetic sample data
+SYN-01146,Saudi Arabia,Asia,2021,DDoS,Energy,55.76,1898,Botnet,Privilege Escalation,Data Backup & Recovery,18.7,Synthetic sample data
+SYN-01147,Germany,Europe,2019,SQL Injection,Healthcare,14.86,1525,Unknown,Unpatched Software,Network Monitoring,15.8,Synthetic sample data
+SYN-01148,Indonesia,Asia,2023,Ransomware,Technology,131.14,3084,Third-Party Compromise,Unpatched Software,Email Filtering,10.4,Synthetic sample data
+SYN-01149,Saudi Arabia,Asia,2021,Data Breach,Education,21.17,2993,Unknown,Exposed Remote Access,Incident Response Team,15.2,Synthetic sample data
+SYN-01150,United Kingdom,Europe,2022,Phishing,Energy,3.87,6788,Third-Party Compromise,Unpatched Software,Data Backup & Recovery,17.4,Synthetic sample data
+SYN-01151,Italy,Europe,2024,Zero-Day Exploit,Retail & E-commerce,60.85,8094,Nation-State Suspected,Third-Party Vulnerability,Data Backup & Recovery,16.2,Synthetic sample data
+SYN-01152,Spain,Europe,2017,Zero-Day Exploit,Energy,72.45,2866,Automated Scanner,Not Specified,Not Reported,24.4,Synthetic sample data
+SYN-01153,Spain,Europe,2021,SQL Injection,Manufacturing,54.77,1386,Botnet,Social Engineering,Multi-Factor Authentication,46.6,Synthetic sample data
+SYN-01154,Japan,Asia,2020,SQL Injection,Education,6.57,912,Nation-State Suspected,Privilege Escalation,Firewall,64.9,Synthetic sample data
+SYN-01155,France,Europe,2015,Business Email Compromise,Technology,76.33,2413,Unknown,Unpatched Software,Email Filtering,9.2,Synthetic sample data
+SYN-01156,Indonesia,Asia,2015,DDoS,Banking & Finance,5.9,1114,Unknown,Privilege Escalation,Incident Response Team,10.5,Synthetic sample data
+SYN-01157,Japan,Asia,2021,Data Breach,Education,408.5,5914,Unknown,Not Specified,Incident Response Team,26.7,Synthetic sample data
+SYN-01158,South Africa,Africa,2023,Malware,Education,10.32,1682,Phishing Campaign,SQL Injection Flaw,Network Monitoring,15.7,Synthetic sample data
+SYN-01159,India,Asia,2018,Credential Theft,Energy,9.5,2104,Unknown,Social Engineering,Data Backup & Recovery,16.8,Synthetic sample data
+SYN-01160,United Arab Emirates,Asia,2024,Phishing,Telecommunications,17.28,1561,Cybercriminal Group,Weak Passwords,Multi-Factor Authentication,17.8,Synthetic sample data
+SYN-01161,Japan,Asia,2015,Ransomware,Technology,68.89,1042,Unknown,Zero-Day Vulnerability,Incident Response Team,25.7,Synthetic sample data
+SYN-01162,South Africa,Africa,2020,Malware,Manufacturing,23.24,184,Automated Scanner,Privilege Escalation,Network Monitoring,8.2,Synthetic sample data
+SYN-01163,Saudi Arabia,Asia,2015,Malware,Retail & E-commerce,45.81,802,Third-Party Compromise,Zero-Day Vulnerability,Data Backup & Recovery,7.2,Synthetic sample data
+SYN-01164,Singapore,Asia,2024,Data Breach,Retail & E-commerce,18.59,1011,Cybercriminal Group,Weak Passwords,Data Backup & Recovery,8.4,Synthetic sample data
+SYN-01165,Spain,Europe,2019,Malware,Manufacturing,9.52,2076,Phishing Campaign,Exposed Remote Access,Multi-Factor Authentication,17.9,Synthetic sample data
+SYN-01166,Indonesia,Asia,2023,Data Breach,Banking & Finance,7.43,13917,Cybercriminal Group,Third-Party Vulnerability,Multi-Factor Authentication,16.2,Synthetic sample data
+SYN-01167,Australia,Oceania,2016,Phishing,Transportation,30.07,208,Third-Party Compromise,Privilege Escalation,Multi-Factor Authentication,21.5,Synthetic sample data
+SYN-01168,Brazil,South America,2016,SQL Injection,Banking & Finance,2.74,1271,Insider,Third-Party Vulnerability,Patch Management,10.8,Synthetic sample data
+SYN-01169,Mexico,North America,2023,Phishing,Energy,5.74,6970,Third-Party Compromise,Misconfiguration,Network Monitoring,10.6,Synthetic sample data
+SYN-01170,France,Europe,2020,Credential Theft,Education,4.85,625,Cybercriminal Group,Weak Passwords,Data Backup & Recovery,10.0,Synthetic sample data
+SYN-01171,South Korea,Asia,2019,Business Email Compromise,Transportation,13.87,1051,Automated Scanner,Not Specified,Endpoint Detection & Response,27.6,Synthetic sample data
+SYN-01172,Japan,Asia,2022,Phishing,Retail & E-commerce,31.25,5515,Unknown,Misconfiguration,Endpoint Detection & Response,22.1,Synthetic sample data
+SYN-01173,Mexico,North America,2024,Zero-Day Exploit,Retail & E-commerce,117.59,4067,Third-Party Compromise,Third-Party Vulnerability,Incident Response Team,18.1,Synthetic sample data
+SYN-01174,India,Asia,2016,DDoS,Technology,33.35,584,Automated Scanner,Privilege Escalation,Incident Response Team,10.3,Synthetic sample data
+SYN-01175,Indonesia,Asia,2018,Credential Theft,Manufacturing,23.69,2442,Phishing Campaign,Privilege Escalation,Not Reported,25.9,Synthetic sample data
+SYN-01176,Singapore,Asia,2018,Data Breach,Healthcare,192.29,886,Botnet,Third-Party Vulnerability,Email Filtering,11.7,Synthetic sample data
+SYN-01177,Netherlands,Europe,2021,Zero-Day Exploit,Energy,48.78,2728,Botnet,Not Specified,Multi-Factor Authentication,91.7,Synthetic sample data
+SYN-01178,France,Europe,2021,Ransomware,Healthcare,247.12,1649,Unknown,Zero-Day Vulnerability,Firewall,14.1,Synthetic sample data
+SYN-01179,Germany,Europe,2017,Zero-Day Exploit,Energy,124.51,1535,Automated Scanner,Weak Passwords,Data Backup & Recovery,16.6,Synthetic sample data
+SYN-01180,Japan,Asia,2015,Phishing,Energy,8.75,9613,Unknown,Privilege Escalation,Data Backup & Recovery,21.6,Synthetic sample data
+SYN-01181,Indonesia,Asia,2016,Credential Theft,Retail & E-commerce,5.9,1792,Third-Party Compromise,Exposed Remote Access,Endpoint Detection & Response,16.6,Synthetic sample data
+SYN-01182,Spain,Europe,2019,Malware,Energy,1.88,3628,Botnet,Social Engineering,Network Monitoring,3.7,Synthetic sample data
+SYN-01183,United States,North America,2022,Credential Theft,Technology,34.7,384,Botnet,Weak Passwords,Network Monitoring,7.3,Synthetic sample data
+SYN-01184,Singapore,Asia,2015,SQL Injection,Banking & Finance,16.42,4106,Unknown,Exposed Remote Access,Data Backup & Recovery,10.7,Synthetic sample data
+SYN-01185,South Korea,Asia,2023,Ransomware,Technology,29.11,496,Nation-State Suspected,Not Specified,Email Filtering,13.3,Synthetic sample data
+SYN-01186,Mexico,North America,2023,Business Email Compromise,Transportation,76.54,1502,Unknown,Misconfiguration,Data Backup & Recovery,18.8,Synthetic sample data
+SYN-01187,Netherlands,Europe,2016,Malware,Telecommunications,12.65,444,Phishing Campaign,SQL Injection Flaw,Multi-Factor Authentication,6.9,Synthetic sample data
+SYN-01188,Mexico,North America,2015,Data Breach,Retail & E-commerce,77.1,14389,Botnet,Weak Passwords,Endpoint Detection & Response,27.4,Synthetic sample data
+SYN-01189,Japan,Asia,2021,Phishing,Healthcare,23.31,4832,Cybercriminal Group,Not Specified,Network Monitoring,7.2,Synthetic sample data
+SYN-01190,South Africa,Africa,2016,Data Breach,Government,85.66,9859,Automated Scanner,Zero-Day Vulnerability,Data Backup & Recovery,8.8,Synthetic sample data
+SYN-01191,Netherlands,Europe,2021,Insider Threat,Technology,12.28,806,Nation-State Suspected,Misconfiguration,Firewall,6.2,Synthetic sample data
+SYN-01192,France,Europe,2017,Phishing,Energy,9.41,512,Third-Party Compromise,Zero-Day Vulnerability,Network Monitoring,6.9,Synthetic sample data
+SYN-01193,Netherlands,Europe,2015,Insider Threat,Banking & Finance,1.07,1215,Phishing Campaign,Exposed Remote Access,Security Awareness Training,15.8,Synthetic sample data
+SYN-01194,Japan,Asia,2023,Data Breach,Education,35.43,12065,Cybercriminal Group,Weak Passwords,Endpoint Detection & Response,9.9,Synthetic sample data
+SYN-01195,South Korea,Asia,2018,Phishing,Technology,7.15,668,Phishing Campaign,Exposed Remote Access,Incident Response Team,20.7,Synthetic sample data
+SYN-01196,India,Asia,2016,Phishing,Manufacturing,4.55,4374,Cybercriminal Group,Not Specified,Firewall,5.2,Synthetic sample data
+SYN-01197,Australia,Oceania,2015,Phishing,Healthcare,8.1,14554,Unknown,Not Specified,Network Monitoring,44.1,Synthetic sample data
+SYN-01198,South Africa,Africa,2023,Data Breach,Education,40.57,2753,Insider,Misconfiguration,Not Reported,30.2,Synthetic sample data
+SYN-01199,Saudi Arabia,Asia,2019,Ransomware,Telecommunications,50.38,1043,Phishing Campaign,Exposed Remote Access,Endpoint Detection & Response,40.8,Synthetic sample data
+SYN-01200,United Kingdom,Europe,2015,Ransomware,Banking & Finance,78.4,1947,Botnet,SQL Injection Flaw,Incident Response Team,48.8,Synthetic sample data
